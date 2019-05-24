@@ -1,0 +1,2425 @@
+[17:42:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:42:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:42:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:42:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:42:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:42:09] [Server thread/INFO]: Starting minecraft server version 1.14.1
+[17:42:09] [Server thread/INFO]: Loading properties
+[17:42:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:42:09] [Server thread/INFO]: Generating keypair
+[17:42:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:42:09] [Server thread/INFO]: Using default channel type
+[17:42:11] [Server thread/INFO]: Preparing level "world"
+[17:42:11] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[17:42:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:42:13] [Server thread/INFO]: Loaded 6 recipes
+[17:42:16] [Server thread/INFO]: Loaded 811 advancements
+[17:42:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:42:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:23] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:23] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:23] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:24] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:42:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:42:26] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:27] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:27] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:27] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:42:28] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:28] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:42:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:42:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:42:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:42:30] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:42:31] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[17:42:32] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:42:32] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[17:42:33] [Server-Worker-7/INFO]: Preparing spawn area: 1%
+[17:42:33] [Server-Worker-5/INFO]: Preparing spawn area: 1%
+[17:42:34] [Server-Worker-5/INFO]: Preparing spawn area: 2%
+[17:42:34] [Server-Worker-1/INFO]: Preparing spawn area: 4%
+[17:42:35] [Server-Worker-3/INFO]: Preparing spawn area: 4%
+[17:42:35] [Server-Worker-7/INFO]: Preparing spawn area: 4%
+[17:42:36] [Server-Worker-5/INFO]: Preparing spawn area: 4%
+[17:42:36] [Server-Worker-3/INFO]: Preparing spawn area: 4%
+[17:42:37] [Server-Worker-7/INFO]: Preparing spawn area: 5%
+[17:42:37] [Server-Worker-2/INFO]: Preparing spawn area: 5%
+[17:42:38] [Server-Worker-5/INFO]: Preparing spawn area: 6%
+[17:42:38] [Server-Worker-8/INFO]: Preparing spawn area: 7%
+[17:42:39] [Server-Worker-7/INFO]: Preparing spawn area: 8%
+[17:42:39] [Server-Worker-2/INFO]: Preparing spawn area: 8%
+[17:42:40] [Server-Worker-1/INFO]: Preparing spawn area: 11%
+[17:42:40] [Server-Worker-8/INFO]: Preparing spawn area: 14%
+[17:42:41] [Server-Worker-5/INFO]: Preparing spawn area: 16%
+[17:42:41] [Server-Worker-7/INFO]: Preparing spawn area: 17%
+[17:42:42] [Server-Worker-8/INFO]: Preparing spawn area: 19%
+[17:42:42] [Server-Worker-8/INFO]: Preparing spawn area: 19%
+[17:42:43] [Server-Worker-7/INFO]: Preparing spawn area: 20%
+[17:42:43] [Server-Worker-2/INFO]: Preparing spawn area: 20%
+[17:42:44] [Server-Worker-7/INFO]: Preparing spawn area: 20%
+[17:42:44] [Server-Worker-1/INFO]: Preparing spawn area: 21%
+[17:42:45] [Server-Worker-8/INFO]: Preparing spawn area: 24%
+[17:42:45] [Server-Worker-8/INFO]: Preparing spawn area: 26%
+[17:42:46] [Server-Worker-5/INFO]: Preparing spawn area: 27%
+[17:42:46] [Server-Worker-3/INFO]: Preparing spawn area: 27%
+[17:42:47] [Server-Worker-1/INFO]: Preparing spawn area: 28%
+[17:42:47] [Server-Worker-4/INFO]: Preparing spawn area: 28%
+[17:42:48] [Server-Worker-5/INFO]: Preparing spawn area: 28%
+[17:42:48] [Server-Worker-1/INFO]: Preparing spawn area: 28%
+[17:42:49] [Server-Worker-8/INFO]: Preparing spawn area: 28%
+[17:42:49] [Server-Worker-4/INFO]: Preparing spawn area: 29%
+[17:42:50] [Server-Worker-3/INFO]: Preparing spawn area: 29%
+[17:42:50] [Server-Worker-1/INFO]: Preparing spawn area: 29%
+[17:42:51] [Server-Worker-8/INFO]: Preparing spawn area: 29%
+[17:42:51] [Server-Worker-1/INFO]: Preparing spawn area: 29%
+[17:42:52] [Server-Worker-3/INFO]: Preparing spawn area: 29%
+[17:42:52] [Server-Worker-7/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-4/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-2/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-8/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-5/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-5/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-8/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-5/INFO]: Preparing spawn area: 29%
+[17:42:56] [Server-Worker-4/INFO]: Preparing spawn area: 29%
+[17:43:02] [Server-Worker-4/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-7/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-2/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-2/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-5/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-7/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-1/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-5/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-2/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-7/INFO]: Preparing spawn area: 64%
+[17:43:02] [Server-Worker-2/INFO]: Preparing spawn area: 64%
+[17:43:03] [Server thread/INFO]: Time elapsed: 46463 ms
+[17:43:03] [Server thread/INFO]: Done (51.768s)! For help, type "help"
+[17:44:03] [User Authenticator #1/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file .\world\advancements\0ea33f5d-35bf-4711-ab0d-80e0afba23ad.json - it doesn't exist anymore?
+[17:44:04] [Server thread/INFO]: tedzack[/108.46.187.70:53810] logged in with entity id 133 at (-360.2269911623331, 63.0, 83.16873028764223)
+[17:44:04] [Server thread/INFO]: tedzack joined the game
+[17:44:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[17:44:44] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[17:45:47] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[17:45:50] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[17:46:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[17:46:45] [Server thread/INFO]: Unknown command
+[17:46:45] [Server thread/INFO]: wao!<--[HERE]
+[17:47:00] [User Authenticator #2/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file .\world\advancements\e32318e2-7636-4be2-8ad2-794d91429171.json - it doesn't exist anymore?
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[17:47:00] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[17:47:00] [Server thread/INFO]: Optix570[/108.29.106.121:1025] logged in with entity id 4016 at (-546.0721441022188, 47.0, 210.07698869476098)
+[17:47:00] [Server thread/INFO]: Optix570 joined the game
+[17:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[17:47:12] [Server thread/INFO]: <Optix570> hi packard
+[17:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12333ms or 246 ticks behind
+[17:47:41] [Server thread/INFO]: [Optix570: Teleported Optix570 to tedzack]
+[17:47:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[17:48:09] [Server thread/INFO]: <tedzack> henlo
+[17:48:29] [Server thread/INFO]: <tedzack> wow
+[17:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
+[17:48:33] [Server thread/INFO]: <tedzack> let's go visit our old home
+[17:48:35] [Server thread/INFO]: <Optix570> ok
+[17:48:40] [Server thread/INFO]: <tedzack> wait let me grab stuff
+[17:49:21] [Server thread/INFO]: <tedzack> wait i don't have a sword
+[17:49:39] [Server thread/INFO]: <Optix570> rip
+[17:49:48] [Server thread/INFO]: <tedzack> oh wait yes i do lol
+[17:50:32] [Server thread/INFO]: <tedzack> wya
+[17:51:03] [Server thread/INFO]: <Optix570> they changed some textures
+[17:51:06] [Server thread/INFO]: <tedzack> yeeee
+[17:51:26] [Server thread/INFO]: <tedzack> oh shit our farm
+[17:51:31] [Server thread/INFO]: <Optix570> nice
+[17:51:36] [Server thread/INFO]: <tedzack> horsie
+[17:52:01] [Server thread/INFO]: <tedzack> OH WTF
+[17:52:03] [Server thread/INFO]: <tedzack> EW
+[17:52:09] [Server thread/INFO]: <Optix570> what
+[17:52:16] [Server thread/INFO]: <Optix570> where are you
+[17:52:24] [Server thread/INFO]: [tedzack: Teleported Optix570 to tedzack]
+[17:52:24] [Server thread/WARN]: Optix570 moved too quickly! -76.63117042289537,-6.311687078744683,-9.786843937861931
+[17:52:29] [Server thread/INFO]: <tedzack> THEY'RE MATING
+[17:52:32] [Server thread/INFO]: <tedzack> OR NOT
+[17:52:33] [Server thread/INFO]: <Optix570> LMAO
+[17:52:34] [Server thread/INFO]: <tedzack> UNCLEAR
+[17:52:36] [Server thread/INFO]: <tedzack> EW
+[17:52:40] [Server thread/INFO]: <tedzack> IS THIS AN ORGY
+[17:52:40] [Server thread/INFO]: <Optix570> what a cute hat
+[17:52:42] [Server thread/INFO]: <tedzack> THERE ARE THREE
+[17:52:45] [Server thread/INFO]: <Optix570> perhaps
+[17:52:50] [Server thread/INFO]: <tedzack> wait where's our HOME
+[17:52:56] [Server thread/INFO]: <tedzack> we should take their veggies
+[17:53:00] [Server thread/INFO]: <Optix570> sure
+[17:53:04] [Server thread/INFO]: <Optix570> we have like 3 homes
+[17:53:07] [Server thread/INFO]: <Optix570> which one
+[17:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[17:53:48] [Server thread/INFO]: <tedzack> theveggies look weird
+[17:53:53] [Server thread/INFO]: <Optix570> yeah
+[17:54:09] [Server thread/INFO]: <tedzack> they're really out here
+[17:54:11] [Server thread/INFO]: <tedzack> having an orgy
+[17:54:13] [Server thread/INFO]: <Optix570> dyk how to get into that white house again
+[17:54:14] [Server thread/INFO]: <tedzack> on their farm
+[17:54:17] [Server thread/INFO]: <Optix570> i kinda forgot
+[17:54:19] [Server thread/INFO]: <Optix570> mood
+[17:54:33] [Server thread/INFO]: <tedzack> not really
+[17:54:34] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[17:54:41] [Server thread/INFO]: <tedzack> entrance might be from the bottom?
+[17:54:42] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[17:54:44] [Server thread/INFO]: <Optix570> got it
+[17:56:29] [Server thread/INFO]: [tedzack: Set the time to 1000]
+[17:57:05] [Server thread/INFO]: <tedzack> i just heard a weird noise
+[17:57:13] [Server thread/INFO]: <Optix570> what
+[17:57:18] [Server thread/INFO]: <Optix570> what did it sound like
+[17:57:25] [Server thread/INFO]: <tedzack> like a weird space noise
+[17:57:33] [Server thread/INFO]: <Optix570> were you underground
+[17:57:37] [Server thread/INFO]: <Optix570> that happens
+[17:57:39] [Server thread/INFO]: <tedzack> no
+[17:57:43] [Server thread/INFO]: <Optix570> huh
+[17:57:58] [Server thread/INFO]: <tedzack> new skins but the squids still ugly
+[17:58:01] [Server thread/INFO]: <Optix570> ur gonna die
+[17:58:15] [Server thread/INFO]: <Optix570> lmao
+[17:58:33] [Server thread/WARN]: Optix570 moved too quickly! -2.861330695985771,1.0784000015258783,-9.650666124627008
+[17:58:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[17:59:02] [Server thread/INFO]: <Optix570> woah there are fish
+[17:59:10] [Server thread/INFO]: <tedzack> there were always fish
+[17:59:16] [Server thread/INFO]: <Optix570> no but now you can see them
+[17:59:17] [Server thread/INFO]: <Optix570> salmon
+[17:59:20] [Server thread/INFO]: <Optix570> i just killed one
+[17:59:20] [Server thread/INFO]: <tedzack> wait really
+[17:59:22] [Server thread/INFO]: <Optix570> litty titty
+[17:59:25] [Server thread/INFO]: <Optix570> yee
+[17:59:33] [Server thread/INFO]: <tedzack> why is there a hole
+[17:59:46] [Server thread/INFO]: <tedzack> wya
+[17:59:55] [Server thread/INFO]: [Optix570: Teleported tedzack to Optix570]
+[18:00:03] [Server thread/INFO]: <Optix570> fish!
+[18:00:37] [Server thread/INFO]: <tedzack> wao lit
+[18:00:41] [Server thread/INFO]: <Optix570> yeet
+[18:00:42] [Server thread/INFO]: <tedzack> why did eric li just hmu
+[18:00:55] [Server thread/INFO]: <Optix570> ;)
+[18:01:40] [Server thread/INFO]: <tedzack> please no
+[18:01:48] [Server thread/INFO]: <Optix570> he hmu too
+[18:01:51] [Server thread/INFO]: <Optix570> to ask me abt dc
+[18:01:57] [Server thread/INFO]: <tedzack> ;)
+[18:02:01] [Server thread/INFO]: <Optix570> lmaoo
+[18:02:08] [Server thread/INFO]: <tedzack> i'm going to the wood house
+[18:02:18] [Server thread/INFO]: <tedzack> aw our animals
+[18:02:22] [Server thread/INFO]: <tedzack> :')
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -4.111216621330755,-1.0,9.330265256726818
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -4.429527083874035,-1.0,9.670276472758701
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -4.7541529719336495,-1.0768320014953616,10.012671058161715
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -4.943617728222961,-1.2274534586630068,10.211598213925498
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -5.128590024930702,-1.4489423104376016,10.404471837459681
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -5.3096770727193245,-1.7384922093173572,10.591820598036207
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -5.487460175560301,-2.093407939109099,10.774071339551853
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -5.646007151243168,-2.5111010141305457,10.936602555519642
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -5.787399348232043,-2.989085452684037,11.081547898097
+[18:03:36] [Server thread/WARN]: Horse (vehicle of tedzack) moved too quickly! -5.913492913140715,-3.0,11.210810158332805
+[18:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:36] [Server thread/WARN]: Horse moved wrongly!
+[18:03:51] [Server thread/INFO]: <tedzack> oh no our llama in a boat
+[18:04:31] [Server thread/INFO]: <Optix570> das how it be sometimes
+[18:05:32] [Server thread/INFO]: <tedzack> wow our enchanment stuff
+[18:05:35] [Server thread/INFO]: <tedzack> lowkey a nut
+[18:05:49] [Server thread/INFO]: <Optix570> yeet
+[18:05:56] [Server thread/INFO]: <tedzack> OH SHIT LOL OUR RAILWAYS
+[18:06:04] [Server thread/INFO]: <Optix570> shmood
+[18:06:11] [Server thread/INFO]: <Optix570> i remember depression building that
+[18:06:39] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[18:06:55] [Server thread/INFO]: <tedzack> oh woah
+[18:07:00] [Server thread/INFO]: <tedzack> wait is the only way into the house
+[18:07:02] [Server thread/INFO]: <tedzack> the white one
+[18:07:06] [Server thread/INFO]: <tedzack> through the railways>>
+[18:07:47] [Server thread/INFO]: <Optix570> i dont think so
+[18:07:59] [Server thread/INFO]: <Optix570> i think i built another way
+[18:08:32] [Server thread/INFO]: <tedzack> this white house is lowkey so nice
+[18:08:38] [Server thread/INFO]: <tedzack> the interior design
+[18:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[18:08:50] [Server thread/INFO]: <Optix570> ye
+[18:08:54] [Server thread/INFO]: <Optix570> too bad we never moved in lol
+[18:09:02] [Server thread/INFO]: <tedzack> LOL WE HAVE A BAR
+[18:09:05] [Server thread/INFO]: <tedzack> wow that's hilarious
+[18:09:07] [Server thread/INFO]: <Optix570> classic
+[18:09:11] [Server thread/INFO]: <tedzack> there's a flower in a one of the cups
+[18:09:46] [Server thread/INFO]: <Optix570> ye there is a door here
+[18:11:13] [Server thread/INFO]: <tedzack> there's an enderman
+[18:11:14] [Server thread/INFO]: <tedzack> in the house
+[18:11:28] [Server thread/INFO]: <Optix570> got it
+[18:11:36] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[18:12:02] [Server thread/INFO]: <Optix570> i dont like what they did with the combat
+[18:12:13] [Server thread/INFO]: <tedzack> what is it
+[18:12:37] [Server thread/INFO]: <Optix570> they added a cooldown time
+[18:12:40] [Server thread/INFO]: <Optix570> to hit things
+[18:12:56] [Server thread/INFO]: <tedzack> oh well
+[18:12:57] [Server thread/INFO]: <tedzack> news
+[18:13:03] [Server thread/INFO]: <tedzack> there's a witch
+[18:13:11] [Server thread/INFO]: <tedzack> creeper
+[18:13:14] [Server thread/INFO]: <tedzack> and skeleton
+[18:13:16] [Server thread/INFO]: <tedzack> right outside
+[18:13:17] [Server thread/INFO]: <tedzack> wanna go fight
+[18:13:24] [Server thread/INFO]: <Optix570> lol no
+[18:13:33] [Server thread/INFO]: <Optix570> i dont have good armor
+[18:13:40] [Server thread/INFO]: <tedzack> the rooms are so smol
+[18:13:46] [Server thread/INFO]: <tedzack> maybe that's why we never moved in
+[18:13:47] [Server thread/INFO]: <Optix570> ye
+[18:14:01] [Server thread/INFO]: <tedzack> pretty home tho
+[18:14:04] [Server thread/INFO]: <tedzack> maybe like our vacation home
+[18:14:09] [Server thread/INFO]: <Optix570> lmao
+[18:14:13] [Server thread/INFO]: <Optix570> vacation in minecraft
+[18:14:23] [Server thread/INFO]: <tedzack> LOL sets the world to peaceful
+[18:14:27] [Server thread/INFO]: <tedzack> perpetual day
+[18:14:30] [Server thread/INFO]: <tedzack> go for a swim
+[18:14:34] [Server thread/INFO]: <Optix570> yee
+[18:14:40] [Server thread/INFO]: <Optix570> we should actually go to the beach tho
+[18:14:42] [Server thread/INFO]: <Optix570> irl
+[18:14:55] [Server thread/INFO]: <tedzack> LOL
+[18:15:06] [Server thread/INFO]: <Optix570> frrr
+[18:15:18] [Server thread/INFO]: <tedzack> aight let's head back
+[18:15:22] [Server thread/INFO]: <Optix570> where
+[18:15:23] [User Authenticator #3/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file .\world\advancements\edd79b0f-8a46-46a8-9054-8cc37aa584e4.json - it doesn't exist anymore?
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[18:15:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[18:15:24] [Server thread/INFO]: Juanton_soup[/100.33.137.165:52622] logged in with entity id 40264 at (-546.6999999880791, 48.0, 212.66564216651022)
+[18:15:24] [Server thread/INFO]: Juanton_soup joined the game
+[18:15:26] [Server thread/INFO]: <tedzack> to the mansion
+[18:15:26] [Server thread/INFO]: <Optix570> wao!
+[18:15:28] [Server thread/INFO]: <tedzack> hi smol
+[18:15:29] [Server thread/INFO]: <Optix570> hi smol
+[18:15:31] [Server thread/INFO]: <Juanton_soup> where the fuck am i
+[18:15:37] [Server thread/INFO]: <tedzack> idk where r u
+[18:15:40] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[18:15:44] [Server thread/INFO]: <Juanton_soup> thank
+[18:15:47] [Server thread/INFO]: <Juanton_soup> it was dark
+[18:15:55] [Server thread/INFO]: <Optix570> we were mining i think
+[18:15:58] [Server thread/INFO]: <Optix570> they have fish now!
+[18:16:04] [Server thread/INFO]: <tedzack> wait smol you've seen the mountain home right
+[18:16:10] [Server thread/INFO]: <tedzack> OH YEE THE FISH ARE COOL
+[18:16:11] [Server thread/INFO]: <Juanton_soup> yes i think so
+[18:16:14] [Server thread/INFO]: <Juanton_soup> what fish
+[18:16:22] [Server thread/INFO]: <Optix570> they put fish that you can actually see in the water
+[18:16:27] [Server thread/INFO]: <Juanton_soup> owao
+[18:16:58] [Server thread/INFO]: <tedzack> oh there are actually
+[18:16:59] [Server thread/INFO]: <tedzack> two doors
+[18:17:06] [Server thread/INFO]: <tedzack> wait is the mountain home disconnected??
+[18:17:11] [Server thread/INFO]: <Optix570> no
+[18:17:13] [Server thread/INFO]: <Optix570> it has
+[18:17:17] [Server thread/INFO]: <Optix570> top door
+[18:17:18] [Server thread/INFO]: <Optix570> and
+[18:17:23] [Server thread/INFO]: <Optix570> minecart
+[18:17:35] [Server thread/INFO]: <tedzack> no it has a bottom door too
+[18:17:37] [Server thread/INFO]: <Optix570> o
+[18:17:38] [Server thread/INFO]: <Optix570> nice
+[18:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[18:22:40] [Server thread/INFO]: <Juanton_soup> hi
+[18:22:43] [Server thread/INFO]: <Optix570> hi
+[18:22:48] [Server thread/INFO]: <Juanton_soup> wyd
+[18:22:50] [Server thread/INFO]: <Optix570> kitty
+[18:22:52] [Server thread/INFO]: <Juanton_soup> yes
+[18:22:57] [Server thread/INFO]: <Optix570> nm
+[18:23:02] [Server thread/INFO]: <Optix570> what should we do today
+[18:23:17] [Server thread/INFO]: <tedzack> inspect the orgy
+[18:23:18] [Server thread/INFO]: <Optix570> LMAO
+[18:23:23] [Server thread/INFO]: <Optix570> SO THIS IS WHERE ALL THE FOOD IS
+[18:23:25] [Server thread/INFO]: <tedzack> what
+[18:23:30] [Server thread/INFO]: <Juanton_soup> shh
+[18:23:36] [Server thread/INFO]: <Optix570> i see yo
+[18:23:37] [Server thread/INFO]: <Optix570> you
+[18:23:44] [Server thread/INFO]: <Juanton_soup> honestly
+[18:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
+[18:23:49] [Server thread/INFO]: <Juanton_soup> i can't even remember
+[18:23:55] [Server thread/INFO]: <tedzack> oh right
+[18:24:00] [Server thread/INFO]: <tedzack> maria kept storing all the food
+[18:24:08] [Server thread/INFO]: <Juanton_soup> i just like gardening okay
+[18:24:13] [Server thread/INFO]: <tedzack> there's a lot of gardening food too
+[18:24:31] [Server thread/INFO]: <tedzack> not to sound like a bratty child but i wish we could hire a vilager to farm for us
+[18:24:48] [Server thread/INFO]: <Optix570> i think we can
+[18:25:10] [Server thread/INFO]: <Optix570> it costs emeralds
+[18:25:24] [Server thread/INFO]: <tedzack> wait really
+[18:25:29] [Server thread/INFO]: <Optix570> pretty sure
+[18:25:40] [Server thread/INFO]: <tedzack> also does anyone know where ou rleads went
+[18:25:42] [Server thread/INFO]: <tedzack> i want this horse
+[18:25:53] [Server thread/INFO]: <Optix570> theyre in the farming basement
+[18:26:07] [Server thread/INFO]: <tedzack> oh sleepy time
+[18:27:18] [Server thread/INFO]: <tedzack> where our minecarts at
+[18:27:33] [Server thread/INFO]: <tedzack> GARFIELD
+[18:27:45] [Server thread/INFO]: <Optix570> in the minecart areaw
+[18:28:04] [Server thread/INFO]: <Optix570> wow pacy your room is empty
+[18:28:10] [Server thread/INFO]: <tedzack> yeah cause i moved out
+[18:28:12] [Server thread/INFO]: <Optix570> oh
+[18:28:14] [Server thread/INFO]: <Optix570> rip
+[18:28:46] [Server thread/INFO]: <tedzack> garfields a man
+[18:29:00] [Server thread/INFO]: <Optix570> do we have any chickens
+[18:29:03] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[18:29:03] [Server thread/INFO]: Juanton_soup left the game
+[18:29:05] [Server thread/INFO]: <tedzack> SMOL
+[18:29:10] [Server thread/INFO]: <Optix570> oh noes
+[18:30:04] [Server thread/INFO]: <tedzack> i found a dog of mine
+[18:30:07] [Server thread/INFO]: <tedzack> jchiling here
+[18:30:14] [Server thread/INFO]: <Optix570> yall have too many dogs
+[18:30:37] [Server thread/INFO]: <tedzack> night night
+[18:30:46] [Server thread/INFO]: <Optix570> grr
+[18:30:51] [Server thread/INFO]: <Optix570> smol is gonna clean her desk
+[18:31:02] [Server thread/INFO]: <tedzack> long sleep
+[18:31:06] [Server thread/INFO]: <Optix570> #cleanyourroom
+[18:31:11] [Server thread/INFO]: <tedzack> mine?
+[18:31:12] [Server thread/INFO]: <Optix570> -jordan peterson
+[18:31:23] [Server thread/INFO]: <tedzack> the sound of burning monsters
+[18:31:25] [Server thread/INFO]: <tedzack> makes me morning
+[18:31:37] [Server thread/INFO]: <Optix570> wao!
+[18:32:03] [Server thread/INFO]: <Optix570> lmao
+[18:32:16] [Server thread/INFO]: <Optix570> gdi
+[18:32:22] [Server thread/INFO]: <Optix570> yall always do this
+[18:32:26] [Server thread/INFO]: <tedzack> what is tha
+[18:32:38] [Server thread/INFO]: <tedzack> oh the tunnel lool
+[18:33:45] [Server thread/INFO]: <tedzack> oh lol
+[18:33:59] [Server thread/INFO]: <Optix570> what
+[18:34:04] [Server thread/INFO]: <tedzack> glas
+[18:34:06] [Server thread/INFO]: <Optix570> ye
+[18:34:50] [Server thread/INFO]: <tedzack> what do we wanna do today
+[18:35:00] [Server thread/INFO]: <Optix570> idk
+[18:35:23] [Server thread/INFO]: <tedzack> we could
+[18:35:25] [Server thread/INFO]: <tedzack> explore
+[18:35:26] [Server thread/INFO]: <tedzack> build smt
+[18:35:31] [Server thread/INFO]: <tedzack> mine
+[18:35:38] [Server thread/INFO]: <Optix570> ye
+[18:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[18:36:15] [Server thread/INFO]: <tedzack> search for new things
+[18:36:19] [Server thread/INFO]: <tedzack> what do u wanna do
+[18:36:20] [Server thread/INFO]: <Optix570> ?
+[18:36:23] [Server thread/INFO]: <tedzack> oh go to the nether is another option
+[18:36:26] [Server thread/INFO]: <Optix570> idk
+[18:37:38] [Server thread/INFO]: <tedzack> chooooose
+[18:37:49] [Server thread/INFO]: <tedzack> i think either explore or build or nether
+[18:37:51] [Server thread/INFO]: <Optix570> idkk
+[18:37:56] [Server thread/INFO]: <Optix570> oo what is a campfire
+[18:38:02] [Server thread/INFO]: <tedzack> what's a campire
+[18:38:19] [Server thread/INFO]: <Optix570> i wanna make one
+[18:38:24] [Server thread/INFO]: <Optix570> do you have charcoal
+[18:38:41] [Server thread/INFO]: <tedzack> let me check
+[18:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[18:38:57] [Server thread/INFO]: <tedzack> does it have to be charcoal
+[18:39:01] [Server thread/INFO]: <Optix570> ye
+[18:39:20] [Server thread/INFO]: <Optix570> i only need one tho
+[18:39:25] [Server thread/INFO]: <tedzack> okey
+[18:39:28] [Server thread/INFO]: <tedzack> come
+[18:39:37] [Server thread/INFO]: <tedzack> donde
+[18:39:44] [Server thread/INFO]: <Optix570> in the cabin
+[18:39:56] [Server thread/INFO]: <tedzack> coming
+[18:40:47] [Server thread/INFO]: <Optix570> actually in my room in the compound
+[18:41:31] [Server thread/INFO]: <Optix570> wait lok at this!!
+[18:41:39] [Server thread/INFO]: <Optix570> its so cuteee
+[18:41:43] [Server thread/INFO]: <tedzack> what is that
+[18:41:50] [Server thread/INFO]: <Optix570> pacy i propose immediately replacing all our exterior torches with this
+[18:41:53] [Server thread/INFO]: <Optix570> lantern!
+[18:41:56] [Server thread/INFO]: <tedzack> wait
+[18:42:02] [Server thread/INFO]: <tedzack> this looks a lot better than old lanterns
+[18:42:10] [Server thread/INFO]: <Optix570> :o
+[18:42:14] [Server thread/INFO]: <Optix570> pacy come outsid
+[18:42:32] [Server thread/INFO]: <Optix570> its so cuteee
+[18:42:34] [Server thread/INFO]: <Optix570> looklook
+[18:42:38] [Server thread/INFO]: <tedzack> wait
+[18:42:39] [Server thread/INFO]: <Optix570> campfire!
+[18:42:42] [Server thread/INFO]: <tedzack> its adorable
+[18:42:44] [Server thread/INFO]: <tedzack> but what does it do
+[18:42:44] [Server thread/INFO]: <Optix570> it really is
+[18:42:49] [Server thread/INFO]: <Optix570> idk
+[18:43:07] [Server thread/INFO]: <Optix570> oh you can cook food apparently
+[18:43:08] [Server thread/INFO]: <tedzack> OH SHIT
+[18:43:18] [Server thread/INFO]: <Optix570> AWWWWWWW
+[18:43:20] [Server thread/INFO]: <Optix570> FUCK YEA
+[18:43:23] [Server thread/INFO]: <tedzack> wait how do we take the food off
+[18:43:29] [Server thread/INFO]: <Optix570> prob not till its done
+[18:43:33] [Server thread/INFO]: <tedzack> AW
+[18:43:43] [Server thread/INFO]: <tedzack> AW
+[18:43:46] [Server thread/INFO]: <tedzack> it just pops off
+[18:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[18:44:01] [Server thread/INFO]: <tedzack> wait omg
+[18:44:08] [Server thread/INFO]: <tedzack> i could replace the kitchen stuff
+[18:44:29] [Server thread/INFO]: <Optix570> holy shit
+[18:44:33] [Server thread/INFO]: <Optix570> a crossbow?
+[18:44:35] [Server thread/INFO]: <Optix570> a barrel?
+[18:44:38] [Server thread/INFO]: <Optix570> a smithing table?
+[18:44:40] [Server thread/INFO]: <tedzack> THERE'S
+[18:44:41] [Server thread/INFO]: <Optix570> pacy i want everything
+[18:44:43] [Server thread/INFO]: <tedzack> OMG
+[18:44:43] [Server thread/INFO]: <Optix570> come here
+[18:44:45] [Server thread/INFO]: <tedzack> OMFG
+[18:44:46] [Server thread/INFO]: <Optix570> imma build it
+[18:44:46] [Server thread/INFO]: <tedzack> OMFG
+[18:44:48] [Server thread/INFO]: <tedzack> PANDAS
+[18:44:53] [Server thread/INFO]: <tedzack> THERE ARE PANDAS NOW
+[18:44:56] [Server thread/INFO]: <tedzack> AND BAMBOO
+[18:45:01] [Server thread/INFO]: <tedzack> AND BOXES
+[18:45:24] [Server thread/INFO]: <tedzack> foxes
+[18:45:29] [Server thread/INFO]: <Optix570> coot
+[18:45:30] [Server thread/INFO]: <tedzack> there's something called sweet berries
+[18:46:23] [Server thread/INFO]: <Optix570> omg barrels and smithing tables look so cool
+[18:46:34] [Server thread/INFO]: <Optix570> wait a barrel is just
+[18:46:36] [Server thread/INFO]: <Optix570> a chest
+[18:46:38] [Server thread/INFO]: <Optix570> but smaller?
+[18:46:42] [Server thread/INFO]: <tedzack> there are dolphins
+[18:46:43] [Server thread/INFO]: <tedzack> hmmm
+[18:46:48] [Server thread/INFO]: <Optix570> nice
+[18:46:51] [Server thread/INFO]: <Optix570> i like them
+[18:46:53] [Server thread/INFO]: <tedzack> oh right the aquatic stuff sounds so sick
+[18:46:55] [Server thread/INFO]: <tedzack> where
+[18:47:05] [Server thread/INFO]: <Optix570> what
+[18:47:08] [Server thread/INFO]: <tedzack> barrel
+[18:47:12] [Server thread/INFO]: <Optix570> in my room
+[18:47:33] [Server thread/INFO]: <tedzack> AW they are so cute
+[18:47:43] [Server thread/INFO]: <tedzack> wait what is this
+[18:48:03] [Server thread/INFO]: <Optix570> its a smithing table
+[18:48:06] [Server thread/INFO]: <Optix570> wiat look at this
+[18:48:13] [Server thread/INFO]: <tedzack> what do u do with it
+[18:48:18] [Server thread/INFO]: <Optix570> idk
+[18:48:23] [Server thread/INFO]: <Optix570> :o
+[18:48:36] [Server thread/INFO]: <tedzack> this looks like smt i would like
+[18:48:38] [Server thread/INFO]: <tedzack> but what is it
+[18:48:44] [Server thread/INFO]: <Optix570> i think its for making banners
+[18:49:15] [Server thread/INFO]: <tedzack> oh wth
+[18:49:17] [Server thread/INFO]: <tedzack> hat's cool
+[18:49:28] [Server thread/INFO]: <Optix570> i need paper
+[18:49:47] [Server thread/INFO]: <Optix570> nvm
+[18:49:49] [Server thread/INFO]: <Optix570> got it
+[18:49:52] [Server thread/INFO]: <Optix570> watch this
+[18:50:00] [Server thread/INFO]: <tedzack> how do u make paper again
+[18:50:10] [Server thread/INFO]: <Optix570> i love this one
+[18:50:16] [Server thread/INFO]: <Optix570> map!
+[18:50:22] [Server thread/INFO]: <tedzack> oh wait
+[18:50:25] [Server thread/INFO]: <tedzack> this is to combine maps
+[18:50:28] [Server thread/INFO]: <tedzack> ?
+[18:50:28] [Server thread/INFO]: <Optix570> ye
+[18:50:36] [Server thread/INFO]: <tedzack> wow!!
+[18:50:50] [Server thread/INFO]: <Optix570> we need to redecorate asap
+[18:51:10] [Server thread/INFO]: <Optix570> gimme tablee
+[18:51:14] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[18:51:50] [Server thread/INFO]: <tedzack> DUDE
+[18:52:00] [Server thread/INFO]: <tedzack> THERE'S SOMETHING CALLED
+[18:52:02] [Server thread/INFO]: <tedzack> A BELL
+[18:52:05] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[18:52:31] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[18:52:51] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[18:52:58] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[18:53:23] [Server thread/INFO]: <tedzack> what is that
+[18:53:27] [Server thread/INFO]: <Optix570> a fletching table
+[18:53:33] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[18:53:59] [Server thread/INFO]: <tedzack> DUDE
+[18:54:07] [Server thread/INFO]: <tedzack> WE NEVER HAVE TO SRAMBLE FOR BONE MEAL EVER AGAIN
+[18:54:11] [Server thread/INFO]: <Optix570> lmaoooo
+[18:54:13] [Server thread/INFO]: <Optix570> wdym
+[18:54:36] [Server thread/INFO]: <tedzack> LOOK
+[18:54:43] [Server thread/INFO]: <Optix570> what is that
+[18:54:49] [Server thread/INFO]: <tedzack> composter
+[18:54:49] [Server thread/INFO]: <Optix570> wait
+[18:54:51] [Server thread/INFO]: <Optix570> whaaa
+[18:54:58] [Server thread/INFO]: <tedzack> it takes food
+[18:55:04] [Server thread/INFO]: <tedzack> or rather
+[18:55:07] [Server thread/INFO]: <tedzack> veggies
+[18:55:10] [Server thread/INFO]: <Optix570> bet
+[18:55:11] [Server thread/INFO]: <tedzack> and makes bone meal
+[18:55:26] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[18:56:20] [Server thread/INFO]: <tedzack> scaffolding is lowkey nice table
+[18:56:23] [Server thread/INFO]: <Optix570> yee
+[18:56:30] [Server thread/INFO]: <tedzack> apparently you can climb
+[18:56:37] [Server thread/INFO]: <Optix570> wao!
+[18:56:53] [Server thread/INFO]: <tedzack> oh you can hop on them
+[18:56:57] [Server thread/INFO]: <tedzack> but also walk through
+[18:57:16] [Server thread/INFO]: <Optix570> ye
+[18:58:32] [Server thread/INFO]: [tedzack: Gave 1 [Jigsaw Block] to tedzack]
+[18:59:17] [Server thread/INFO]: <tedzack> apparently the bells can wake villagers up
+[18:59:23] [Server thread/INFO]: <Optix570> nice
+[18:59:33] [Server thread/INFO]: <tedzack> omg
+[18:59:36] [Server thread/INFO]: <tedzack> thE FOXES SLEEP
+[18:59:44] [Server thread/INFO]: <Optix570> coot
+[18:59:47] [Server thread/INFO]: <Optix570> whats this
+[18:59:52] [Server thread/INFO]: <tedzack> jigsaw
+[18:59:55] [Server thread/INFO]: <Optix570> wat
+[19:00:08] [Server thread/INFO]: <Optix570> what do
+[19:00:22] [Server thread/INFO]: <tedzack> COME HERE
+[19:00:40] [Server thread/INFO]: <tedzack> come come come
+[19:00:46] [Server thread/INFO]: <tedzack> it was sleeping
+[19:00:51] [Server thread/INFO]: <Optix570> nice
+[19:01:01] [Server thread/INFO]: <tedzack> look look look
+[19:01:17] [Server thread/INFO]: <tedzack> i think i have to kill it
+[19:01:19] [Server thread/INFO]: <tedzack> even tho i love it
+[19:01:35] [Server thread/INFO]: <tedzack> they can even be taimed
+[19:01:38] [Server thread/INFO]: <tedzack> tamed
+[19:02:18] [Server thread/INFO]: <Optix570> nice
+[19:02:30] [Server thread/INFO]: <tedzack> there are some wild
+[19:02:33] [Server thread/INFO]: <tedzack> new mobs
+[19:02:37] [User Authenticator #4/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[19:02:37] [Server thread/INFO]: Juanton_soup[/100.33.137.165:52863] logged in with entity id 99632 at (-222.2910924185706, 65.0, 224.52637873109452)
+[19:02:37] [Server thread/INFO]: Juanton_soup joined the game
+[19:02:39] [Server thread/INFO]: <Optix570> yee
+[19:02:44] [Server thread/INFO]: <Optix570> new stuff!
+[19:02:46] [Server thread/INFO]: <Juanton_soup> o hai
+[19:02:49] [Server thread/INFO]: <Optix570> hi
+[19:03:02] [Server thread/INFO]: <tedzack> SMOL
+[19:03:03] [Server thread/INFO]: <tedzack> wanna see
+[19:03:05] [Server thread/INFO]: <tedzack> a fox
+[19:03:11] [Server thread/INFO]: <Optix570> smol
+[19:03:13] [Server thread/INFO]: <Optix570> wanna see
+[19:03:13] [Server thread/INFO]: <Juanton_soup> ooo ok
+[19:03:15] [Server thread/INFO]: <Juanton_soup> where
+[19:03:15] [Server thread/INFO]: <tedzack> theyre so cute
+[19:03:16] [Server thread/INFO]: <Optix570> a campfire
+[19:03:16] [Server thread/INFO]: <Juanton_soup> wha
+[19:03:21] [Server thread/INFO]: <tedzack> but i've not found ar eal one yet
+[19:03:23] [Server thread/INFO]: <tedzack> and i really wanna
+[19:03:37] [Server thread/INFO]: <Optix570> turn around
+[19:03:47] [Server thread/INFO]: <Juanton_soup> o hai
+[19:03:49] [Server thread/INFO]: <Optix570> you can cook with it!
+[19:03:56] [Server thread/INFO]: <Juanton_soup> wao
+[19:04:01] [Server thread/INFO]: <Juanton_soup> coot!
+[19:04:05] [Server thread/INFO]: <Optix570> whwere is the lantern paky
+[19:04:36] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[19:04:41] [Server thread/INFO]: <tedzack> coming
+[19:04:45] [Server thread/INFO]: <Optix570> show smol
+[19:04:56] [Server thread/INFO]: <tedzack> wya
+[19:05:04] [Server thread/INFO]: <Optix570> goin to
+[19:05:07] [Server thread/INFO]: <Juanton_soup> aww
+[19:05:07] [Server thread/INFO]: <Optix570> mansion
+[19:05:10] [Server thread/INFO]: <tedzack> they're so cute
+[19:05:10] [Server thread/INFO]: <Juanton_soup> it's coot
+[19:05:18] [Server thread/INFO]: <tedzack> come back potate
+[19:05:20] [Server thread/INFO]: <tedzack> with me
+[19:05:26] [Server thread/INFO]: <tedzack> at camp fire
+[19:05:39] [Server thread/INFO]: <Juanton_soup> i'm gardenINg
+[19:07:06] [Server thread/INFO]: <tedzack> smol
+[19:07:23] [Server thread/INFO]: <Juanton_soup> potate
+[19:07:25] [Server thread/INFO]: <tedzack> they're bakin!
+[19:07:27] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[19:07:29] [Server thread/INFO]: <Juanton_soup> coot
+[19:07:40] [Server thread/INFO]: <tedzack> wait i wanna redecorate
+[19:07:48] [Server thread/INFO]: <Juanton_soup> potate
+[19:08:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[19:09:50] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[19:09:58] [Server thread/INFO]: <Optix570> fuck yeaaa
+[19:09:59] [Server thread/INFO]: <tedzack> woah
+[19:10:09] [Server thread/INFO]: <Juanton_soup> let's watch the sun rise
+[19:11:40] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[19:11:47] [Server thread/INFO]: <tedzack> wait eli
+[19:11:50] [Server thread/INFO]: <tedzack> where begin
+[19:11:53] [Server thread/INFO]: <tedzack> with remodeling
+[19:11:54] [Server thread/INFO]: Juanton_soup has made the advancement [Fishy Business]
+[19:11:55] [Server thread/INFO]: <Optix570> idk
+[19:11:56] [Server thread/INFO]: <tedzack> is it laterns
+[19:12:00] [Server thread/INFO]: <Optix570> just do whatever you want lol
+[19:12:17] [Server thread/INFO]: <tedzack> OH
+[19:12:20] [Server thread/INFO]: <tedzack> I JUST REMEMBERED
+[19:12:25] [Server thread/INFO]: <tedzack> THE LAST THING WE WERE BUJILDING
+[19:12:27] [Server thread/INFO]: <tedzack> WAS A TREEHOUSE
+[19:12:59] [Server thread/INFO]: <Optix570> oh word
+[19:13:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
+[19:14:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:15:47] [Server thread/INFO]: <tedzack> what is the mountain house made of
+[19:15:56] [Server thread/INFO]: <Optix570> quartz
+[19:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:16:32] [Server thread/INFO]: <tedzack> no its qhite conrete
+[19:16:33] [Server thread/INFO]: <Optix570> packard
+[19:16:34] [Server thread/INFO]: <Optix570> oh
+[19:16:35] [Server thread/INFO]: <tedzack> that took me forever
+[19:16:37] [Server thread/INFO]: <Optix570> nice
+[19:16:38] [Server thread/INFO]: <Optix570> packard
+[19:16:43] [Server thread/INFO]: <Optix570> come here
+[19:16:54] [Server thread/INFO]: [Optix570: Teleported tedzack to Optix570]
+[19:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:17:02] [Server thread/INFO]: <Optix570> which is better
+[19:17:21] [Server thread/INFO]: <Optix570> upper or lower
+[19:17:27] [Server thread/INFO]: <tedzack> lower
+[19:17:31] [Server thread/INFO]: <Optix570> kk
+[19:17:45] [Server thread/INFO]: <Optix570> packard no
+[19:17:52] [Server thread/INFO]: <Optix570> put those on the balcony of the white house
+[19:17:57] [Server thread/INFO]: <tedzack> yee already done
+[19:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:18:16] [Server thread/INFO]: <Optix570> yeet
+[19:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:18:29] [Server thread/INFO]: <Optix570> where is smol
+[19:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[19:18:36] [Server thread/INFO]: <Juanton_soup> hi
+[19:18:37] [Server thread/INFO]: <Optix570> hi
+[19:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:19:00] [Server thread/INFO]: <Optix570> look how metal this is
+[19:19:03] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
+[19:19:07] [Server thread/INFO]: <Optix570> what the fuck
+[19:19:15] [Server thread/INFO]: <Juanton_soup> what
+[19:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
+[19:19:20] [Server thread/INFO]: <Optix570> ,,,
+[19:19:22] [Server thread/INFO]: <Optix570> but why
+[19:19:30] [Server thread/INFO]: <Juanton_soup> explorin
+[19:19:36] [Server thread/INFO]: <Optix570> look
+[19:19:42] [Server thread/INFO]: <Optix570> mariaa
+[19:19:54] [Server thread/INFO]: <Optix570> maria look at thisss
+[19:19:59] [Server thread/INFO]: <Optix570> omg
+[19:20:15] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[19:20:20] [Server thread/INFO]: <Juanton_soup> heyyyy
+[19:20:22] [Server thread/INFO]: <Optix570> look at thiss
+[19:20:31] [Server thread/INFO]: <Juanton_soup> fishy
+[19:20:32] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[19:20:32] [Server thread/WARN]: Juanton_soup moved too quickly! 3.3064664087879123,4.246800019478798,9.263457778529528
+[19:20:43] [Server thread/INFO]: <Juanton_soup> what is up with this flower
+[19:20:47] [Server thread/INFO]: <Optix570> its a wither rose
+[19:20:50] [Server thread/INFO]: <Juanton_soup> whaaaa
+[19:21:02] [Server thread/INFO]: <Optix570> if you touch it withers you
+[19:21:06] [Server thread/INFO]: <Juanton_soup> wao
+[19:21:08] [Server thread/INFO]: <tedzack> wither!
+[19:21:15] [Server thread/INFO]: <Optix570> okay smol cn back to fishy
+[19:21:22] [Server thread/INFO]: [Optix570: Teleported Optix570 to tedzack]
+[19:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:21:46] [Server thread/INFO]: <Juanton_soup> jpw do i get back
+[19:21:51] [Server thread/INFO]: <Optix570> just tp
+[19:21:54] [Server thread/INFO]: <Juanton_soup> how
+[19:22:03] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[19:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:22:07] [Server thread/INFO]: <Juanton_soup> o
+[19:22:08] [Server thread/INFO]: <Juanton_soup> hank
+[19:22:12] [Server thread/INFO]: <Optix570> np
+[19:23:50] [Server thread/INFO]: <Juanton_soup> can we slep
+[19:24:10] [Server thread/INFO]: <Optix570> packard
+[19:24:18] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[19:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[19:24:23] [Server thread/INFO]: <Optix570> oh wells
+[19:24:57] [Server thread/INFO]: <Optix570> maria
+[19:24:58] [Server thread/INFO]: <Juanton_soup> wha
+[19:25:01] [Server thread/INFO]: <Juanton_soup> ow
+[19:25:03] [Server thread/INFO]: <Optix570> ,,,,,
+[19:25:03] [Server thread/INFO]: <Juanton_soup> wha was dat
+[19:25:06] [Server thread/INFO]: <Optix570> a creeper
+[19:25:12] [Server thread/INFO]: <Juanton_soup> dere's one over there
+[19:25:17] [Server thread/INFO]: <Optix570> :C
+[19:25:20] [Server thread/INFO]: <Optix570> my bridgeee
+[19:25:20] [Server thread/INFO]: <Juanton_soup> creeping around the house
+[19:25:25] [Server thread/INFO]: <Optix570> mariaaaaaa
+[19:25:30] [Server thread/INFO]: <Juanton_soup> not my fault!
+[19:25:32] [Server thread/INFO]: <Optix570> ,,,,
+[19:25:37] [Server thread/INFO]: <Optix570> be more carefulll
+[19:26:02] [Server thread/INFO]: <Optix570> >:c
+[19:26:04] [Server thread/INFO]: <Juanton_soup> hey
+[19:26:07] [Server thread/INFO]: <Juanton_soup> that was mine
+[19:26:08] [Server thread/INFO]: <Optix570> imma take dis
+[19:26:09] [Server thread/INFO]: <Optix570> cuz
+[19:26:12] [Server thread/INFO]: <Juanton_soup> what even was it
+[19:26:15] [Server thread/INFO]: <Optix570> u broke my bridge
+[19:26:16] [Server thread/INFO]: <Optix570> cod
+[19:26:24] [Server thread/INFO]: <Optix570> like fish and chips cod
+[19:26:27] [Server thread/INFO]: <Juanton_soup> look at that stupid squid
+[19:27:39] [Server thread/INFO]: <Juanton_soup> the villagers are having sex
+[19:27:48] [Server thread/INFO]: <tedzack> I KNOW
+[19:27:53] [Server thread/INFO]: <Juanton_soup> why does one have a hat
+[19:28:04] [Server thread/INFO]: <Optix570> its some
+[19:28:07] [Server thread/INFO]: <Optix570> kinda
+[19:28:13] [Server thread/INFO]: <Optix570> farmer?
+[19:28:53] [Server thread/INFO]: <Juanton_soup> why are there four of them in the fountain
+[19:29:24] [Server thread/WARN]: Juanton_soup moved too quickly! 10.170668627955195,0.0625,0.18366941655048663
+[19:35:33] [Server thread/INFO]: <Juanton_soup> hi
+[19:35:42] [Server thread/INFO]: <tedzack> don't burn
+[19:35:47] [Server thread/INFO]: <Juanton_soup> just cookin my fish
+[19:35:57] [Server thread/INFO]: <Juanton_soup> would you like one
+[19:36:28] [Server thread/INFO]: <tedzack> thank
+[19:36:28] [Server thread/INFO]: <Juanton_soup> for u
+[19:36:32] [Server thread/INFO]: <tedzack> we hae a fridge too
+[19:36:35] [Server thread/INFO]: <Juanton_soup> where
+[19:37:19] [Server thread/INFO]: <Juanton_soup> what is this
+[19:37:25] [Server thread/INFO]: <tedzack> its the stove
+[19:37:27] [Server thread/INFO]: <tedzack> but uh
+[19:37:31] [Server thread/INFO]: <tedzack> idk its hard
+[19:37:33] [Server thread/INFO]: <tedzack> oh wait
+[19:38:20] [Server thread/INFO]: <Juanton_soup> mmm tasty
+[19:38:22] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[19:39:04] [Server thread/INFO]: <tedzack> hehe its a real oven
+[19:39:24] [Server thread/WARN]: Optix570 moved too quickly! 6.042345065432869,0.0,8.075260440248684
+[19:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[19:40:47] [Server thread/INFO]: <Optix570> do we have any tripwires
+[19:42:20] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[19:42:20] [Server thread/INFO]: Juanton_soup left the game
+[19:44:22] [Server thread/INFO]: <Optix570> i g2g for a bit
+[19:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[19:44:28] [Server thread/INFO]: <Optix570> i'll leave the server on tho
+[19:44:31] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[19:44:31] [Server thread/INFO]: Optix570 left the game
+[19:45:10] [User Authenticator #5/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[19:45:10] [Server thread/INFO]: Juanton_soup[/100.33.137.165:52885] logged in with entity id 171104 at (-381.98200257857405, 97.0, 286.3924150365367)
+[19:45:10] [Server thread/INFO]: Juanton_soup joined the game
+[19:49:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[19:50:06] [Server thread/INFO]: tedzack has reached the goal [Sky's the Limit]
+[19:50:27] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[19:50:36] [Server thread/INFO]: tedzack fell from a high place
+[19:50:42] [Server thread/INFO]: <Juanton_soup> rip
+[19:50:44] [Server thread/INFO]: [tedzack: Set own game mode to Adventure Mode]
+[19:50:48] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[19:51:17] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[19:51:27] [Server thread/INFO]: [tedzack: Set own game mode to Creative Mode]
+[19:51:40] [Server thread/INFO]: <tedzack> kitchen buiding is a dangerous craft
+[19:51:57] [Server thread/INFO]: tedzack has made the advancement [Ol' Betsy]
+[20:12:28] [Server thread/INFO]: <tedzack> smo
+[20:12:32] [Server thread/INFO]: <tedzack> l
+[20:12:33] [Server thread/INFO]: <tedzack> wyd
+[20:13:00] [Server thread/INFO]: <Juanton_soup> nothin
+[20:13:27] [Server thread/INFO]: <tedzack> there are pandas now :O
+[20:13:34] [Server thread/INFO]: <tedzack> the foxes are so cute
+[20:13:37] [Server thread/INFO]: <tedzack> they sleep
+[20:13:47] [Server thread/INFO]: <tedzack> we couldd
+[20:13:50] [Server thread/INFO]: <tedzack> go to the nether
+[20:13:53] [Server thread/INFO]: <tedzack> go monster huntin
+[20:13:57] [Server thread/INFO]: <tedzack> go exploring
+[20:14:08] [Server thread/INFO]: <Juanton_soup> i'm down
+[20:14:11] [Server thread/INFO]: <tedzack> sleeep
+[20:14:15] [Server thread/INFO]: [tedzack: Set own game mode to Survival Mode]
+[20:16:05] [Server thread/INFO]: <tedzack> okey
+[20:16:06] [Server thread/INFO]: <tedzack> where go
+[20:23:19] [Server thread/INFO]: tedzack lost connection: Timed out
+[20:23:19] [Server thread/INFO]: tedzack left the game
+[20:23:20] [Server thread/INFO]: Juanton_soup lost connection: Timed out
+[20:23:20] [Server thread/INFO]: Juanton_soup left the game
+[20:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 427409ms or 8548 ticks behind
+[20:26:54] [User Authenticator #6/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[20:26:54] [Server thread/INFO]: Juanton_soup[/100.33.137.165:52961] logged in with entity id 222277 at (-220.7194632010136, 71.0, 215.40344267338895)
+[20:26:54] [Server thread/INFO]: Juanton_soup joined the game
+[20:27:07] [Server thread/INFO]: <Juanton_soup> is anyone here
+[20:27:46] [Server thread/INFO]: Juanton_soup has made the advancement [Tactical Fishing]
+[20:31:10] [User Authenticator #7/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[20:31:10] [Server thread/INFO]: tedzack[/108.46.187.70:54699] logged in with entity id 228579 at (-352.5715410073892, 63.0, 86.32997750109219)
+[20:31:10] [Server thread/INFO]: tedzack joined the game
+[20:32:15] [Server thread/INFO]: <Juanton_soup> hi pkay
+[20:32:17] [Server thread/INFO]: <tedzack> do u need to stock
+[20:32:33] [Server thread/INFO]: <Juanton_soup> lemme get
+[20:32:35] [Server thread/INFO]: <Juanton_soup> fud
+[20:32:38] [Server thread/INFO]: <tedzack> me sleeb
+[20:32:40] [Server thread/INFO]: <tedzack> okey
+[20:33:25] [Server thread/INFO]: <Juanton_soup> wya
+[20:34:34] [Server thread/INFO]: <tedzack> my room
+[20:34:44] [Server thread/INFO]: <Juanton_soup> which one
+[20:34:47] [Server thread/INFO]: <tedzack> masnion
+[20:35:02] [Server thread/INFO]: <Juanton_soup> white one or other one
+[20:35:08] [Server thread/INFO]: <tedzack> other one
+[20:35:34] [User Authenticator #8/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[20:35:34] [Server thread/INFO]: Optix570[/108.29.106.121:1024] logged in with entity id 236385 at (-223.20823176858025, 65.0, 227.2156939157408)
+[20:35:34] [Server thread/INFO]: Optix570 joined the game
+[20:35:51] [Server thread/INFO]: <tedzack> i wanna find turts
+[20:35:54] [Server thread/INFO]: <tedzack> and dolphins
+[20:36:14] [Server thread/INFO]: <Juanton_soup> i saw one!
+[20:36:25] [Server thread/INFO]: <Optix570> how far did yall explore
+[20:36:33] [Server thread/INFO]: <Juanton_soup> heh
+[20:36:34] [Server thread/INFO]: <Optix570> cause if you want to find new stuff you might have to load new chunks
+[20:36:36] [Server thread/INFO]: <Juanton_soup> i see u paky
+[20:36:37] [Server thread/INFO]: <Optix570> which can be far
+[20:36:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[20:36:55] [Server thread/INFO]: <Optix570> oh also maria there are now evil villagers
+[20:37:01] [Server thread/INFO]: <Juanton_soup> :C
+[20:37:02] [Server thread/INFO]: <Optix570> that will attack regular vilalgers
+[20:37:04] [Server thread/INFO]: <Juanton_soup> sad
+[20:37:08] [Server thread/INFO]: <Optix570> and steal their stuff
+[20:37:08] [Server thread/INFO]: <tedzack> YEAH THERE ARE
+[20:37:11] [Server thread/INFO]: <Optix570> theyre called
+[20:37:12] [Server thread/INFO]: <Optix570> pillagers
+[20:37:18] [Server thread/INFO]: <tedzack> HETHEY RID
+[20:37:20] [Server thread/INFO]: <Juanton_soup> how do i get IN this hosue
+[20:37:23] [Server thread/INFO]: <tedzack> adoifjlsmkdf
+[20:37:25] [Server thread/INFO]: <tedzack> which
+[20:37:38] [Server thread/INFO]: <Juanton_soup> the one u are in
+[20:37:56] [Server thread/INFO]: <Juanton_soup> i GOt it
+[20:38:05] [Server thread/INFO]: <Juanton_soup> there u go paky
+[20:38:39] [Server thread/INFO]: Optix570 has made the advancement [Ol' Betsy]
+[20:38:39] [Server thread/INFO]: <tedzack> thnx
+[20:38:41] [Server thread/INFO]: <tedzack> where explore
+[20:38:46] [Server thread/INFO]: <Juanton_soup> idk
+[20:39:00] [Server thread/INFO]: <tedzack> oh
+[20:39:02] [Server thread/INFO]: <tedzack> ELI
+[20:39:04] [Server thread/INFO]: <tedzack> explore
+[20:39:10] [Server thread/INFO]: <Optix570> where
+[20:39:19] [Server thread/INFO]: <tedzack> idk
+[20:39:23] [Server thread/INFO]: <Juanton_soup> let's just
+[20:39:25] [Server thread/INFO]: <Optix570> nice
+[20:39:26] [Server thread/INFO]: <Juanton_soup> pick a direction
+[20:39:28] [Server thread/INFO]: <Juanton_soup> and keep walkin
+[20:39:54] [Server thread/INFO]: <Optix570> okay ig
+[20:40:01] [Server thread/INFO]: <tedzack> okey where is everyone
+[20:40:06] [Server thread/INFO]: <tedzack> as in
+[20:40:07] [Server thread/INFO]: <tedzack> where's eli
+[20:40:28] [Server thread/INFO]: <Optix570> in old house place
+[20:40:49] [User Authenticator #9/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file .\world\advancements\4ba1dd24-de92-4ac0-8220-2f89b6cd9f74.json - it doesn't exist anymore?
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[20:40:49] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[20:40:49] [Server thread/INFO]: jkGold[/24.215.191.19:34008] logged in with entity id 247134 at (-121.5515086253141, 215.0, 378.771222390674)
+[20:40:49] [Server thread/INFO]: jkGold joined the game
+[20:40:59] [Server thread/INFO]: <Optix570> oh hai mark
+[20:41:00] [Server thread/INFO]: <Juanton_soup> hi jake!
+[20:41:03] [Server thread/INFO]: <jkGold> heyo
+[20:41:05] [Server thread/INFO]: <jkGold> oh fuck
+[20:41:11] [Server thread/INFO]: <jkGold> i'm at my shitty mob farm thing
+[20:41:15] [Server thread/INFO]: <Juanton_soup> lmao
+[20:41:19] [Server thread/INFO]: [Optix570: Teleported jkGold to Optix570]
+[20:41:24] [Server thread/INFO]: <jkGold> uh
+[20:41:25] [Server thread/INFO]: <Optix570> no you're not
+[20:41:42] [Server thread/INFO]: <tedzack> they['re having another orgy
+[20:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[20:41:50] [Server thread/INFO]: <tedzack> they made achild
+[20:42:00] [Server thread/INFO]: <tedzack> jk no thtye did not]
+[20:42:12] [Server thread/INFO]: <Optix570> i need a stick
+[20:42:15] [Server thread/INFO]: <tedzack> ur a stick
+[20:42:16] [Server thread/INFO]: <Optix570> or a sword
+[20:42:25] [Server thread/INFO]: <Optix570> do you have a sword jake
+[20:42:33] [Server thread/INFO]: <Optix570> also
+[20:42:35] [Server thread/INFO]: <jkGold> i have one sword
+[20:42:38] [Server thread/INFO]: <jkGold> but many stick
+[20:42:38] [Server thread/INFO]: <Optix570> check out the new blocs!
+[20:42:41] [Server thread/INFO]: <tedzack> since when did we have a polar bear
+[20:42:52] [Server thread/INFO]: <Juanton_soup> we have a polar bear?
+[20:42:55] [Server thread/INFO]: <Optix570> denks
+[20:42:57] [Server thread/INFO]: <jkGold> what are the new blocks
+[20:43:03] [Server thread/INFO]: <tedzack> i think i vaguely remember painfully dragging it back here
+[20:43:04] [Server thread/INFO]: <Optix570> come to my room
+[20:43:05] [Server thread/INFO]: <tedzack> yea we do
+[20:43:28] [Server thread/INFO]: <jkGold> why fish
+[20:43:34] [Server thread/INFO]: <jkGold> why he do that
+[20:43:37] [Server thread/INFO]: <tedzack> cause underground
+[20:43:43] [Server thread/INFO]: <tedzack> or rather
+[20:43:45] [Server thread/INFO]: <tedzack> underwater
+[20:43:53] [Server thread/INFO]: <Juanton_soup> there it goes
+[20:43:54] [Server thread/INFO]: <tedzack> they did a whole aquatic update
+[20:44:02] [Server thread/INFO]: <jkGold> oh cool
+[20:44:02] [Server thread/INFO]: <tedzack> there's like
+[20:44:03] [Server thread/INFO]: <Juanton_soup> :c
+[20:44:04] [Server thread/INFO]: <tedzack> coold coral
+[20:44:09] [Server thread/INFO]: <Juanton_soup> that was my fish eli
+[20:44:10] [Server thread/INFO]: <jkGold> didn't we have an separate house or smthing
+[20:44:19] [Server thread/INFO]: <tedzack> we have
+[20:44:20] [Server thread/INFO]: <tedzack> 3
+[20:44:23] [Server thread/INFO]: <jkGold> oh
+[20:44:27] [Server thread/INFO]: <tedzack> has he seen the campfires yet
+[20:44:30] [Server thread/INFO]: <jkGold> well i might make a fourth one
+[20:44:32] [Server thread/INFO]: <Optix570> idk
+[20:44:40] [Server thread/INFO]: <jkGold> i haven't what
+[20:44:45] [Server thread/INFO]: <jkGold> where are there campfires
+[20:44:50] [Server thread/INFO]: <tedzack> come to the compound jake
+[20:45:01] [Server thread/INFO]: <jkGold> is this not the compound
+[20:45:16] [Server thread/INFO]: <Juanton_soup> are we exploring or nah
+[20:45:16] [Server thread/INFO]: <tedzack> come here
+[20:45:29] [Server thread/INFO]: <tedzack> soon yes afterjake sees the campfire
+[20:45:34] [Server thread/INFO]: <tedzack> i really personally like the composter
+[20:45:44] [Server thread/INFO]: <Optix570> lmao
+[20:45:49] [Server thread/INFO]: <jkGold> wao this is new
+[20:45:54] [Server thread/INFO]: <tedzack> you can put stuff on it
+[20:45:57] [Server thread/INFO]: <tedzack> it cooks
+[20:46:06] [Server thread/INFO]: <Optix570> look i have a crossbow
+[20:46:09] [Server thread/INFO]: <jkGold> wait is that a crossbow
+[20:46:10] [Server thread/INFO]: <jkGold> what
+[20:46:12] [Server thread/INFO]: <Optix570> yes
+[20:46:15] [Server thread/INFO]: <jkGold> this has changed sm
+[20:46:23] [Server thread/INFO]: <tedzack> the best part is the foxes
+[20:46:26] [Server thread/INFO]: <jkGold> oh shit
+[20:46:29] [Server thread/INFO]: <tedzack> okey exploration
+[20:46:32] [Server thread/INFO]: <jkGold> there's a thing on that cliff
+[20:46:34] [Server thread/INFO]: <tedzack> do we bring beds
+[20:46:35] [Server thread/INFO]: <jkGold> when did we make that
+[20:46:42] [Server thread/INFO]: <Optix570> like
+[20:46:44] [Server thread/INFO]: <tedzack> oh wait have you not seen that
+[20:46:44] [Server thread/INFO]: <Optix570> last year
+[20:46:48] [Server thread/INFO]: <jkGold> i haven't
+[20:46:48] [Server thread/INFO]: <tedzack> if not you need to
+[20:46:48] [Server thread/INFO]: <Optix570> sm
+[20:46:50] [Server thread/INFO]: <Optix570> smh
+[20:46:55] [Server thread/INFO]: <tedzack> then we can leave from there
+[20:46:58] [Server thread/INFO]: <Optix570> i have no bootsies
+[20:46:59] [Server thread/INFO]: <jkGold> i stopped playing a while before you all did ig
+[20:47:03] [Server thread/INFO]: <tedzack> wait was it jakes room where we put a snowman
+[20:47:11] [Server thread/INFO]: <Optix570> idk
+[20:47:14] [Server thread/INFO]: <Juanton_soup> make some bootsies
+[20:48:01] [Server thread/WARN]: Juanton_soup moved too quickly! 0.7136377182595766,1.0,10.111595660172725
+[20:48:35] [Server thread/INFO]: <tedzack> in the masnion?
+[20:48:37] [Server thread/INFO]: <jkGold> wait so are we exploring
+[20:48:40] [Server thread/INFO]: <tedzack> yes!
+[20:48:40] [Server thread/INFO]: <jkGold> and what should i take
+[20:48:49] [Server thread/INFO]: <jkGold> like where are we exploring
+[20:48:49] [Server thread/INFO]: <tedzack> armor food weapons
+[20:48:52] [Server thread/INFO]: <tedzack> basic supplies
+[20:48:59] [Server thread/INFO]: <tedzack> oh we were gonna head in one direction and go
+[20:49:00] [Server thread/INFO]: <jkGold> yeah but should i be taking mining supplies and shit
+[20:49:08] [Server thread/WARN]: Optix570 moved too quickly! -10.088679984690941,0.0,-0.864306021624202
+[20:49:15] [Server thread/INFO]: <jkGold> bc i have like enchanted stuff
+[20:49:19] [Server thread/INFO]: <tedzack> oh
+[20:49:21] [Server thread/INFO]: <jkGold> oh ok
+[20:49:24] [Server thread/INFO]: <jkGold> i won't then
+[20:49:26] [Server thread/INFO]: <tedzack> idk eli maria what do we think
+[20:49:29] [Server thread/INFO]: <Optix570> idk
+[20:49:32] [Server thread/INFO]: <tedzack> oh also should we bring beds!
+[20:49:32] [Server thread/INFO]: <Optix570> i brought a pick
+[20:49:37] [Server thread/INFO]: <tedzack> me as well
+[20:49:41] [Server thread/INFO]: <Juanton_soup> sure to beds
+[20:50:05] [Server thread/INFO]: <jkGold> oh i don't have an extra
+[20:50:07] [Server thread/INFO]: <tedzack> does any9one have a spare bed
+[20:50:17] [Server thread/INFO]: <Optix570> do we have to bring beds
+[20:50:26] [Server thread/INFO]: <tedzack> no but sometimes it makes things more convenient
+[20:50:34] [Server thread/INFO]: <Juanton_soup> does anyone have arrows
+[20:50:39] [Server thread/INFO]: <Optix570> okay pls grab a bed for me
+[20:50:40] [Server thread/INFO]: <jkGold> i have some
+[20:50:42] [Server thread/INFO]: <jkGold> but not many
+[20:50:43] [Server thread/INFO]: <tedzack> i don't have a bed
+[20:50:49] [Server thread/INFO]: <jkGold> i also don't have a bed
+[20:50:51] [Server thread/INFO]: <tedzack> well i do but its at home
+[20:50:57] [Server thread/INFO]: <Juanton_soup> eh forget the beds
+[20:51:11] [Server thread/INFO]: <tedzack> wait if we have beds at the compund
+[20:51:13] [Server thread/INFO]: <tedzack> we could grab those
+[20:51:29] [Server thread/INFO]: <jkGold> i don't want to lose my bed tho
+[20:51:37] [Server thread/INFO]: <tedzack> yeah relatable
+[20:51:44] [Server thread/INFO]: <tedzack> okey lets go shave our sheep
+[20:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[20:51:50] [Server thread/INFO]: <tedzack> everyone sleep
+[20:51:56] [Server thread/INFO]: <tedzack> so we can shave sheep in the morning
+[20:51:59] [Server thread/INFO]: <jkGold> cool
+[20:52:02] [Server thread/INFO]: <jkGold> i have my own shears
+[20:52:06] [Server thread/INFO]: <jkGold> like a cool kid
+[20:52:12] [Server thread/INFO]: <tedzack> its bring ur own shears day
+[20:52:17] [Server thread/INFO]: <jkGold> also do we still have all of those llamas
+[20:52:23] [Server thread/INFO]: <jkGold> in like a zoo area
+[20:52:32] [Server thread/INFO]: <tedzack> yes
+[20:52:35] [Server thread/INFO]: <jkGold> rad
+[20:52:37] [Server thread/INFO]: <tedzack> eVERYONE SLEEP
+[20:52:42] [Server thread/INFO]: <jkGold> i am sleeping rn
+[20:52:43] [Server thread/INFO]: <tedzack> we also have a polar bear in there
+[20:52:44] [Server thread/INFO]: <Juanton_soup> im in bed
+[20:52:46] [Server thread/INFO]: <Optix570> i'm not
+[20:52:46] [Server thread/INFO]: <Optix570> cause
+[20:52:49] [Server thread/INFO]: <tedzack> ELIJAH NORMAL KARSHNER
+[20:52:51] [Server thread/INFO]: <Optix570> am in the mountain house
+[20:52:52] [Server thread/INFO]: <Juanton_soup> >:c
+[20:52:54] [Server thread/INFO]: <tedzack> oh
+[20:52:55] [Server thread/INFO]: <tedzack> why r u there
+[20:52:56] [Server thread/INFO]: <Optix570> where we dont have any fucking beds
+[20:53:02] [Server thread/INFO]: <Optix570> i thought we were meeting ther
+[20:53:06] [Server thread/INFO]: <tedzack> oh right jake has to see that
+[20:53:14] [Server thread/INFO]: <tedzack> okey we're gonna make beds first then go to mountain then leave
+[20:53:25] [Server thread/INFO]: <tedzack> why is it as hard to do things in minecraft as it is irl
+[20:53:40] [Server thread/INFO]: <tedzack> planning is not our colective strong suit
+[20:53:44] [Server thread/INFO]: <Juanton_soup> here's a dolphin!!
+[20:53:49] [Server thread/INFO]: <tedzack> WAIT EALLY RWHERE
+[20:53:54] [Server thread/INFO]: <jkGold> wtf does a smoker do
+[20:53:58] [Server thread/INFO]: <jkGold> everything is so different
+[20:54:00] [Server thread/INFO]: <Juanton_soup> behind compound
+[20:54:02] [Server thread/INFO]: <tedzack> nic addiction
+[20:54:18] [Server thread/INFO]: <tedzack> jk jake i don't have sheers
+[20:54:20] [Server thread/INFO]: <tedzack> shears
+[20:54:24] [Server thread/INFO]: <jkGold> where is everyone
+[20:54:24] [Server thread/INFO]: <Juanton_soup> it's swimmin
+[20:54:27] [Server thread/INFO]: <tedzack> could you shear all the sheep and gather
+[20:54:29] [Server thread/INFO]: <Juanton_soup> scooba diving
+[20:54:30] [Server thread/INFO]: <tedzack> the beds
+[20:54:30] [Server thread/INFO]: <Optix570> in the compound
+[20:54:37] [Server thread/INFO]: <tedzack> wya maria
+[20:54:42] [Server thread/INFO]: <Juanton_soup> underwater
+[20:54:48] [Server thread/INFO]: <jkGold> when you say compound
+[20:54:50] [Server thread/INFO]: <jkGold> which one is that
+[20:54:53] [Server thread/INFO]: <Optix570> jake we have
+[20:54:56] [Server thread/INFO]: <Optix570> a compound
+[20:54:59] [Server thread/INFO]: <Optix570> a farm
+[20:55:01] [Server thread/INFO]: <Optix570> a mansion
+[20:55:04] [Server thread/INFO]: <Optix570> and a mountain house
+[20:55:07] [Server thread/INFO]: <jkGold> idk any of these
+[20:55:15] [Server thread/INFO]: <jkGold> i just remember the area we all built together
+[20:55:16] [Server thread/INFO]: <Optix570> just go back to the little underground rooms
+[20:55:20] [Server thread/INFO]: <jkGold> which i'm assuming is the compound
+[20:55:20] [Server thread/INFO]: <Optix570> yes
+[20:55:26] [Server thread/INFO]: <jkGold> ok but where are the sheep
+[20:55:40] [Server thread/INFO]: <Optix570> in the farm
+[20:55:40] [Server thread/INFO]: <Juanton_soup> dolphonn
+[20:55:56] [Server thread/INFO]: <tedzack> they lead us to shipwrecks
+[20:55:58] [Server thread/INFO]: <tedzack> apparently
+[20:56:16] [Server thread/INFO]: <tedzack> they chase afte rplayers w bots
+[20:56:34] [Server thread/INFO]: <tedzack> if u get raw fish
+[20:56:39] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[20:56:39] [Server thread/INFO]: Optix570 left the game
+[20:56:41] [Server thread/INFO]: <tedzack> they eat
+[20:56:50] [Server thread/WARN]: tedzack moved too quickly! 9.72371559423965,2.5,-2.0998212536167955
+[20:56:50] [Server thread/INFO]: Unknown command
+[20:56:50] [Server thread/INFO]: /talk i'm not dead<--[HERE]
+[20:56:55] [Server thread/INFO]: [Server] i'm not dead
+[20:57:09] [Server thread/INFO]: [Server] i'm just moving to a different computer
+[20:57:10] [Server thread/INFO]: <tedzack> eli that's creepy
+[20:57:21] [Server thread/INFO]: [Server] because this one is running the server
+[20:57:24] [Server thread/INFO]: Unknown command
+[20:57:24] [Server thread/INFO]: gottem<--[HERE]
+[20:57:30] [Server thread/INFO]: [Server] gottem
+[20:57:52] [Server thread/WARN]: tedzack moved too quickly! 8.971672122574915,3.0,3.7386846441553985
+[20:58:09] [Server thread/INFO]: <Juanton_soup> are we exploring or nott
+[20:58:14] [Server thread/INFO]: <jkGold> ok who needs a bed i made two
+[20:58:15] [Server thread/INFO]: <tedzack> yes
+[20:58:18] [Server thread/INFO]: <tedzack> oh we sould bring
+[20:58:22] [Server thread/INFO]: <tedzack> boats
+[20:58:23] [Server thread/INFO]: <jkGold> i'm ready to go exploring
+[20:58:30] [Server thread/INFO]: <tedzack> i need a bed
+[20:58:33] [Server thread/INFO]: <Juanton_soup> we only need two boats
+[20:58:37] [Server thread/INFO]: <Juanton_soup> cuz we cn pair up
+[20:58:41] [Server thread/INFO]: <jkGold> i just made one
+[20:58:46] [Server thread/INFO]: tedzack lost connection: Timed out
+[20:58:46] [Server thread/INFO]: tedzack left the game
+[20:58:46] [Server thread/WARN]: handleDisconnection() called twice
+[20:58:49] [Server thread/INFO]: <Juanton_soup> i can grab my bed from the mansion
+[20:58:50] [Server thread/INFO]: <Juanton_soup> o
+[20:58:56] [Server thread/INFO]: <jkGold> i have two bed
+[20:59:05] [Server thread/INFO]: <Juanton_soup> can i have ur bed
+[20:59:09] [User Authenticator #10/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[20:59:09] [Server thread/INFO]: tedzack[/108.46.187.70:54908] logged in with entity id 279375 at (-202.37711936766382, 71.0, 217.86811677653813)
+[20:59:09] [Server thread/INFO]: tedzack joined the game
+[20:59:09] [Server thread/INFO]: <jkGold> ye
+[20:59:11] [Server thread/INFO]: <jkGold> wya
+[20:59:18] [Server thread/INFO]: <tedzack> house
+[20:59:19] [Server thread/INFO]: <Juanton_soup> near the thing you built
+[20:59:21] [Server thread/INFO]: <tedzack> compound
+[20:59:40] [Server thread/INFO]: <tedzack> oh great
+[20:59:41] [Server thread/INFO]: <Juanton_soup> wanna see a dolphin
+[20:59:42] [Server thread/INFO]: <tedzack> let's go
+[21:00:16] [Server thread/INFO]: <Juanton_soup> do we have boat
+[21:00:20] [Server thread/INFO]: <tedzack> omgits so cute
+[21:00:30] [Server thread/INFO]: [Server] there are boats in my room at the compound
+[21:00:36] [Server thread/INFO]: <jkGold> it's a good boy!
+[21:00:43] [Server thread/INFO]: <jkGold> i have one boat
+[21:00:48] [Server thread/INFO]: <Juanton_soup> we only need two
+[21:00:51] [Server thread/INFO]: [Server] i have all the boats
+[21:00:53] [Server thread/INFO]: <jkGold> i can make another one rn ig
+[21:01:01] [Server thread/INFO]: [Server] /spawn boats
+[21:01:05] [Server thread/INFO]: <Juanton_soup> i'll get the boats from eli's room
+[21:01:09] [Server thread/INFO]: <jkGold> ok nvm
+[21:01:30] [Server thread/INFO]: <jkGold> whomst needs a bed
+[21:01:34] [Server thread/INFO]: <Juanton_soup> me
+[21:01:39] [Server thread/INFO]: <jkGold> packard?
+[21:01:51] [Server thread/INFO]: <tedzack> what
+[21:01:53] [Server thread/INFO]: <tedzack> yes i need
+[21:02:02] [Server thread/INFO]: <jkGold> ok so maria should grab a bed from the compound
+[21:02:09] [Server thread/INFO]: <jkGold> assuming eli has one
+[21:02:09] [Server thread/INFO]: <Juanton_soup> okok
+[21:02:13] [Server thread/INFO]: <jkGold> also pacy did you just make a boat
+[21:02:19] [Server thread/INFO]: <jkGold> .
+[21:02:27] [Server thread/INFO]: <tedzack> yes
+[21:02:36] [Server thread/INFO]: <Juanton_soup> .
+[21:02:40] [Server thread/INFO]: <Juanton_soup> so who has boat
+[21:02:43] [Server thread/INFO]: <jkGold> me
+[21:02:44] [Server thread/INFO]: <jkGold> and pacy
+[21:02:46] [Server thread/INFO]: <tedzack> me
+[21:02:52] [Server thread/INFO]: <Juanton_soup> ok so i don't need to get the one from eli's room
+[21:02:53] [Server thread/INFO]: [Server] and me
+[21:02:54] [Server thread/INFO]: <jkGold> and maybe eli if he really exists but idk
+[21:03:02] [Server thread/INFO]: <tedzack> oh maybe we should grab fishing rods?
+[21:03:03] [Server thread/INFO]: <Juanton_soup> we cn double up in boats
+[21:03:07] [Server thread/INFO]: <Juanton_soup> i have one
+[21:03:08] [Server thread/INFO]: <jkGold> oh please do
+[21:03:17] [Server thread/INFO]: <jkGold> there's string in my room if we need to make them
+[21:03:23] [Server thread/INFO]: <jkGold> but i would like a fishing rod pls and thank
+[21:03:26] [Server thread/INFO]: <tedzack> oh maria coud you make me one then
+[21:04:09] [Server thread/INFO]: tedzack lost connection: Timed out
+[21:04:09] [Server thread/INFO]: tedzack left the game
+[21:04:09] [Server thread/INFO]: <jkGold> also i forgot i have a grandpa skin
+[21:04:17] [Server thread/INFO]: [Server] rip
+[21:04:23] [Server thread/INFO]: [Server] that's not my fault btw
+[21:04:51] [User Authenticator #11/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:04:51] [Server thread/INFO]: tedzack[/108.46.187.70:54956] logged in with entity id 288346 at (-185.6564849397074, 60.51336827364906, 305.9695569164408)
+[21:04:51] [Server thread/INFO]: tedzack joined the game
+[21:05:20] [Server thread/WARN]: tedzack moved too quickly! -0.37119971937022456,1.0860940793155152,-10.176399012579111
+[21:05:24] [Server thread/WARN]: tedzack was kicked for floating too long!
+[21:05:24] [Server thread/WARN]: tedzack was kicked for floating too long!
+[21:05:24] [Server thread/WARN]: tedzack was kicked for floating too long!
+[21:05:24] [Server thread/WARN]: tedzack was kicked for floating too long!
+[21:05:24] [Server thread/INFO]: tedzack lost connection: Flying is not enabled on this server
+[21:05:24] [Server thread/INFO]: tedzack left the game
+[21:05:32] [Server thread/INFO]: [Server] rip again
+[21:05:36] [Server thread/INFO]: [Server] waht are yall doing
+[21:05:47] [Server thread/INFO]: <jkGold> i'm being bored on my mob farm thing
+[21:05:49] [User Authenticator #12/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:05:49] [Server thread/INFO]: tedzack[/108.46.187.70:54970] logged in with entity id 291718 at (-177.23260131486165, 73.24918707874468, 259.572776810821)
+[21:05:49] [Server thread/INFO]: tedzack joined the game
+[21:06:02] [Server thread/INFO]: <jkGold> which does actually work btw
+[21:06:03] [Server thread/INFO]: <tedzack> wait
+[21:06:05] [Server thread/INFO]: <tedzack> my thing is lagging out
+[21:06:06] [Server thread/INFO]: <tedzack> so
+[21:06:07] [Server thread/INFO]: <jkGold> a little bit at least
+[21:06:09] [Server thread/INFO]: <tedzack> do i have a rod
+[21:06:13] [Server thread/INFO]: <tedzack> or shoud i make one
+[21:06:26] [Server thread/INFO]: <Juanton_soup> i have some
+[21:06:28] [Server thread/INFO]: <tedzack> also lets sleep then leave in the morning?
+[21:06:44] [Server thread/INFO]: <tedzack> also where's eli
+[21:06:48] [Server thread/INFO]: <jkGold> yeah where is eli
+[21:06:53] [Server thread/INFO]: <jkGold> if he really exists
+[21:06:53] [Server thread/INFO]: [Server] wow early 2011 macbook pros suck @jake
+[21:07:05] [Server thread/INFO]: <jkGold> yes they do
+[21:07:20] [Server thread/INFO]: <Juanton_soup> im in bed
+[21:07:28] [Server thread/INFO]: <jkGold> i'm omw to bed gonna take a second
+[21:07:53] [Server thread/INFO]: <tedzack> resting
+[21:08:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@671727d0[id=<null>,name=Optix570,properties={},legacy=false] (/108.29.106.121:1024) lost connection: Disconnected
+[21:08:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c5fcec[id=<null>,name=Optix570,properties={},legacy=false] (/108.29.106.121:1024) lost connection: Timed out
+[21:09:07] [Server thread/INFO]: jkGold lost connection: Timed out
+[21:09:07] [Server thread/INFO]: jkGold left the game
+[21:09:11] [User Authenticator #13/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:09:11] [Server thread/INFO]: Optix570[/108.29.106.121:1025] logged in with entity id 295907 at (-222.06515811897168, 65.0, 228.0785883569687)
+[21:09:11] [Server thread/INFO]: Optix570 joined the game
+[21:09:12] [Server thread/INFO]: <tedzack> jake!
+[21:10:00] [User Authenticator #14/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:10:00] [Server thread/INFO]: jkGold[/24.215.191.19:32812] logged in with entity id 296877 at (-237.70000002533197, 65.0000002, 218.29999997466803)
+[21:10:00] [Server thread/INFO]: jkGold joined the game
+[21:10:11] [Server thread/INFO]: <jkGold> hiya kiddos i'm back
+[21:10:23] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[21:10:23] [Server thread/INFO]: Optix570 left the game
+[21:10:28] [Server thread/INFO]: <tedzack> goddamn it
+[21:10:32] [Server thread/INFO]: <jkGold> does someone have a fishing rod for me/string
+[21:10:32] [Server thread/INFO]: <tedzack> perpetually incomplete
+[21:10:37] [Server thread/INFO]: <jkGold> sorry my wifi died
+[21:10:44] [Server thread/INFO]: <Juanton_soup> jakeee
+[21:10:47] [Server thread/INFO]: <Juanton_soup> i just threw one at you
+[21:10:49] [Server thread/INFO]: <Juanton_soup> but you moved
+[21:10:51] [Server thread/INFO]: <jkGold> oh thank
+[21:10:52] [Server thread/INFO]: <tedzack> wait can i have one too
+[21:10:57] [Server thread/INFO]: <Juanton_soup> wya
+[21:11:00] [Server thread/INFO]: <tedzack> farm compound
+[21:11:06] [Server thread/INFO]: <tedzack> while eli is gone wanna go visit the mountain home
+[21:11:09] [Server thread/INFO]: <tedzack> and he can meet us there
+[21:11:12] [Server thread/INFO]: <jkGold> sure
+[21:11:31] [Server thread/INFO]: [Server] minecraft is a lot more resource hungry than i remember
+[21:11:37] [User Authenticator #15/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:11:37] [Server thread/INFO]: Optix570[/108.29.106.121:1025] logged in with entity id 298848 at (-222.06515811897168, 65.0, 228.0785883569687)
+[21:11:37] [Server thread/INFO]: Optix570 joined the game
+[21:11:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[21:11:49] [Server thread/INFO]: <Optix570> i made it
+[21:11:50] [Server thread/INFO]: <Optix570> wow
+[21:11:59] [Server thread/INFO]: <tedzack> meet us at mountain home
+[21:12:36] [Server thread/INFO]: <Optix570> also turns out my new laptop running a server+browser+minecraft is still so much faster than an early 2011 macbook pro running just minecraft
+[21:12:50] [Server thread/INFO]: <jkGold> wait is this quartz
+[21:12:53] [Server thread/INFO]: [Server] which is kinda funny
+[21:12:53] [Server thread/INFO]: <tedzack> concrete
+[21:12:53] [Server thread/INFO]: <jkGold> isn't that in the nether
+[21:12:57] [Server thread/INFO]: <jkGold> oh
+[21:12:59] [Server thread/INFO]: <tedzack> we have a bar
+[21:13:03] [Server thread/INFO]: <Optix570> i have no pants
+[21:13:08] [Server thread/INFO]: <tedzack> you whore
+[21:13:10] [Server thread/INFO]: <Juanton_soup> gdi eli put some pants on
+[21:13:12] [Server thread/INFO]: <Optix570> do i still have service
+[21:13:19] [Server thread/INFO]: <tedzack> kitchen!
+[21:13:21] [Server thread/INFO]: <jkGold> when what does this do
+[21:13:35] [Server thread/INFO]: <tedzack> also the kitchen actually works now
+[21:13:42] [Server thread/INFO]: <tedzack> the oven can bake things
+[21:13:42] [Server thread/INFO]: <jkGold> when tf did you guys do all of this
+[21:13:44] [Server thread/INFO]: <Optix570> why is there rotten flesh in the smoker
+[21:13:47] [Server thread/INFO]: <jkGold> how much were you playing
+[21:13:48] [Server thread/INFO]: <tedzack> don't ask
+[21:13:52] [Server thread/INFO]: <tedzack> the art
+[21:13:59] [Server thread/INFO]: <Optix570> wait lemme get these pants real quick
+[21:14:03] [Server thread/INFO]: <tedzack> you whore
+[21:14:05] [Server thread/INFO]: <jkGold> was this done in creative
+[21:14:07] [Server thread/INFO]: <Optix570> aww yea
+[21:14:11] [Server thread/INFO]: <Optix570> look at my new pants
+[21:14:19] [Server thread/INFO]: <Optix570> i stole them from the kitchen
+[21:14:40] [Server thread/INFO]: <tedzack> that's an apron
+[21:14:47] [Server thread/INFO]: <Optix570> well now its pants
+[21:14:48] [Server thread/INFO]: <Juanton_soup> are we adventurING
+[21:14:51] [Server thread/INFO]: <tedzack> also
+[21:14:51] [Server thread/INFO]: <jkGold> let's do it
+[21:14:53] [Server thread/INFO]: <tedzack> fishing rod?
+[21:14:58] [Server thread/INFO]: <tedzack> let's go
+[21:14:58] [Server thread/INFO]: <Optix570> no
+[21:15:02] [Server thread/INFO]: <Optix570> i have a crossbow
+[21:15:03] [Server thread/INFO]: <Juanton_soup> right in front of me
+[21:15:04] [Server thread/INFO]: <Optix570> thats how i fish
+[21:15:06] [Server thread/INFO]: <tedzack> uh does someone have the coordinates for home memorized
+[21:15:09] [Server thread/INFO]: <Juanton_soup> eli took it
+[21:15:15] [Server thread/INFO]: <tedzack> give it back
+[21:15:21] [Server thread/INFO]: <Optix570> no
+[21:15:24] [Server thread/INFO]: <Optix570> i dont have it
+[21:15:33] [Server thread/INFO]: <jkGold> also does everyone have a bed
+[21:15:36] [Server thread/INFO]: <Optix570> no
+[21:15:41] [Server thread/INFO]: <jkGold> gdi
+[21:15:42] [Server thread/INFO]: <Juanton_soup> nope
+[21:15:46] [Server thread/INFO]: <Optix570> wheres my bed
+[21:16:06] [Server thread/INFO]: <Optix570> jake i thought you made for everyone
+[21:16:10] [Server thread/INFO]: <jkGold> no i made two
+[21:16:14] [Server thread/INFO]: <jkGold> which i said a few times
+[21:16:15] [Server thread/INFO]: <Optix570> oh
+[21:16:16] [Server thread/INFO]: <Optix570> nice
+[21:16:20] [Server thread/INFO]: <Juanton_soup> whatever we don't need bedssss
+[21:16:22] [Server thread/INFO]: <jkGold> if you ever LISTENED TO ME ::::::(
+[21:16:25] [Server thread/INFO]: <tedzack> where'd everyone go
+[21:16:27] [Server thread/INFO]: <Optix570> where is pake
+[21:16:33] [Server thread/INFO]: <tedzack> wait it doesn't make sense for some of us to have beds and some of us not to
+[21:16:35] [Server thread/INFO]: <tedzack> either all
+[21:16:37] [Server thread/INFO]: <tedzack> or none
+[21:16:42] [Server thread/INFO]: <Optix570> just dont die
+[21:16:49] [Server thread/WARN]: Optix570 moved too quickly! -6.065184451052005,-0.7448407234098795,8.120542122618758
+[21:16:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[21:16:51] [Server thread/INFO]: <jkGold> well i think we're doing none except i already have one so idk
+[21:16:55] [Server thread/INFO]: <tedzack> that's difficult for us
+[21:16:59] [Server thread/INFO]: <tedzack> WE ALL HAVE ONE EXCEPT ELI
+[21:17:07] [Server thread/INFO]: <Juanton_soup> i don't have one
+[21:17:10] [Server thread/INFO]: <tedzack> oh
+[21:17:13] [Server thread/INFO]: <Optix570> literally false
+[21:17:15] [Server thread/INFO]: <Optix570> gottem
+[21:17:15] [Server thread/INFO]: <tedzack> okey w/e
+[21:17:16] [Server thread/INFO]: <jkGold> also where is pacy
+[21:17:17] [Server thread/INFO]: <tedzack> let's leave
+[21:17:25] [Server thread/INFO]: <tedzack> mountain home
+[21:17:30] [Server thread/INFO]: <Optix570> maria already decided to leave
+[21:17:39] [Server thread/INFO]: [tedzack: Teleported tedzack to Juanton_soup]
+[21:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[21:17:49] [Server thread/INFO]: <jkGold> also does someone have coors for home that wasn't answered
+[21:18:05] [Server thread/INFO]: <tedzack> eli shows up and immediately murders chickens
+[21:18:06] [Server thread/INFO]: <Juanton_soup> paky take down ur coords rn
+[21:18:12] [Server thread/INFO]: <Juanton_soup> whoops
+[21:18:13] [Server thread/INFO]: <Optix570> need feathers
+[21:18:14] [Server thread/INFO]: <Juanton_soup> you r here
+[21:18:15] [Server thread/INFO]: <tedzack> I"M WITH YOU
+[21:18:23] [Server thread/INFO]: <Juanton_soup> eh this is close enough to home just take these coords
+[21:18:31] [Server thread/INFO]: <tedzack> eli take them down
+[21:18:36] [Server thread/INFO]: <Optix570> ugh
+[21:18:55] [Server thread/INFO]: <Optix570> lets go
+[21:19:15] [Server thread/INFO]: <Optix570> where did smol go
+[21:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[21:19:25] [Server thread/INFO]: <Juanton_soup> im in a SWAMP
+[21:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[21:19:37] [Server thread/INFO]: <Optix570> typical
+[21:19:42] [Server thread/INFO]: <Juanton_soup> oh wait i just realized
+[21:19:44] [Server thread/INFO]: <Juanton_soup> i have a compass
+[21:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[21:19:57] [Server thread/INFO]: <tedzack> where are y'all
+[21:20:03] [Server thread/INFO]: <tedzack> i was tree climbing
+[21:20:06] [Server thread/INFO]: <tedzack> now i can't find y'all
+[21:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5931ms or 118 ticks behind
+[21:20:25] [Server thread/INFO]: <jkGold> i also can't
+[21:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4577ms or 91 ticks behind
+[21:20:37] [Server thread/INFO]: <tedzack> wait jk i see
+[21:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[21:21:03] [Server thread/INFO]: <jkGold> i'm by lava and someone left a sword
+[21:21:09] [Server thread/INFO]: <jkGold> oh
+[21:21:12] [Server thread/INFO]: <tedzack> did u want it
+[21:21:12] [Server thread/INFO]: <Optix570> where is smol
+[21:21:17] [Server thread/INFO]: <jkGold> also i found three sheep
+[21:21:19] [Server thread/INFO]: <tedzack> its very damaged
+[21:21:22] [Server thread/INFO]: <tedzack> great timing for the sheep
+[21:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:21:34] [Server thread/INFO]: <jkGold> so if we find one more we can do beds
+[21:21:35] [Server thread/INFO]: <tedzack> smolw ya
+[21:21:43] [Server thread/INFO]: <Juanton_soup> idk
+[21:21:46] [Server thread/INFO]: <Juanton_soup> in swamp
+[21:21:47] [Server thread/INFO]: <Optix570> oh my god
+[21:21:48] [Server thread/INFO]: <Juanton_soup> just killed slime
+[21:21:49] [Server thread/INFO]: <tedzack> so are we
+[21:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:21:57] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[21:22:04] [Server thread/INFO]: <Juanton_soup> o hai
+[21:22:07] [Server thread/INFO]: <tedzack> okey let's go
+[21:22:15] [Server thread/INFO]: <jkGold> wait one sec
+[21:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7265ms or 145 ticks behind
+[21:22:31] [Server thread/INFO]: <jkGold> ok i'm good
+[21:22:34] [Server thread/INFO]: <jkGold> had to turn up birhgtness
+[21:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[21:23:34] [Server thread/INFO]: <tedzack> ow
+[21:23:38] [Server thread/INFO]: <Optix570> whoops
+[21:23:39] [Server thread/INFO]: <Optix570> also
+[21:23:42] [Server thread/INFO]: <Optix570> note to all
+[21:23:48] [Server thread/INFO]: <Optix570> there's a cooldown time on attacks
+[21:23:49] [Server thread/INFO]: <Optix570> so
+[21:24:01] [Server thread/INFO]: <Optix570> most efficent attacks every 1-2 secs
+[21:24:23] [Server thread/INFO]: <jkGold> isn't there also jump boost for damage
+[21:24:27] [Server thread/INFO]: <tedzack> oh
+[21:24:28] [Server thread/INFO]: <Optix570> perhaps
+[21:24:29] [Server thread/INFO]: <tedzack> uh
+[21:24:30] [Server thread/INFO]: <tedzack> incoming
+[21:24:37] [Server thread/INFO]: <Optix570> we just need to outrun them
+[21:25:05] [Server thread/INFO]: <Optix570> we dont have to fight every mob in the fores
+[21:25:11] [Server thread/INFO]: <jkGold> you say that
+[21:25:13] [Server thread/INFO]: <jkGold> SHEEP
+[21:25:19] [Server thread/INFO]: <Optix570> we really shouldnt
+[21:25:37] [Server thread/INFO]: <Optix570> oh my god
+[21:25:39] [Server thread/INFO]: <jkGold> got it
+[21:25:44] [Server thread/INFO]: <tedzack> sheat sheep
+[21:26:14] [Server thread/INFO]: <jkGold> so do y'all want beds now
+[21:26:17] [Server thread/INFO]: <jkGold> i can make two more
+[21:26:18] [Server thread/INFO]: <Optix570> no
+[21:26:18] [Server thread/INFO]: <Juanton_soup> sure
+[21:26:23] [Server thread/INFO]: <Optix570> we can just
+[21:26:23] [Server thread/INFO]: <jkGold> fuck you
+[21:26:25] [Server thread/INFO]: <Optix570> run real fast
+[21:26:27] [Server thread/INFO]: <jkGold> i'm making beds
+[21:26:30] [Server thread/INFO]: <Optix570> gdi
+[21:26:39] [Server thread/INFO]: <Optix570> also after beds your compass wont work smol
+[21:26:44] [Server thread/INFO]: <Optix570> wont point to home
+[21:26:51] [Server thread/INFO]: <tedzack> we have coords anyway
+[21:26:51] [Server thread/INFO]: <Juanton_soup> o
+[21:26:54] [Server thread/INFO]: <Juanton_soup> okey
+[21:27:35] [Server thread/WARN]: Juanton_soup moved too quickly! -10.104907620854192,1.0,0.6655222892824213
+[21:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5852ms or 117 ticks behind
+[21:28:14] [Server thread/INFO]: <tedzack> sounds like swim time
+[21:28:19] [Server thread/INFO]: <Juanton_soup> boat?
+[21:28:21] [Server thread/INFO]: <jkGold> uh i'm lagging out hard
+[21:28:27] [Server thread/INFO]: jkGold lost connection: Disconnected
+[21:28:27] [Server thread/INFO]: jkGold left the game
+[21:28:31] [Server thread/INFO]: <Optix570> holy shit
+[21:28:37] [Server thread/INFO]: <Optix570> there;s so much crap in the water
+[21:28:42] [Server thread/INFO]: <Juanton_soup> what is that?
+[21:28:45] [Server thread/INFO]: <tedzack> i want to see it
+[21:28:47] [Server thread/INFO]: [Server] kelp
+[21:28:47] [User Authenticator #16/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:28:47] [Server thread/INFO]: jkGold[/24.215.191.19:33231] logged in with entity id 323199 at (-1176.300000011921, 68.0, 277.6938633841561)
+[21:28:47] [Server thread/INFO]: jkGold joined the game
+[21:28:48] [Server thread/INFO]: <tedzack> seaweed
+[21:28:49] [Server thread/INFO]: <tedzack> etc
+[21:28:50] [Server thread/INFO]: <jkGold> fuck
+[21:28:55] [Server thread/INFO]: <jkGold> i'm lagging a lot
+[21:28:57] [Server thread/INFO]: <Optix570> jake look at the water
+[21:28:57] [Server thread/INFO]: <Juanton_soup> swim?
+[21:29:03] [Server thread/INFO]: <Optix570> that's probably why
+[21:29:04] [Server thread/INFO]: <jkGold> woah
+[21:29:05] [Server thread/INFO]: <Optix570> goddamn
+[21:29:06] [Server thread/INFO]: <jkGold> holy shit
+[21:29:17] [Server thread/INFO]: <tedzack> maybe
+[21:29:20] [Server thread/INFO]: <tedzack> we just stand here
+[21:29:23] [Server thread/INFO]: <tedzack> and wait for things to load?
+[21:29:25] [Server thread/INFO]: <Optix570> on the plus side
+[21:29:32] [Server thread/INFO]: <tedzack> the water is pretty
+[21:29:34] [Server thread/INFO]: <Optix570> this means new chunks are loaded
+[21:29:37] [Server thread/INFO]: <Optix570> so we see new stuff
+[21:30:04] [Server thread/INFO]: <Juanton_soup> hi jake
+[21:30:07] [Server thread/INFO]: <tedzack> help
+[21:30:08] [Server thread/INFO]: <jkGold> heyo
+[21:30:09] [Server thread/WARN]: Boat moved wrongly!
+[21:30:14] [Server thread/INFO]: <tedzack> there are drowned
+[21:30:28] [Server thread/INFO]: <Juanton_soup> drowned what?
+[21:30:30] [Server thread/INFO]: Optix570 was impaled by Drowned
+[21:30:39] [Server thread/INFO]: jkGold lost connection: Disconnected
+[21:30:39] [Server thread/INFO]: jkGold left the game
+[21:30:42] [Server thread/INFO]: tedzack lost connection: Disconnected
+[21:30:42] [Server thread/INFO]: tedzack left the game
+[21:30:42] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[21:30:42] [Server thread/INFO]: Optix570 left the game
+[21:30:43] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[21:30:43] [Server thread/INFO]: Juanton_soup left the game
+[21:30:45] [Server thread/INFO]: [Server] goddamn
+[21:30:47] [User Authenticator #17/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
+[21:30:51] [Server thread/INFO]: jkGold[/24.215.191.19:33281] logged in with entity id 324671 at (-1259.2499410457294, 62.07326374396073, 288.62966776647716)
+[21:30:51] [Server thread/INFO]: jkGold joined the game
+[21:30:55] [User Authenticator #18/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[21:30:55] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53013] logged in with entity id 324787 at (-1262.4067071928418, 61.806211630325144, 289.3756267980121)
+[21:30:55] [Server thread/INFO]: Juanton_soup joined the game
+[21:30:59] [User Authenticator #19/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:31:00] [Server thread/INFO]: Optix570[/108.29.106.121:1024] logged in with entity id 325003 at (-1239.3044623768103, 62.41252181361048, 331.2475885942521)
+[21:31:00] [Server thread/INFO]: Optix570 joined the game
+[21:31:00] [Server thread/INFO]: <jkGold> uh this might be a problem
+[21:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:31:09] [Server thread/INFO]: <jkGold> if everyone keeps getting kicked
+[21:31:13] [User Authenticator #20/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:31:13] [Server thread/INFO]: tedzack[/108.46.187.70:55144] logged in with entity id 325377 at (-1248.8574380285586, 62.073264739703426, 285.42860754127355)
+[21:31:13] [Server thread/INFO]: tedzack joined the game
+[21:31:15] [Server thread/INFO]: [Optix570: Teleported Optix570 to jkGold]
+[21:31:26] [Server thread/INFO]: <Optix570> fucking hell
+[21:31:39] [User Authenticator #21/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:31:41] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[21:31:45] [Server thread/INFO]: <jkGold> uh
+[21:31:50] [Server thread/INFO]: <jkGold> why is there a bunch of stuff there
+[21:31:50] [Server thread/INFO]: tedzack lost connection: Disconnected
+[21:31:50] [Server thread/INFO]: tedzack left the game
+[21:31:50] [Server thread/INFO]: tedzack[/108.46.187.70:55187] logged in with entity id 325436 at (-1248.8574380285586, 62.073264739703426, 285.42860754127355)
+[21:31:50] [Server thread/INFO]: tedzack joined the game
+[21:31:51] [Server thread/INFO]: <Juanton_soup> want some kelp
+[21:31:56] [Server thread/INFO]: <jkGold> did someone die
+[21:31:57] [Server thread/INFO]: <tedzack> i'm back
+[21:32:04] [Server thread/INFO]: Juanton_soup was impaled by Drowned
+[21:32:11] [Server thread/INFO]: <jkGold> wait what
+[21:32:15] [Server thread/INFO]: <jkGold> the fuck is a drowned
+[21:32:16] [Server thread/INFO]: <Juanton_soup> can i get
+[21:32:19] [Server thread/INFO]: <Juanton_soup> back to wher ei was
+[21:32:26] [Server thread/INFO]: <Juanton_soup> someone who has the authority to teleoprt
+[21:32:28] [Server thread/INFO]: [tedzack: Teleported Juanton_soup to tedzack]
+[21:32:29] [Server thread/WARN]: Juanton_soup moved too quickly! 1.9732517705988357,-10.80652611000901,0.7111766424949906
+[21:32:43] [Server thread/INFO]: Juanton_soup was impaled by Drowned
+[21:32:48] [Server thread/INFO]: <jkGold> wait are there underwater mobs
+[21:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4207ms or 84 ticks behind
+[21:32:48] [Server thread/INFO]: <tedzack> those are terrifying
+[21:32:51] [Server thread/INFO]: [tedzack: Teleported Juanton_soup to tedzack]
+[21:32:52] [Server thread/INFO]: <Juanton_soup> that was
+[21:32:56] [Server thread/INFO]: <jkGold> wait holy shit
+[21:33:06] [Server thread/INFO]: Juanton_soup was impaled by Drowned
+[21:33:11] [Server thread/INFO]: <jkGold> there's a lot of them
+[21:33:11] [Server thread/INFO]: <jkGold> help
+[21:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:33:14] [Server thread/INFO]: <Juanton_soup> this is not fun
+[21:33:14] [Server thread/INFO]: <jkGold> i'm all alone in a big ocean and i am now Scared
+[21:33:16] [Server thread/INFO]: jkGold lost connection: Disconnected
+[21:33:16] [Server thread/INFO]: jkGold left the game
+[21:33:17] [Server thread/INFO]: <Juanton_soup> but kinda funny
+[21:33:34] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[21:33:34] [Server thread/INFO]: Optix570 left the game
+[21:33:34] [Server thread/INFO]: tedzack lost connection: Disconnected
+[21:33:34] [Server thread/INFO]: tedzack left the game
+[21:33:35] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[21:33:35] [Server thread/INFO]: Juanton_soup left the game
+[21:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:33:41] [User Authenticator #22/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:33:41] [Server thread/INFO]: jkGold[/24.215.191.19:33370] logged in with entity id 328419 at (-1247.6114001749102, 62.07326374396073, 325.32492412212656)
+[21:33:41] [Server thread/INFO]: jkGold joined the game
+[21:33:44] [User Authenticator #23/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:33:44] [Server thread/INFO]: tedzack[/108.46.187.70:55201] logged in with entity id 328504 at (-1183.1246172599954, 63.0, 310.72212292387775)
+[21:33:44] [Server thread/INFO]: tedzack joined the game
+[21:33:46] [User Authenticator #24/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[21:33:46] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53018] logged in with entity id 328828 at (-231.79078600383588, 65.0625, 208.44189289910446)
+[21:33:46] [Server thread/INFO]: Juanton_soup joined the game
+[21:33:57] [Server thread/INFO]: [tedzack: Teleported Juanton_soup to tedzack]
+[21:33:57] [User Authenticator #25/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:33:57] [Server thread/INFO]: Optix570[/108.29.106.121:1024] logged in with entity id 330057 at (-1239.4261708623108, 27.003322384848325, 319.4888830546995)
+[21:33:57] [Server thread/INFO]: Optix570 joined the game
+[21:33:59] [Server thread/INFO]: <tedzack> take wya
+[21:34:12] [Server thread/INFO]: jkGold lost connection: Disconnected
+[21:34:12] [Server thread/INFO]: jkGold left the game
+[21:34:12] [Server thread/INFO]: tedzack lost connection: Disconnected
+[21:34:12] [Server thread/INFO]: tedzack left the game
+[21:34:12] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[21:34:12] [Server thread/INFO]: Juanton_soup left the game
+[21:34:12] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[21:34:12] [Server thread/INFO]: Optix570 left the game
+[21:34:21] [User Authenticator #26/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[21:34:22] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53020] logged in with entity id 330060 at (-1183.1438355012024, 63.0, 310.7182733547649)
+[21:34:22] [Server thread/INFO]: Juanton_soup joined the game
+[21:34:32] [User Authenticator #27/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:34:32] [Server thread/INFO]: Optix570[/108.29.106.121:1024] logged in with entity id 330538 at (-1239.4261708623108, 27.003322384848325, 319.4888830546995)
+[21:34:32] [Server thread/INFO]: Optix570 joined the game
+[21:34:34] [Server thread/INFO]: <Juanton_soup> there's liek a castle or smthing
+[21:34:34] [User Authenticator #28/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:34:34] [Server thread/INFO]: tedzack[/108.46.187.70:55220] logged in with entity id 330541 at (-1182.986329754671, 63.0, 310.72212292387775)
+[21:34:34] [Server thread/INFO]: tedzack joined the game
+[21:34:39] [Server thread/INFO]: <Optix570> fuck there's so much to render
+[21:34:42] [User Authenticator #29/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:34:42] [Server thread/INFO]: jkGold[/24.215.191.19:33395] logged in with entity id 330543 at (-1247.0949692146767, 63.17915698370444, 323.98483072968605)
+[21:34:42] [Server thread/INFO]: jkGold joined the game
+[21:34:57] [Server thread/INFO]: jkGold lost connection: Timed out
+[21:34:57] [Server thread/INFO]: jkGold left the game
+[21:34:58] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[21:34:58] [Server thread/INFO]: Juanton_soup left the game
+[21:34:58] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[21:34:58] [Server thread/INFO]: Optix570 left the game
+[21:34:58] [Server thread/INFO]: tedzack lost connection: Disconnected
+[21:34:58] [Server thread/INFO]: tedzack left the game
+[21:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:35:07] [User Authenticator #30/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:35:08] [Server thread/INFO]: tedzack[/108.46.187.70:55249] logged in with entity id 330551 at (-1182.2603449820776, 63.0, 310.3641392730955)
+[21:35:08] [Server thread/INFO]: tedzack joined the game
+[21:35:18] [User Authenticator #31/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:35:18] [User Authenticator #32/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[21:35:18] [Server thread/INFO]: jkGold[/24.215.191.19:33407] logged in with entity id 330988 at (-1247.0949692146767, 63.10075698217856, 323.98483072968605)
+[21:35:18] [Server thread/INFO]: jkGold joined the game
+[21:35:18] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53022] logged in with entity id 330989 at (-1182.4486891787146, 63.0, 313.68579974413996)
+[21:35:18] [Server thread/INFO]: Juanton_soup joined the game
+[21:35:32] [Server thread/INFO]: <jkGold> ok what is happening
+[21:35:34] [User Authenticator #33/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:35:34] [Server thread/INFO]: Optix570[/108.29.106.121:1025] logged in with entity id 331000 at (-1238.2554953323956, 62.450435217835135, 328.1908208657616)
+[21:35:34] [Server thread/INFO]: Optix570 joined the game
+[21:35:44] [Server thread/INFO]: <tedzack> i kinda wanna fight these scary dudes
+[21:35:48] [Server thread/INFO]: <Optix570> fuck there's so much to render
+[21:35:48] [Server thread/INFO]: <tedzack> but don't wanna lose all my stuff at once
+[21:35:54] [Server thread/INFO]: <tedzack> so i'mma suitecase this
+[21:36:05] [Server thread/INFO]: <jkGold> wait what is suitecase
+[21:36:08] [Server thread/INFO]: <jkGold> is that a thing
+[21:36:11] [Server thread/INFO]: <tedzack> well i mean
+[21:36:14] [Server thread/INFO]: <tedzack> chest
+[21:36:17] [Server thread/INFO]: <jkGold> oh
+[21:36:18] [Server thread/INFO]: <tedzack> whoever took my boat
+[21:36:20] [Server thread/INFO]: <tedzack> can i hope on it
+[21:36:22] [Server thread/INFO]: <jkGold> also why am i nightvisioned
+[21:36:29] [Server thread/INFO]: <tedzack> what
+[21:36:29] [Server thread/INFO]: <Optix570> jake they shot your boat
+[21:36:41] [Server thread/INFO]: <Optix570> and they are gonna kill you
+[21:36:45] [Server thread/INFO]: <Optix570> and also the server
+[21:36:48] [Server thread/INFO]: <tedzack> other ppl can put stuff in chest too
+[21:36:52] [Server thread/INFO]: <jkGold> what the fuck
+[21:36:56] [Server thread/INFO]: <Optix570> fucking water zombies
+[21:37:03] [Server thread/INFO]: <Juanton_soup> anyone have spare armor?
+[21:37:16] [Server thread/INFO]: <tedzack> nah but if i brought iron it'd be in the chest
+[21:37:30] [Server thread/INFO]: <jkGold> wait so why do we have the chest
+[21:37:33] [Server thread/INFO]: <Juanton_soup> gun explore
+[21:37:34] [Server thread/INFO]: <jkGold> are we fighting them?
+[21:37:44] [Server thread/INFO]: <Optix570> you shouldnt
+[21:37:47] [Server thread/INFO]: <Optix570> you're gonna die
+[21:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[21:38:02] [Server thread/INFO]: <Optix570> those dudes with spears will fuck you up
+[21:38:04] [Server thread/INFO]: <jkGold> also are they everywhere or just near that temple thing
+[21:38:06] [Server thread/INFO]: tedzack was impaled by Drowned
+[21:38:09] [Server thread/INFO]: <Optix570> gottem
+[21:38:15] [Server thread/INFO]: <jkGold> and also also
+[21:38:16] [Server thread/INFO]: <Optix570> probably just near there
+[21:38:19] [Server thread/INFO]: <jkGold> why am i night visioned
+[21:38:23] [Server thread/INFO]: <Optix570> there's castles and boats
+[21:38:26] [Server thread/INFO]: [tedzack: Teleported tedzack to Juanton_soup]
+[21:38:27] [Server thread/WARN]: tedzack moved too quickly! 0.0,-10.80652611000901,0.0
+[21:38:32] [Server thread/INFO]: <Optix570> so you can see what's down there
+[21:38:35] [Server thread/INFO]: <Optix570> take a look
+[21:38:46] [Server thread/INFO]: <tedzack> waot
+[21:38:52] [Server thread/INFO]: <Optix570> its cool but also deadly
+[21:38:54] [Server thread/INFO]: <tedzack> does someone have my stuff
+[21:38:56] [Server thread/INFO]: <jkGold> oh i could already see i think
+[21:38:56] [Server thread/INFO]: <tedzack> also there's a temple
+[21:39:05] [Server thread/WARN]: Optix570 moved too quickly! -9.93493088199898,0.0,1.5896226724171925
+[21:39:12] [Server thread/INFO]: Juanton_soup drowned
+[21:39:12] [Server thread/WARN]: Optix570 moved too quickly! -10.191206252930897,1.0104000401496904,-2.5434584847782276
+[21:39:21] [Server thread/INFO]: <jkGold> wtf with the harpoon guys
+[21:39:22] [Server thread/INFO]: <Optix570> is there
+[21:39:23] [Server thread/INFO]: <Optix570> i only saw some random crap
+[21:39:24] [Server thread/INFO]: <tedzack> dudes
+[21:39:24] [Server thread/INFO]: <tedzack> this stuff is so cool
+[21:39:25] [Server thread/WARN]: Juanton_soup moved too quickly! 9.048032765846756,-1.1597661297318922,-4.238977992017112
+[21:39:29] [Server thread/INFO]: tedzack lost connection: Timed out
+[21:39:29] [Server thread/INFO]: tedzack left the game
+[21:39:37] [Server thread/INFO]: <Juanton_soup> how did i drown
+[21:39:39] [Server thread/INFO]: <Juanton_soup> what
+[21:39:41] [User Authenticator #34/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:39:41] [Server thread/INFO]: tedzack[/108.46.187.70:55285] logged in with entity id 334291 at (-1184.7080051438045, 64.32426338668535, 313.893664120626)
+[21:39:41] [Server thread/INFO]: tedzack joined the game
+[21:39:45] [Server thread/INFO]: <Optix570> look at this shit
+[21:40:12] [Server thread/INFO]: tedzack was impaled by Drowned
+[21:40:13] [Server thread/INFO]: <Optix570> pacy is gonna die again
+[21:40:14] [Server thread/INFO]: <Optix570> gottem
+[21:40:15] [Server thread/INFO]: <jkGold> can harpoon boy chill
+[21:40:27] [Server thread/INFO]: <jkGold> also can i shoot into the water
+[21:40:28] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[21:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:40:31] [Server thread/INFO]: <Optix570> idk
+[21:40:40] [Server thread/INFO]: <jkGold> i cannot
+[21:40:42] [Server thread/INFO]: tedzack was impaled by Drowned
+[21:40:49] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[21:40:50] [Server thread/INFO]: <jkGold> wait he's in a boat
+[21:40:58] [Server thread/INFO]: <tedzack> why are they on the boat
+[21:41:08] [Server thread/INFO]: [tedzack: Set the time to 1000]
+[21:41:13] [Server thread/INFO]: <jkGold> what the actual fuck
+[21:41:13] [Server thread/INFO]: <Juanton_soup> hello
+[21:41:15] [Server thread/INFO]: <Optix570> where is smol
+[21:41:19] [Server thread/INFO]: <Juanton_soup> i am at compound
+[21:41:22] [Server thread/INFO]: <Juanton_soup> bc i drouwned
+[21:41:24] [Server thread/INFO]: <Juanton_soup> apparently
+[21:41:25] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[21:41:35] [Server thread/INFO]: <Optix570> what the fuck are you wearing
+[21:41:42] [Server thread/INFO]: <Juanton_soup> i didn't hve iron :C
+[21:41:46] [Server thread/INFO]: <Optix570> check the chest
+[21:41:47] [Server thread/INFO]: <jkGold> haha buTTer XDDDD
+[21:41:53] [Server thread/WARN]: Boat moved wrongly!
+[21:41:53] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:54] [Server thread/WARN]: Boat moved wrongly!
+[21:41:56] [Server thread/INFO]: <tedzack> is that gold
+[21:42:02] [Server thread/INFO]: <Juanton_soup> yeet
+[21:42:03] [Server thread/INFO]: <tedzack> bruh
+[21:42:14] [Server thread/INFO]: <jkGold> so what's the plan
+[21:42:20] [Server thread/INFO]: <jkGold> are we just gonna fuck around and die some more
+[21:42:29] [Server thread/INFO]: <Optix570> we shouldnt
+[21:42:30] [Server thread/INFO]: <jkGold> bc i don't feel like it
+[21:42:39] [Server thread/INFO]: <Juanton_soup> i kinda do wanna explore that castle thing
+[21:42:41] [Server thread/INFO]: <tedzack> there's a temple
+[21:42:46] [Server thread/INFO]: <Optix570> where
+[21:42:51] [Server thread/INFO]: <jkGold> yeah but the temple seems hard
+[21:42:57] [Server thread/INFO]: <jkGold> bc of harpoon boi
+[21:43:03] [Server thread/WARN]: Optix570 moved too quickly! -10.06275530047219,0.0,-0.17113786924204533
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 8.781888433529048,0.0,-4.853677978415874
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 9.133764510987476,0.0,-5.0384793231199865
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 9.485947955507072,0.0,-5.223242498476452
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 9.83840803037424,0.0,-5.407971321420973
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 10.191115303034621,0.0,-5.592672630248217
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 10.544045053703258,0.0,-5.777349176370592
+[21:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3889ms or 77 ticks behind
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 9.19650241014756,0.0,-4.799350512176659
+[21:43:03] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 9.551215372669958,0.0,-4.983828579585463
+[21:43:04] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 9.905950244166434,0.0,-5.168304208436609
+[21:43:04] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 10.260704833739055,0.0,-5.352777642585863
+[21:43:04] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 10.61547716957989,0.0,-5.537249101503505
+[21:43:07] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 10.017629637545497,0.0,-2.169481800353253
+[21:43:07] [Server thread/WARN]: Optix570 moved too quickly! -10.34702982775093,0.0,0.15740003821451864
+[21:43:07] [Server thread/WARN]: Boat (vehicle of tedzack) moved too quickly! 10.41227968428916,0.0,-2.1931840756213887
+[21:43:10] [Server thread/INFO]: <tedzack> where i was a second ago
+[21:43:12] [Server thread/WARN]: Optix570 moved too quickly! -8.250432562264677,0.0,-6.098535992790971
+[21:43:20] [Server thread/INFO]: <tedzack> we could check it out? and then if we fail we can swim away
+[21:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8750ms or 175 ticks behind
+[21:43:28] [Server thread/INFO]: <tedzack> or land
+[21:43:31] [Server thread/INFO]: <jkGold> ig but i don't want to lose stuff
+[21:43:56] [Server thread/INFO]: <jkGold> also we keep getting kicked whenever we go over there
+[21:43:57] [Server thread/INFO]: tedzack lost connection: Timed out
+[21:43:57] [Server thread/INFO]: tedzack left the game
+[21:44:01] [Server thread/INFO]: <Optix570> why dont we just stick to land exploringw
+[21:44:22] [Server thread/INFO]: <Optix570> cause dying sucks
+[21:44:29] [User Authenticator #35/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[21:44:29] [Server thread/INFO]: tedzack[/108.46.187.70:55441] logged in with entity id 338844 at (-1184.6875, 64.32426465192245, 318.1852599065646)
+[21:44:29] [Server thread/INFO]: tedzack joined the game
+[21:44:46] [Server thread/INFO]: <tedzack> wait i want
+[21:44:52] [Server thread/INFO]: <tedzack> wait how do we have this
+[21:44:54] [Server thread/INFO]: jkGold lost connection: Disconnected
+[21:44:54] [Server thread/INFO]: jkGold left the game
+[21:44:58] [Server thread/INFO]: <Optix570> im in creative
+[21:45:01] [Server thread/INFO]: <tedzack> oh lolw
+[21:45:03] [Server thread/INFO]: <Optix570> cause i didnt like dying
+[21:45:10] [Server thread/INFO]: <tedzack> htere's a shipwreck
+[21:45:10] [Server thread/INFO]: <Optix570> where is smol
+[21:45:19] [Server thread/INFO]: <Optix570> ur gonna die
+[21:45:20] [User Authenticator #36/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[21:45:20] [Server thread/INFO]: jkGold[/24.215.191.19:33681] logged in with entity id 339599 at (-1180.9306980480214, 63.0, 311.2947524426696)
+[21:45:20] [Server thread/INFO]: jkGold joined the game
+[21:45:39] [Server thread/INFO]: <jkGold> hey
+[21:45:45] [Server thread/INFO]: <tedzack> hey friends
+[21:45:47] [Server thread/INFO]: <tedzack> come here
+[21:45:53] [Server thread/INFO]: <Optix570> nope
+[21:45:56] [Server thread/INFO]: <Optix570> fuck thattt
+[21:46:19] [Server thread/INFO]: <jkGold> i'm with eli bein cool
+[21:46:23] [Server thread/INFO]: <Optix570> where is smol
+[21:46:24] [Server thread/INFO]: <Optix570> also
+[21:46:26] [Server thread/INFO]: <jkGold> thanks for the potion cool friend
+[21:46:26] [Server thread/INFO]: <Optix570> yes
+[21:46:32] [Server thread/INFO]: <Optix570> now we can watch pacy die
+[21:46:43] [Server thread/INFO]: <Juanton_soup> this is my island
+[21:46:50] [Server thread/INFO]: <Optix570> sigh
+[21:47:12] [Server thread/INFO]: <Juanton_soup> o wao
+[21:47:15] [Server thread/INFO]: <jkGold> mine now
+[21:47:18] [Server thread/INFO]: <Optix570> gottem
+[21:47:28] [Server thread/INFO]: <jkGold> fucker
+[21:47:35] [Server thread/INFO]: <Optix570> gang gang
+[21:47:43] [Server thread/INFO]: <Optix570> thats how the english did it
+[21:48:17] [Server thread/INFO]: <Juanton_soup> this is my new island
+[21:48:17] [Server thread/WARN]: Optix570 moved too quickly! -0.686763190424017,7.428476815324579,7.3716297892653415
+[21:48:17] [Server thread/INFO]: <Juanton_soup> i call it
+[21:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4898ms or 97 ticks behind
+[21:48:18] [Server thread/INFO]: <Juanton_soup> new island
+[21:48:26] [Server thread/INFO]: <Optix570> oh hey a dolphin
+[21:48:39] [Server thread/INFO]: <tedzack> i saw
+[21:48:58] [Server thread/INFO]: <tedzack> sad i can't see anymore
+[21:48:58] [Server thread/WARN]: Optix570 moved too quickly! -10.562037204528451,0.0,2.5790076941171947
+[21:49:16] [Server thread/INFO]: <Optix570> no wonder my computer cant render everything
+[21:49:38] [Server thread/INFO]: <Optix570> why dont we go explore on land
+[21:49:45] [Server thread/INFO]: <Juanton_soup> heh i found a chest
+[21:49:50] [Server thread/INFO]: <Optix570> i personally am not a glutton for punishment
+[21:49:53] [Server thread/INFO]: <jkGold> wait did you go in the temple
+[21:49:55] [Server thread/INFO]: <Juanton_soup> now i have fishing rod
+[21:49:57] [Server thread/INFO]: <Juanton_soup> a lil
+[21:49:57] [Server thread/INFO]: <Optix570> nice
+[21:50:01] [Server thread/INFO]: <jkGold> ok well
+[21:50:07] [Server thread/INFO]: <jkGold> i vote land expo
+[21:50:10] [Server thread/INFO]: <Optix570> me too
+[21:50:14] [Server thread/INFO]: <jkGold> slash cave expo
+[21:50:18] [Server thread/INFO]: <tedzack> okeyw
+[21:50:21] [Server thread/INFO]: <jkGold> slash build shit
+[21:50:24] [Server thread/INFO]: <tedzack> found a chest too
+[21:50:31] [Server thread/INFO]: <Juanton_soup> might be the same one
+[21:50:34] [Server thread/INFO]: <jkGold> you also found drowned boy
+[21:50:48] [Server thread/INFO]: <tedzack> i drowned
+[21:50:52] [Server thread/INFO]: <tedzack> or rather
+[21:50:58] [Server thread/INFO]: <tedzack> i'mma retrieve stuff from chest
+[21:51:05] [Server thread/INFO]: <Optix570> yeah yall should do that
+[21:51:38] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[21:52:18] [Server thread/INFO]: <jkGold> uh i'm lagging a lot
+[21:52:28] [Server thread/INFO]: <jkGold> we might want to sleep/move away from water
+[21:52:32] [Server thread/INFO]: [Server] that's just how it be my guy
+[21:52:47] [Server thread/INFO]: <jkGold> yeah but mobs
+[21:52:49] [Server thread/INFO]: <tedzack> hurr sleep before monsters
+[21:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[21:53:30] [Server thread/INFO]: <tedzack> someone has my bed
+[21:53:43] [Server thread/INFO]: <tedzack> wtf is this sleeping setup
+[21:53:47] [Server thread/INFO]: <Juanton_soup> shhh
+[21:53:48] [Server thread/INFO]: <Optix570> wow i love camping
+[21:53:50] [Server thread/INFO]: <tedzack> omg can we sleep faster
+[21:54:12] [Server thread/INFO]: <tedzack> also where are the boats
+[21:54:15] [Server thread/INFO]: <Juanton_soup> is anyone down for
+[21:54:18] [Server thread/INFO]: <Juanton_soup> crossing the ocean
+[21:54:20] [Server thread/INFO]: <Optix570> no
+[21:54:20] [Server thread/INFO]: <jkGold> oh one of them died
+[21:54:28] [Server thread/INFO]: <jkGold> can we not do ocean
+[21:54:30] [Server thread/INFO]: <Optix570> we're all gonna lag out
+[21:54:38] [Server thread/INFO]: <Juanton_soup> okey
+[21:54:39] [Server thread/INFO]: <tedzack> guys grab stuff
+[21:54:43] [Server thread/INFO]: <tedzack> my invent is full
+[21:55:03] [Server thread/INFO]: <Optix570> maria are you fr
+[21:55:09] [Server thread/INFO]: <Juanton_soup> wha
+[21:55:21] [Server thread/INFO]: <Optix570> you went and grabbed the rotten flesh out of the water
+[21:55:25] [Server thread/INFO]: <tedzack> i do that
+[21:55:27] [Server thread/INFO]: <Juanton_soup> yeet
+[21:55:32] [Server thread/INFO]: <Optix570> oh my god
+[21:55:32] [Server thread/INFO]: <jkGold> where are we goin friends
+[21:55:49] [Server thread/INFO]: <Optix570> this way
+[21:55:51] [Server thread/INFO]: <jkGold> wait hold up
+[21:55:57] [Server thread/INFO]: <jkGold> have they always had a swimming animation
+[21:56:06] [Server thread/INFO]: <jkGold> bc that was dope as hell
+[21:56:17] [Server thread/INFO]: <tedzack> jake do u have sheers on u
+[21:56:19] [Server thread/INFO]: <tedzack> shears
+[21:56:27] [Server thread/INFO]: <jkGold> no
+[21:56:35] [Server thread/INFO]: <jkGold> i'm a fake friend
+[21:56:43] [Server thread/INFO]: <tedzack> sad
+[21:56:48] [Server thread/INFO]: <tedzack> i wanted to see if i could obtain seaweed
+[21:58:00] [Server thread/INFO]: <jkGold> cave?
+[21:58:05] [Server thread/INFO]: <tedzack> where are y'all
+[21:58:24] [Server thread/INFO]: <Optix570> idk
+[21:58:24] [Server thread/WARN]: tedzack moved too quickly! 5.920299872679607,1.6709083839322858,8.029669590913954
+[21:58:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[21:58:32] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[21:58:46] [Server thread/INFO]: <Optix570> where is smol goin
+[21:58:55] [Server thread/INFO]: <Juanton_soup> anyone got torches
+[21:59:00] [Server thread/INFO]: <jkGold> i do
+[21:59:10] [Server thread/INFO]: <Juanton_soup> also pickaxe?
+[21:59:15] [Server thread/INFO]: <jkGold> also yes
+[21:59:18] [Server thread/INFO]: <Juanton_soup> wait i got one nvm
+[21:59:45] [Server thread/INFO]: <jkGold> ok can we pick one side first
+[21:59:49] [Server thread/INFO]: <Optix570> do yall wanna fight some evil villagers
+[22:00:03] [Server thread/INFO]: <jkGold> oh what
+[22:00:05] [Server thread/INFO]: <Juanton_soup> where
+[22:00:10] [Server thread/INFO]: <Optix570> cause we can do that now
+[22:00:12] [Server thread/INFO]: <Optix570> dunno t
+[22:00:13] [Server thread/INFO]: <tedzack> let's set up
+[22:00:14] [Server thread/INFO]: <tedzack> stuff
+[22:00:15] [Server thread/INFO]: <Optix570> gotta look it up
+[22:00:18] [Server thread/INFO]: <tedzack> cause my invent is so full
+[22:00:26] [Server thread/INFO]: <jkGold> well ig let's just do this cave first
+[22:00:41] [Server thread/INFO]: <jkGold> we should make a little base camp thing
+[22:00:47] [Server thread/INFO]: <Juanton_soup> i put down chests
+[22:01:11] [Server thread/INFO]: <Juanton_soup> anyone have a furnace
+[22:01:23] [Server thread/INFO]: <jkGold> i can make one
+[22:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9286ms or 185 ticks behind
+[22:02:16] [Server thread/INFO]: <Optix570> found it
+[22:02:28] [Server thread/INFO]: <Optix570> its far though
+[22:02:30] [Server thread/INFO]: <Optix570> like
+[22:02:31] [Server thread/INFO]: <Juanton_soup> found what
+[22:02:31] [Server thread/INFO]: <jkGold> what is that sound
+[22:02:33] [Server thread/INFO]: <Optix570> 3.5 km?
+[22:03:04] [Server thread/INFO]: <Optix570> theres nothing down there
+[22:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[22:03:40] [Server thread/INFO]: <Optix570> do yall wanna fight some villagers
+[22:03:43] [Server thread/INFO]: <Juanton_soup> sure
+[22:03:51] [Server thread/INFO]: <tedzack> where
+[22:03:54] [Server thread/INFO]: <Optix570> far away
+[22:03:58] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[22:04:12] [Server thread/INFO]: [Optix570: Teleported Optix570 to -4271.5, 100.0, -975.5]
+[22:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22:04:14] [Server thread/WARN]: Optix570 moved too quickly! 0.0,-10.72812610848311,0.0
+[22:04:25] [Server thread/INFO]: <Optix570> wow really far away
+[22:04:35] [Server thread/INFO]: <Optix570> okay
+[22:04:38] [Server thread/INFO]: <Optix570> i'm there
+[22:04:42] [Server thread/INFO]: <tedzack> wait what are we fighting
+[22:04:46] [Server thread/INFO]: <Optix570> so if yall grab your stuff
+[22:04:47] [Server thread/INFO]: <Optix570> uhh
+[22:04:50] [Server thread/INFO]: <Optix570> pillagers?
+[22:04:51] [Server thread/INFO]: <tedzack> also should we grab stuff
+[22:04:53] [Server thread/INFO]: <tedzack> oh
+[22:04:56] [Server thread/INFO]: <Optix570> ye
+[22:05:08] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[22:05:20] [Server thread/INFO]: <Optix570> btw there is also caves here
+[22:05:22] [Server thread/INFO]: <Optix570> if you want to mine
+[22:05:23] [Server thread/INFO]: <Optix570> so
+[22:05:24] [Server thread/INFO]: <Optix570> yeet
+[22:05:40] [Server thread/INFO]: <Optix570> who's ready
+[22:05:43] [Server thread/INFO]: <tedzack> i'm ready
+[22:05:47] [Server thread/INFO]: [Optix570: Teleported tedzack to Optix570]
+[22:05:49] [Server thread/INFO]: <jkGold> me2
+[22:05:49] [Server thread/INFO]: <tedzack> but i need to put stuff down also
+[22:05:55] [Server thread/INFO]: <Optix570> put chest here
+[22:05:58] [Server thread/INFO]: <Optix570> its over there
+[22:06:00] [Server thread/INFO]: <tedzack> they have the chest
+[22:06:00] [Server thread/INFO]: <Juanton_soup> take ME
+[22:06:04] [Server thread/INFO]: <jkGold> yeah we can set up a base there
+[22:06:11] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[22:06:17] [Server thread/INFO]: <tedzack> let's make a small structure
+[22:06:20] [Server thread/INFO]: <jkGold> uh
+[22:06:20] [Server thread/INFO]: <Optix570> jake do you have everything
+[22:06:22] [Server thread/INFO]: <jkGold> yeah
+[22:06:27] [Server thread/INFO]: [Optix570: Teleported jkGold to Optix570]
+[22:06:29] [Server thread/INFO]: <Juanton_soup> why did the chests do taht
+[22:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:06:34] [Server thread/INFO]: <Optix570> lmao
+[22:06:51] [Server thread/INFO]: <jkGold> woah that looks cool
+[22:07:11] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[22:07:14] [Server thread/INFO]: <Optix570> are yall ready
+[22:07:17] [Server thread/INFO]: <Juanton_soup> yes
+[22:07:23] [Server thread/INFO]: <tedzack> no
+[22:07:39] [Server thread/INFO]: <jkGold> lets murder
+[22:07:40] [Server thread/WARN]: Juanton_soup moved too quickly! -7.4965454757029875,-2.6900762008871055,6.149664209220873
+[22:07:49] [Server thread/INFO]: <Optix570> oh wow theyre fast
+[22:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
+[22:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[22:09:17] [Server thread/WARN]: tedzack moved too quickly! -1.9275236103258067,-0.3693736602695026,9.897941834104472
+[22:09:29] [Server thread/INFO]: jkGold lost connection: Disconnected
+[22:09:29] [Server thread/INFO]: jkGold left the game
+[22:09:31] [Server thread/INFO]: Optix570 has made the advancement [Who's the Pillager Now?]
+[22:10:10] [User Authenticator #37/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[22:10:10] [Server thread/INFO]: jkGold[/24.215.191.19:34154] logged in with entity id 358336 at (-4267.050165705372, 63.231523797587016, -967.9535858453346)
+[22:10:10] [Server thread/INFO]: jkGold joined the game
+[22:11:21] [Server thread/INFO]: jkGold has made the advancement [Ol' Betsy]
+[22:11:29] [Server thread/INFO]: <Juanton_soup> what is thath advancement
+[22:11:42] [Server thread/INFO]: <jkGold> using a crossbow
+[22:11:48] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[22:11:48] [Server thread/INFO]: Juanton_soup left the game
+[22:12:41] [Server thread/INFO]: <tedzack> uh
+[22:12:43] [Server thread/INFO]: <tedzack> there's one dude
+[22:12:45] [Server thread/INFO]: <tedzack> with a tall hat
+[22:12:49] [Server thread/INFO]: <jkGold> yeah i saw that
+[22:12:53] [Server thread/INFO]: <jkGold> also why are there so many
+[22:13:00] [Server thread/INFO]: <tedzack> i'm retreat
+[22:13:05] [Server thread/INFO]: <jkGold> i also did
+[22:13:14] [Server thread/INFO]: <jkGold> goin back tho
+[22:13:21] [Server thread/WARN]: tedzack moved too quickly! 5.50245272129996,2.127890238205481,-8.174249294205765
+[22:13:21] [Server thread/WARN]: Optix570 moved too quickly! -9.13388615673557,1.0,-4.166624309800682
+[22:13:41] [Server thread/INFO]: <Optix570> we need to kill him
+[22:13:43] [Server thread/INFO]: <jkGold> let's kill hat boy
+[22:13:44] [Server thread/INFO]: <Optix570> he's the captain
+[22:13:52] [Server thread/INFO]: <tedzack> okey forwadr we go then
+[22:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
+[22:14:22] [Server thread/INFO]: <Optix570> where is he
+[22:14:24] [User Authenticator #38/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[22:14:24] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53048] logged in with entity id 362583 at (-4199.571466541389, 67.0, -1014.9950934671571)
+[22:14:24] [Server thread/INFO]: Juanton_soup joined the game
+[22:15:00] [Server thread/INFO]: <Optix570> where is the hat man
+[22:15:02] [Server thread/INFO]: <jkGold> idk
+[22:15:07] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[22:15:49] [Server thread/INFO]: <Optix570> we need to find the hat man
+[22:15:56] [Server thread/INFO]: <Juanton_soup> who's the hat man
+[22:16:02] [Server thread/INFO]: <Optix570> otherwise they'll keep spawning
+[22:16:04] [Server thread/INFO]: <Juanton_soup> also i got the stuff in the chest at the top of the tower
+[22:16:20] [Server thread/INFO]: <tedzack> okey let's charge
+[22:16:20] [Server thread/INFO]: <Optix570> what was in it
+[22:16:34] [Server thread/INFO]: <Juanton_soup> enchanged book, dark oak wood, bottle o enchanting
+[22:17:09] [Server thread/INFO]: <Optix570> look for hat man
+[22:17:13] [Server thread/INFO]: <jkGold> I AM
+[22:17:18] [Server thread/INFO]: <jkGold> 4head
+[22:17:21] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[22:17:22] [Server thread/INFO]: <Optix570> also if you have arrow or shit
+[22:17:27] [Server thread/INFO]: <tedzack> i had 5 following me
+[22:17:30] [Server thread/INFO]: <tedzack> i became weak
+[22:17:32] [Server thread/INFO]: <Optix570> lmao i was gonna say pacy is tanking
+[22:17:38] [Server thread/INFO]: <jkGold> oh whoops those are for eli
+[22:17:56] [Server thread/INFO]: <tedzack> r we going down
+[22:18:04] [Server thread/INFO]: <Optix570> WHERE IS HAT MAN
+[22:18:14] [Server thread/INFO]: <tedzack> we're surrounded
+[22:18:57] [Server thread/WARN]: Juanton_soup moved too quickly! -10.016665593730067,1.0,-0.9255963650480226
+[22:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[22:19:07] [Server thread/INFO]: <Juanton_soup> o am lost
+[22:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[22:19:23] [Server thread/INFO]: <jkGold> wait hold up
+[22:19:30] [Server thread/INFO]: <jkGold> get inside for a sec
+[22:19:36] [Server thread/INFO]: <jkGold> oh nvm
+[22:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
+[22:20:22] [Server thread/WARN]: Juanton_soup moved too quickly! -7.046802564734207,-3.5348441963705,-6.532708432713889
+[22:20:27] [Server thread/INFO]: <tedzack> wres i hat man
+[22:20:36] [Server thread/INFO]: <Juanton_soup> how do i get back
+[22:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[22:21:22] [Server thread/WARN]: Optix570 moved too quickly! 5.815355646273019,2.0,-8.15486320189541
+[22:21:24] [Server thread/WARN]: tedzack moved too quickly! 1.3472770467915325,-2.0,9.871383413299782
+[22:21:33] [Server thread/INFO]: tedzack was shot by Pillager
+[22:21:37] [Server thread/INFO]: tedzack lost connection: Disconnected
+[22:21:37] [Server thread/INFO]: tedzack left the game
+[22:21:37] [User Authenticator #39/INFO]: UUID of player tedzack is 0ea33f5d-35bf-4711-ab0d-80e0afba23ad
+[22:21:37] [Server thread/INFO]: tedzack[/108.46.187.70:55744] logged in with entity id 371997 at (-4245.389618721204, 66.0, -977.463424859482)
+[22:21:37] [Server thread/INFO]: tedzack joined the game
+[22:21:38] [Server thread/WARN]: Juanton_soup moved too quickly! 7.313367651806402,-1.0,-6.914003386547847
+[22:21:39] [Server thread/INFO]: jkGold was shot by Pillager
+[22:21:43] [Server thread/INFO]: jkGold lost connection: Timed out
+[22:21:43] [Server thread/INFO]: jkGold left the game
+[22:21:47] [User Authenticator #40/INFO]: UUID of player jkGold is 4ba1dd24-de92-4ac0-8220-2f89b6cd9f74
+[22:21:47] [Server thread/INFO]: jkGold[/24.215.191.19:34337] logged in with entity id 373388 at (-4271.994658081113, 63.0, -966.6647258078383)
+[22:21:47] [Server thread/INFO]: jkGold joined the game
+[22:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[22:21:57] [Server thread/INFO]: <jkGold> what the fuck
+[22:21:57] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[22:22:02] [Server thread/INFO]: <jkGold> i lagged out and then woke up dead
+[22:22:06] [Server thread/INFO]: <tedzack> me as well
+[22:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4719ms or 94 ticks behind
+[22:22:17] [Server thread/WARN]: tedzack moved too quickly! -3.3019597025313487,-3.023310229409148,9.066652371066539
+[22:22:25] [Server thread/INFO]: <jkGold> i'm back at the compound now
+[22:22:26] [Server thread/INFO]: [tedzack: Teleported tedzack to Optix570]
+[22:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[22:22:40] [Server thread/INFO]: <tedzack> wow you look like a pincushion
+[22:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[22:22:54] [Server thread/INFO]: <jkGold> uh
+[22:22:57] [Server thread/INFO]: <jkGold> can someone get me
+[22:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[22:23:01] [Server thread/INFO]: <Optix570> thanks
+[22:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4000ms or 80 ticks behind
+[22:23:23] [Server thread/INFO]: <jkGold> kinda salty i died from lag i had a full 30 enchanment cookin
+[22:23:33] [Server thread/INFO]: <jkGold> also again can i be teleported
+[22:23:42] [Server thread/INFO]: [tedzack: Teleported jkGold to Optix570]
+[22:23:50] [Server thread/INFO]: <jkGold> thanks
+[22:23:59] [Server thread/INFO]: <jkGold> did someone get my stuff or no
+[22:24:03] [Server thread/INFO]: <tedzack> no
+[22:24:11] [Server thread/INFO]: <jkGold> cool gimme a sec to get it
+[22:24:18] [Server thread/INFO]: <Juanton_soup> anyone have arrows
+[22:24:30] [Server thread/WARN]: tedzack moved too quickly! 5.185778620407291,4.001335979112142,-7.8199229690150105
+[22:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7299ms or 145 ticks behind
+[22:25:04] [Server thread/INFO]: <Optix570> gdi pacy
+[22:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[22:26:40] [Server thread/INFO]: <tedzack> dig under
+[22:26:43] [Server thread/INFO]: <tedzack> idt they can hit
+[22:27:20] [Server thread/INFO]: <Juanton_soup> aaaaAA
+[22:27:30] [Server thread/INFO]: <jkGold> uh maria you might want to come back
+[22:27:38] [Server thread/INFO]: <Optix570> what the fuck is that
+[22:27:46] [Server thread/INFO]: <Optix570> it looks like a white walker
+[22:27:51] [Server thread/INFO]: <jkGold> where
+[22:27:59] [Server thread/INFO]: <Optix570> its under the ledge
+[22:28:13] [Server thread/INFO]: <tedzack> what was that noise
+[22:28:27] [Server thread/INFO]: <tedzack> eli what r u looking at
+[22:28:39] [Server thread/INFO]: <Optix570> idk where it went
+[22:29:39] [Server thread/WARN]: Juanton_soup moved too quickly! -9.754574989385219,-2.0,-1.043987495817646
+[22:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5245ms or 104 ticks behind
+[22:29:47] [Server thread/INFO]: <tedzack> smol!
+[22:30:46] [Server thread/INFO]: <Juanton_soup> i was being chased
+[22:30:48] [Server thread/INFO]: <Juanton_soup> by many a thing
+[22:30:51] [Server thread/INFO]: <Juanton_soup> now i am in a hole.
+[22:31:01] [Server thread/INFO]: <Optix570> look look
+[22:31:03] [Server thread/INFO]: <Optix570> out there
+[22:31:08] [Server thread/INFO]: <jkGold> oh shit
+[22:31:09] [Server thread/INFO]: <Optix570> what are those
+[22:31:15] [Server thread/INFO]: <Optix570> actually white walkers
+[22:31:19] [Server thread/INFO]: <tedzack> what
+[22:31:33] [Server thread/INFO]: <tedzack> are those not just
+[22:31:35] [Server thread/INFO]: <tedzack> skellys
+[22:31:42] [Server thread/INFO]: <tedzack> oh no
+[22:31:43] [Server thread/INFO]: <jkGold> no it's different
+[22:31:44] [Server thread/INFO]: <tedzack> enchanted
+[22:32:40] [Server thread/INFO]: <Optix570> we are so vulnerable to spiders
+[22:32:51] [Server thread/INFO]: <jkGold> ik i'm fixing it in a sec
+[22:32:52] [Server thread/INFO]: <tedzack> i'l build a ledge
+[22:32:58] [Server thread/INFO]: <Juanton_soup> hello i am in a hole
+[22:33:03] [Server thread/INFO]: <jkGold> what hole
+[22:33:06] [Server thread/INFO]: <jkGold> wherest
+[22:33:08] [Server thread/INFO]: <Juanton_soup> one i juts dug
+[22:33:14] [Server thread/INFO]: <Juanton_soup> n covered in dark oak
+[22:33:17] [Server thread/INFO]: <Juanton_soup> bc i was dying
+[22:33:55] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[22:34:00] [Server thread/INFO]: <jkGold> oh no
+[22:34:38] [Server thread/INFO]: <tedzack> uh i'mma log off for dinner
+[22:34:41] [Server thread/WARN]: Optix570 moved too quickly! 2.2464799097379,-7.384176060613598,6.59197277942792
+[22:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[22:34:43] [Server thread/INFO]: <tedzack> but might return later if y'all are still on
+[22:34:45] [Server thread/INFO]: tedzack lost connection: Disconnected
+[22:34:45] [Server thread/INFO]: tedzack left the game
+[22:34:57] [Server thread/INFO]: <Optix570> oh they're called strays?
+[22:35:09] [Server thread/INFO]: <jkGold> shit
+[22:35:27] [Server thread/INFO]: <Optix570> holy shit
+[22:35:32] [Server thread/INFO]: <Optix570> their arrows slow you down
+[22:36:33] [Server thread/INFO]: <Optix570> holy fuck
+[22:36:54] [Server thread/INFO]: <Juanton_soup> hi
+[22:36:57] [Server thread/INFO]: <Juanton_soup> i'm out of my hole
+[22:37:19] [Server thread/INFO]: <jkGold> what the fuck
+[22:37:21] [Server thread/INFO]: <jkGold> is that
+[22:37:22] [Server thread/INFO]: <Juanton_soup> what the FUCK is that
+[22:37:24] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[22:37:31] [Server thread/INFO]: <Optix570> so apparentl
+[22:37:37] [Server thread/INFO]: <Optix570> apparently those are called
+[22:37:38] [Server thread/INFO]: Juanton_soup was slain by Ravager
+[22:37:44] [Server thread/INFO]: <jkGold> ravagers?
+[22:37:47] [Server thread/INFO]: <Optix570> ravagers!
+[22:37:48] [Server thread/INFO]: <Optix570> year
+[22:37:50] [Server thread/INFO]: <Optix570> yeah
+[22:37:50] [Server thread/INFO]: <Juanton_soup> can i
+[22:37:54] [Server thread/INFO]: <Juanton_soup> get back
+[22:38:18] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[22:38:48] [Server thread/INFO]: <jkGold> ok we might need a better system
+[22:39:16] [Server thread/INFO]: <Juanton_soup> do you have a sword
+[22:39:29] [Server thread/INFO]: <jkGold> making one now, current one is gonna die
+[22:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[22:40:17] [Server thread/INFO]: <Optix570> their pathfinding is bad
+[22:40:18] [Server thread/INFO]: <Optix570> but
+[22:40:19] [Server thread/INFO]: <Juanton_soup> imma try ti kill it
+[22:40:24] [Server thread/INFO]: <Optix570> they have a lot of health
+[22:40:30] [Server thread/INFO]: <Juanton_soup> oh does anyone have
+[22:40:33] [Server thread/INFO]: <Juanton_soup> bake potato
+[22:40:38] [Server thread/INFO]: <Optix570> go get your stuff
+[22:40:43] [Server thread/INFO]: <jkGold> you kids have fun
+[22:41:00] [Server thread/INFO]: <Juanton_soup> hey it drops a saddle
+[22:41:12] [Server thread/INFO]: <Optix570> i think theres another one
+[22:41:22] [Server thread/INFO]: <Optix570> WAIT
+[22:41:22] [Server thread/INFO]: <jkGold> i'm improving the temp base a little
+[22:41:26] [Server thread/INFO]: <Optix570> JAKE THERE'S HAT MAN
+[22:41:29] [Server thread/INFO]: <jkGold> whjere
+[22:41:32] [Server thread/INFO]: <Optix570> WE GOTTA GO
+[22:41:34] [Server thread/INFO]: <Optix570> RIGHT THERE
+[22:41:41] [Server thread/INFO]: <Juanton_soup> where did he go
+[22:41:41] [Server thread/INFO]: <Optix570> come on come on come on
+[22:41:44] [Server thread/INFO]: <jkGold> omw
+[22:41:57] [Server thread/INFO]: Optix570 has made the advancement [Voluntary Exile]
+[22:42:07] [Server thread/INFO]: jkGold has made the advancement [Voluntary Exile]
+[22:42:23] [Server thread/INFO]: <jkGold> fuck yeah
+[22:42:27] [Server thread/INFO]: <jkGold> there were 2?
+[22:42:57] [Server thread/INFO]: Juanton_soup was shot by Pillager
+[22:43:03] [Server thread/INFO]: <Juanton_soup> oops
+[22:43:03] [Server thread/INFO]: jkGold was shot by Pillager
+[22:43:10] [Server thread/INFO]: <jkGold> oops 2
+[22:43:16] [Server thread/INFO]: <Juanton_soup> hi jake
+[22:43:18] [Server thread/INFO]: <jkGold> i got surrounded
+[22:43:24] [Server thread/INFO]: <Juanton_soup> i just didn't have food
+[22:44:32] [Server thread/INFO]: <jkGold> uh
+[22:44:35] [Server thread/INFO]: <jkGold> can i come back
+[22:44:42] [Server thread/INFO]: <Juanton_soup> the only one left is eli
+[22:44:48] [Server thread/WARN]: Optix570 moved too quickly! -1.710098396732974,1.1212968405392019,-9.864606786196873
+[22:44:48] [Server thread/INFO]: <Juanton_soup> and i'm guessing hes' surrounded
+[22:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4714ms or 94 ticks behind
+[22:44:52] [Server thread/INFO]: <jkGold> oh shit
+[22:44:59] [Server thread/INFO]: <jkGold> i give you moral support eli
+[22:45:02] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[22:45:06] [Server thread/INFO]: [Optix570: Teleported jkGold to Optix570]
+[22:45:06] [Server thread/INFO]: <Juanton_soup> thank eli
+[22:45:11] [Server thread/INFO]: <Optix570> motherfuckers
+[22:45:17] [Server thread/INFO]: <jkGold> ok not my fault
+[22:45:20] [Server thread/INFO]: <Optix570> also i have bad omen
+[22:45:23] [Server thread/INFO]: <Optix570> not you two
+[22:45:38] [Server thread/INFO]: <Optix570> so apparently i can start a raid by entering a village
+[22:45:40] [Server thread/INFO]: <Optix570> wanna do it
+[22:45:49] [Server thread/INFO]: <Optix570> y'all grab your shit
+[22:46:05] [Server thread/INFO]: <Optix570> and we're gonna fuckin raid our own village
+[22:46:10] [Server thread/INFO]: <Juanton_soup> :c
+[22:46:32] [Server thread/INFO]: <Optix570> okay it doesnt have to be our village
+[22:46:39] [Server thread/INFO]: <Optix570> just the closest one
+[22:47:05] [Server thread/INFO]: Juanton_soup was shot by Pillager
+[22:47:10] [Server thread/INFO]: <Juanton_soup> i tried
+[22:47:21] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[22:47:52] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[22:47:54] [Server thread/INFO]: <Juanton_soup> my stuff is there
+[22:47:57] [Server thread/INFO]: <Juanton_soup> but so are pillagers
+[22:48:09] [Server thread/INFO]: <Juanton_soup> oh well it's not import
+[22:48:35] [Server thread/WARN]: Optix570 moved too quickly! 7.1153388518469,3.3750001333661146,-6.733042718006573
+[22:48:42] [Server thread/INFO]: <Optix570> ooh a village!!
+[22:48:46] [Server thread/INFO]: <Juanton_soup> :C
+[22:48:55] [Server thread/INFO]: <Optix570> y'all better get ready cause we're doin this
+[22:48:59] [Server thread/INFO]: <jkGold> hold on a sec
+[22:49:04] [Server thread/INFO]: <jkGold> redoing inventory
+[22:49:07] [Server thread/INFO]: <Juanton_soup> make it day?
+[22:49:15] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[22:49:53] [Server thread/INFO]: <Optix570> are yall ready
+[22:49:53] [Server thread/WARN]: Optix570 moved too quickly! 7.858927645737822,-0.11794572173819518,6.400460441335326
+[22:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
+[22:50:12] [Server thread/INFO]: <Optix570> are you ready to rumbleeeeee
+[22:50:13] [Server thread/INFO]: <jkGold> no hold on
+[22:50:19] [Server thread/INFO]: <Optix570> aw
+[22:50:38] [Server thread/INFO]: <jkGold> ok i'm good
+[22:50:43] [Server thread/INFO]: [Optix570: Teleported Optix570 to jkGold]
+[22:50:48] [Server thread/INFO]: <Optix570> gdi
+[22:50:59] [Server thread/INFO]: <jkGold> do we want to finish killing the pillagers first
+[22:51:03] [Server thread/INFO]: <jkGold> since we got hat bois
+[22:51:05] [Server thread/INFO]: <Optix570> idt they'll die tbh
+[22:51:10] [Server thread/INFO]: <Optix570> i'm actually not sure abt that
+[22:51:13] [Server thread/INFO]: <jkGold> but we got hat bois!
+[22:51:15] [Server thread/INFO]: <Optix570> just come here
+[22:51:21] [Server thread/INFO]: [Optix570: Teleported jkGold to Optix570]
+[22:51:22] [Server thread/INFO]: <Juanton_soup> where
+[22:51:27] [Server thread/INFO]: <jkGold> ::<
+[22:51:28] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[22:51:31] [Server thread/INFO]: <Optix570> okay
+[22:51:33] [Server thread/INFO]: <Optix570> so see that villag3
+[22:51:37] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[22:51:38] [Server thread/INFO]: <jkGold> yeah
+[22:51:42] [Server thread/INFO]: <Juanton_soup> :c
+[22:51:43] [Server thread/INFO]: <Optix570> as soon as we enter there will be a raid
+[22:51:45] [Server thread/INFO]: <Juanton_soup> :c
+[22:51:48] [Server thread/INFO]: <Optix570> because i have a thing
+[22:51:49] [Server thread/INFO]: <Juanton_soup> :c
+[22:51:52] [Server thread/INFO]: <jkGold> wait what thing
+[22:51:55] [Server thread/INFO]: <Optix570> and we gotta protect them
+[22:51:57] [Server thread/INFO]: <Juanton_soup> bad omen
+[22:51:57] [Server thread/INFO]: <jkGold> the achievement thing?
+[22:51:58] [Server thread/INFO]: <Optix570> bad omen buff
+[22:52:08] [Server thread/INFO]: <Juanton_soup> are we killing or protecting
+[22:52:08] [Server thread/INFO]: <jkGold> wait what
+[22:52:10] [Server thread/INFO]: <Optix570> which you get after killing the captain untill you die
+[22:52:13] [Server thread/INFO]: <Juanton_soup> pls protect
+[22:52:15] [Server thread/INFO]: <Optix570> you gotta protect the villagers
+[22:52:17] [Server thread/INFO]: <jkGold> oh i also have that then
+[22:52:19] [Server thread/INFO]: <Optix570> from the evil ppl
+[22:52:20] [Server thread/INFO]: <Optix570> bet
+[22:52:23] [Server thread/INFO]: <Juanton_soup> okey
+[22:52:26] [Server thread/INFO]: <Optix570> it should go away when we get in
+[22:52:28] [Server thread/INFO]: <Optix570> lets gooo
+[22:52:28] [Server thread/INFO]: <jkGold> wait so we kill pillagers
+[22:52:30] [Server thread/INFO]: <Juanton_soup> let's Go
+[22:52:31] [Server thread/INFO]: <Optix570> yes
+[22:52:33] [Server thread/INFO]: <jkGold> and not villagers
+[22:52:36] [Server thread/INFO]: <Optix570> yes'
+[22:52:37] [Server thread/INFO]: <jkGold> cool
+[22:52:48] [Server thread/INFO]: <Optix570> lets go boiss
+[22:52:56] [Server thread/INFO]: <jkGold> raid time
+[22:52:59] [Server thread/INFO]: <Optix570> we have to fight till the bar is empty
+[22:53:06] [Server thread/INFO]: <jkGold> got it
+[22:53:18] [Server thread/INFO]: <Juanton_soup> there's a cat.
+[22:53:50] [Server thread/INFO]: <Optix570> idk how many waves there are lol
+[22:53:53] [Server thread/INFO]: <jkGold> it's going back up
+[22:54:00] [Server thread/INFO]: <jkGold> oh are there multiple waves?
+[22:54:02] [Server thread/INFO]: <Optix570> yeet
+[22:54:26] [Server thread/INFO]: <jkGold> also i got the bad omen banner
+[22:54:33] [Server thread/INFO]: <Optix570> oh
+[22:54:35] [Server thread/INFO]: <Optix570> huh was that it?
+[22:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:54:43] [Server thread/INFO]: <Optix570> also that's just a banner
+[22:54:46] [Server thread/INFO]: <Optix570> bad omen is a buff
+[22:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6816ms or 136 ticks behind
+[22:55:02] [Server thread/INFO]: <jkGold> wait
+[22:55:02] [Server thread/WARN]: Optix570 moved too quickly! -9.81290814208478,-0.6306263397304974,-2.195534667749598
+[22:55:07] [Server thread/INFO]: <jkGold> oh nvm
+[22:55:08] [Server thread/INFO]: <Optix570> oh shit!!!w
+[22:55:13] [Server thread/INFO]: <Optix570> a traveling salesman!
+[22:55:14] [Server thread/INFO]: <jkGold> uh
+[22:55:25] [Server thread/INFO]: <Optix570> maria you'll love this
+[22:55:28] [Server thread/INFO]: <Juanton_soup> whaaaaa
+[22:55:35] [Server thread/INFO]: <Juanton_soup> there are still pillagers
+[22:55:38] [Server thread/INFO]: <Optix570> he just travels around with llamas and sells stuff lmao
+[22:55:39] [Server thread/INFO]: <Optix570> oo where
+[22:55:42] [Server thread/INFO]: <Juanton_soup> idk
+[22:55:47] [Server thread/INFO]: <Juanton_soup> raid still goin on
+[22:56:07] [Server thread/INFO]: <Optix570> huh
+[22:56:20] [Server thread/INFO]: <Juanton_soup> dang i don't have my emeralds
+[22:57:16] [Server thread/INFO]: <jkGold> i heard another horn
+[22:57:24] [Server thread/INFO]: <Optix570> huh
+[22:58:01] [Server thread/INFO]: Juanton_soup has made the advancement [Voluntary Exile]
+[22:58:03] [Server thread/INFO]: <jkGold> damn this game really is different
+[22:58:07] [Server thread/INFO]: <Optix570> fuckfcj'a
+[22:58:35] [Server thread/INFO]: Juanton_soup has completed the challenge [Hero of the Village]
+[22:58:35] [Server thread/INFO]: jkGold has completed the challenge [Hero of the Village]
+[22:58:35] [Server thread/INFO]: Optix570 has completed the challenge [Hero of the Village]
+[22:58:44] [Server thread/INFO]: <Juanton_soup> ayyy
+[22:58:45] [Server thread/INFO]: <Optix570> hey lit
+[22:58:47] [Server thread/INFO]: <jkGold> rad
+[22:59:14] [Server thread/INFO]: <jkGold> oh shit they give discounts now
+[22:59:19] [Server thread/INFO]: <Optix570> gang gang
+[22:59:28] [Server thread/INFO]: <Optix570> ignore the fact that we caused it lmao
+[22:59:36] [Server thread/INFO]: <Optix570> also potion stand in here
+[22:59:44] [Server thread/INFO]: <Juanton_soup> villagers can sleep now?
+[22:59:47] [Server thread/INFO]: <Optix570> ye
+[22:59:51] [Server thread/INFO]: <Juanton_soup> wow
+[22:59:53] [Server thread/INFO]: <Optix570> to wake them you gotta ring the bell
+[22:59:58] [Server thread/INFO]: <jkGold> wait can i get the potion stand
+[23:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[23:00:08] [Server thread/INFO]: <jkGold> like do i need to pickaxe it or smthing
+[23:00:16] [Server thread/INFO]: <Optix570> prob
+[23:00:32] [Server thread/INFO]: <jkGold> well i got it
+[23:00:42] [Server thread/INFO]: <Optix570> nice
+[23:00:55] [Server thread/INFO]: <jkGold> should we go back to temp base
+[23:01:00] [Server thread/INFO]: <Optix570> sure
+[23:01:13] [Server thread/INFO]: <jkGold> also
+[23:01:16] [Server thread/INFO]: <jkGold> can we take the bell
+[23:01:20] [Server thread/INFO]: <Optix570> lmao
+[23:01:21] [Server thread/INFO]: <jkGold> i kinda want a bell
+[23:01:22] [Server thread/INFO]: <Optix570> if you want
+[23:01:29] [Server thread/INFO]: <Optix570> but its used for villagers
+[23:01:38] [Server thread/INFO]: <jkGold> yeah but
+[23:01:40] [Server thread/INFO]: <jkGold> i want it
+[23:01:47] [Server thread/INFO]: <Juanton_soup> o they have an iron golem!
+[23:02:05] [Server thread/INFO]: <Optix570> i heard that
+[23:03:16] [Server thread/INFO]: <jkGold> ohhhh i get how crossbows work now
+[23:03:22] [Server thread/INFO]: <Optix570> mariaaa
+[23:03:27] [Server thread/INFO]: <Juanton_soup> oopa
+[23:04:39] [Server thread/INFO]: <Optix570> woah i got an arrow of slownes
+[23:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3533ms or 70 ticks behind
+[23:05:15] [Server thread/INFO]: <jkGold> oh hey ender boi
+[23:05:40] [Server thread/INFO]: <Optix570> mariaaa
+[23:05:43] [Server thread/INFO]: <Juanton_soup> yes
+[23:05:47] [Server thread/INFO]: <Optix570> ...
+[23:05:47] [Server thread/INFO]: <jkGold> what happened
+[23:05:51] [Server thread/INFO]: <Optix570> do you need help?
+[23:05:53] [Server thread/INFO]: <Juanton_soup> hi
+[23:05:54] [Server thread/INFO]: <Juanton_soup> yes
+[23:06:07] [Server thread/INFO]: <Optix570> jake i dont have a pick
+[23:06:14] [Server thread/INFO]: <jkGold> hold on
+[23:06:17] [Server thread/INFO]: <Juanton_soup> nvm
+[23:07:17] [Server thread/INFO]: <Optix570> lmao you can bounce on beds
+[23:07:38] [Server thread/INFO]: <jkGold> oh nice
+[23:09:48] [Server thread/INFO]: <Optix570> i got a cookie!
+[23:09:53] [Server thread/INFO]: <Optix570> randomly from a villager
+[23:09:56] [Server thread/INFO]: <Juanton_soup> awww
+[23:09:58] [Server thread/INFO]: <jkGold> nice
+[23:09:58] [Server thread/INFO]: <Juanton_soup> coot!
+[23:10:13] [Server thread/WARN]: jkGold moved too quickly! -3.2454103799450422,0.0,9.65017518757054
+[23:10:13] [Server thread/WARN]: Juanton_soup moved too quickly! 8.648257446372554,0.41999998688697815,5.081946170300398
+[23:10:13] [Server thread/INFO]: <jkGold> oh shiit
+[23:10:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4327ms or 86 ticks behind
+[23:10:17] [Server thread/INFO]: <jkGold> i hit the golem
+[23:10:21] [Server thread/INFO]: <jkGold> by accident
+[23:10:23] [Server thread/INFO]: <Optix570> rip
+[23:10:26] [Server thread/INFO]: <Juanton_soup> rip
+[23:10:27] [Server thread/INFO]: <Optix570> did you lose your buff
+[23:10:36] [Server thread/INFO]: <jkGold> what bug
+[23:10:38] [Server thread/INFO]: <jkGold> buff
+[23:10:41] [Server thread/INFO]: <Optix570> hero of the village
+[23:10:45] [Server thread/INFO]: <jkGold> nah
+[23:10:48] [Server thread/INFO]: <Optix570> nice
+[23:10:49] [Server thread/INFO]: <jkGold> does it buff you?
+[23:10:51] [Server thread/INFO]: <Optix570> yes
+[23:10:54] [Server thread/INFO]: <jkGold> how
+[23:10:58] [Server thread/INFO]: <Optix570> thats how you get the discounts
+[23:11:03] [Server thread/INFO]: <Optix570> when you win the raid you get it
+[23:11:12] [Server thread/INFO]: <jkGold> oh i thought you meant combat buffs
+[23:11:18] [Server thread/INFO]: <Optix570> well
+[23:11:21] [Server thread/INFO]: <Optix570> theyre almost the same
+[23:11:37] [Server thread/INFO]: <jkGold> wait what does compost thing do
+[23:11:41] [Server thread/INFO]: <Optix570> makes bone meal
+[23:11:45] [Server thread/INFO]: <jkGold> oh niceeee
+[23:11:55] [Server thread/INFO]: <jkGold> should we go back to temp base
+[23:12:25] [Server thread/INFO]: <Optix570> sure
+[23:12:33] [Server thread/INFO]: <Juanton_soup> oh i got
+[23:12:36] [Server thread/INFO]: <Juanton_soup> pumkin pie
+[23:12:54] [Server thread/INFO]: <Juanton_soup> anyone got wheat
+[23:12:56] [Server thread/INFO]: <Juanton_soup> or carrots
+[23:13:06] [Server thread/INFO]: <Optix570> maria there are literally hay bales
+[23:13:09] [Server thread/INFO]: <jkGold> that's what i was getting
+[23:13:40] [Server thread/INFO]: jkGold has made the advancement [What a Deal!]
+[23:14:16] [Server thread/INFO]: <jkGold> i got blue ice block
+[23:14:20] [Server thread/INFO]: <Optix570> why tho
+[23:14:25] [Server thread/INFO]: <jkGold> bc it's cool
+[23:14:33] [Server thread/INFO]: <jkGold> oh i just got a pumpkin pie
+[23:14:34] [Server thread/INFO]: <Juanton_soup> i got the coral
+[23:14:38] [Server thread/INFO]: <jkGold> that was sweet
+[23:15:16] [Server thread/WARN]: Juanton_soup moved too quickly! 8.706243594709576,0.48249998688697815,-5.815797854573702
+[23:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[23:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
+[23:20:45] [Server thread/INFO]: <jkGold> wait i got a nautilis shell
+[23:20:49] [Server thread/INFO]: <Juanton_soup> what's that
+[23:20:52] [Server thread/INFO]: <jkGold> is that rare
+[23:21:00] [Server thread/INFO]: <jkGold> idk
+[23:21:05] [Server thread/INFO]: <jkGold> but it seems rare?
+[23:21:05] [Server thread/INFO]: jkGold has made the advancement [Fishy Business]
+[23:21:46] [Server thread/INFO]: <jkGold> aii i'm getting moderately bored in this village
+[23:21:56] [Server thread/INFO]: <Juanton_soup> wait i wanna tame cat
+[23:22:14] [Server thread/INFO]: <Optix570> maria you already have so many cats
+[23:22:19] [Server thread/INFO]: <Juanton_soup> only have oneee
+[23:22:21] [Server thread/INFO]: <jkGold> i have zero cats
+[23:22:28] [Server thread/INFO]: <jkGold> but i do have a dog named ricardo
+[23:22:35] [Server thread/INFO]: <jkGold> and he's p good
+[23:23:46] [Server thread/INFO]: <Juanton_soup> eh i'm over it
+[23:23:48] [Server thread/INFO]: <Juanton_soup> ake me back
+[23:23:59] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[23:24:26] [Server thread/INFO]: <jkGold> wait can we wait until tomorrow so i can get more emeralds
+[23:25:25] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[23:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[23:26:10] [Server thread/INFO]: <Juanton_soup> can i get to the compund
+[23:26:17] [Server thread/INFO]: <Juanton_soup> jake we have a village literally right next to us
+[23:26:22] [Server thread/INFO]: <jkGold> wait we still have stuff at temp base
+[23:26:26] [Server thread/INFO]: <jkGold> yeah that's fine
+[23:26:36] [Server thread/INFO]: <jkGold> wait aren't those villagers all dead
+[23:26:46] [Server thread/INFO]: <Juanton_soup> no?
+[23:26:54] [Server thread/INFO]: <jkGold> oh they were when i played
+[23:27:05] [Server thread/INFO]: <Juanton_soup> eli n paky revive them
+[23:27:10] [Server thread/INFO]: <Juanton_soup> now they're all constantly fucking
+[23:27:24] [Server thread/INFO]: <jkGold> nice
+[23:27:26] [Server thread/INFO]: <jkGold> is eli here
+[23:27:33] [Server thread/INFO]: <Optix570> yes
+[23:29:10] [Server thread/INFO]: <jkGold> where is everyone
+[23:29:13] [Server thread/INFO]: <jkGold> help
+[23:29:18] [Server thread/INFO]: <jkGold> i'm alone and afraid
+[23:29:23] [Server thread/INFO]: [Optix570: Teleported jkGold to Juanton_soup]
+[23:29:29] [Server thread/INFO]: <jkGold> oh cool
+[23:29:49] [Server thread/INFO]: <jkGold> are there still pillagers
+[23:29:54] [Server thread/INFO]: <jkGold> yes
+[23:29:56] [Server thread/INFO]: <jkGold> yes there are
+[23:30:01] [Server thread/INFO]: <Juanton_soup> oo hat man
+[23:30:02] [Server thread/INFO]: <jkGold> and there's another hat boy
+[23:30:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3891ms or 77 ticks behind
+[23:30:49] [Server thread/INFO]: Juanton_soup was shot by Pillager
+[23:30:55] [Server thread/INFO]: <Juanton_soup> whelp
+[23:30:57] [Server thread/INFO]: <Juanton_soup> i tried
+[23:31:03] [Server thread/INFO]: <Juanton_soup> cn someone grab my stuff
+[23:31:27] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[23:31:27] [Server thread/WARN]: Juanton_soup moved too quickly! -4035.190086792738,8.0,-1314.0799469680508
+[23:32:09] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[23:32:09] [Server thread/INFO]: Juanton_soup left the game
+[23:33:33] [Server thread/INFO]: [Optix570: Teleported Optix570 to -686.5, 63.0, 314.5]
+[23:33:33] [Server thread/WARN]: Optix570 moved too quickly! 3520.170737490973,-12.0,1333.8722823301218
+[23:34:56] [Server thread/INFO]: <jkGold> uh i afked
+[23:34:58] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[23:35:00] [Server thread/INFO]: <jkGold> where are we
+[23:35:02] [Server thread/INFO]: <jkGold> what's the move
+[23:35:05] [Server thread/INFO]: <Optix570> smol left
+[23:35:07] [Server thread/INFO]: <jkGold> oh
+[23:35:07] [Server thread/INFO]: <Optix570> grab the stuff
+[23:35:10] [Server thread/INFO]: <jkGold> i might also leave
+[23:35:11] [Server thread/INFO]: <Optix570> we're pulling out
+[23:35:17] [Server thread/INFO]: <jkGold> there's too much for me to grab
+[23:35:19] [Server thread/INFO]: <Optix570> grab all you can carry
+[23:35:22] [Server thread/INFO]: <jkGold> might be better for me to log off here
+[23:35:22] [Server thread/INFO]: <Optix570> and the best stuff
+[23:35:34] [Server thread/WARN]: Optix570 moved too quickly! 8.122675700250284,3.3749974956313338,5.477812604091582
+[23:35:34] [Server thread/INFO]: <Optix570> well
+[23:35:34] [Server thread/INFO]: <Optix570> fair
+[23:35:34] [Server thread/INFO]: <jkGold> so we can just get it back next time we play
+[23:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6064ms or 121 ticks behind
+[23:35:45] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[23:35:45] [Server thread/INFO]: <jkGold> rad
+[23:35:49] [Server thread/INFO]: jkGold lost connection: Disconnected
+[23:35:49] [Server thread/INFO]: jkGold left the game
+[23:38:08] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[23:38:08] [Server thread/INFO]: Optix570 left the game
+[23:38:12] [Server thread/INFO]: Unknown command
+[23:38:12] [Server thread/INFO]: exit<--[HERE]
+[23:38:19] [Server thread/INFO]: Unknown command
+[23:38:19] [Server thread/INFO]: quit<--[HERE]
+[23:38:20] [Server thread/INFO]: Unknown command
+[23:38:20] [Server thread/INFO]: close<--[HERE]
+[23:38:23] [Server thread/INFO]: Stopping server
+[23:38:23] [Server thread/INFO]: Saving players
+[23:38:23] [Server thread/INFO]: Saving worlds
+[23:38:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:38:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:38:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
