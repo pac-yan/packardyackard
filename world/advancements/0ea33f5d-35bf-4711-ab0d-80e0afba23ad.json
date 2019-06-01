@@ -749,6 +749,7 @@
       "minecraft:cave_spider": "2018-03-21 22:50:26 -0400",
       "minecraft:silverfish": "2018-03-17 14:37:00 -0400",
       "minecraft:enderman": "2018-03-17 18:38:41 -0400",
+      "minecraft:stray": "2019-06-01 00:20:16 -0400",
       "minecraft:zombie": "2018-03-16 21:13:27 -0400",
       "minecraft:drowned": "2019-05-23 21:46:15 -0400",
       "minecraft:zombie_villager": "2018-03-21 21:57:30 -0400"
@@ -866,6 +867,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2019-05-23 21:37:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2019-05-31 23:45:23 -0400"
     },
     "done": true
   },
@@ -1404,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2019-05-31 23:45:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-03-16 21:36:18 -0400"
@@ -1485,6 +1498,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2019-05-25 23:36:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2019-06-01 00:21:32 -0400"
     },
     "done": true
   },
@@ -1726,6 +1745,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2018-06-18 01:26:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-05-31 23:50:27 -0400"
     },
     "done": true
   },
@@ -2134,6 +2159,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2018-03-16 22:48:45 -0400",
+      "minecraft:turtle": "2019-06-01 00:05:10 -0400",
       "minecraft:sheep": "2018-03-16 22:26:37 -0400",
       "minecraft:chicken": "2018-03-22 23:25:02 -0400",
       "minecraft:wolf": "2018-03-31 19:22:22 -0400",
@@ -2753,6 +2779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-05-31 23:45:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-23 22:03:43 -0400"
@@ -2798,6 +2830,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2018-03-16 21:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2019-05-31 23:45:29 -0400"
     },
     "done": true
   },
@@ -3098,6 +3136,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-03-16 22:30:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-06-01 00:05:10 -0400"
     },
     "done": true
   },
