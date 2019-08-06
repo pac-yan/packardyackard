@@ -1,104 +1,76 @@
-[13:14:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:14:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:14:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:14:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:14:49] [Server thread/INFO]: Starting minecraft server version 1.14.1
-[13:14:49] [Server thread/INFO]: Loading properties
-[13:14:49] [Server thread/INFO]: Default game type: SURVIVAL
-[13:14:49] [Server thread/INFO]: Generating keypair
-[13:14:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:14:50] [Server thread/INFO]: Using default channel type
-[13:14:51] [Server thread/INFO]: Preparing level "world"
-[13:14:51] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:14:52] [Server thread/INFO]: Loaded 6 recipes
-[13:14:52] [Server thread/INFO]: Loaded 811 advancements
-[13:14:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:14:53] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:14:53] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:14:54] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:14:54] [Server-Worker-4/INFO]: Preparing spawn area: 4%
-[13:14:55] [Server-Worker-3/INFO]: Preparing spawn area: 19%
-[13:14:55] [Server-Worker-5/INFO]: Preparing spawn area: 49%
-[13:14:58] [Server-Worker-6/INFO]: Preparing spawn area: 51%
-[13:14:58] [Server-Worker-6/INFO]: Preparing spawn area: 51%
-[13:14:58] [Server-Worker-7/INFO]: Preparing spawn area: 51%
-[13:14:58] [Server-Worker-2/INFO]: Preparing spawn area: 51%
-[13:14:58] [Server-Worker-5/INFO]: Preparing spawn area: 51%
-[13:14:58] [Server-Worker-4/INFO]: Preparing spawn area: 72%
-[13:14:59] [Server-Worker-4/INFO]: Preparing spawn area: 80%
-[13:15:00] [Server thread/INFO]: Time elapsed: 7210 ms
-[13:15:00] [Server thread/INFO]: Done (9.175s)! For help, type "help"
-[13:16:19] [User Authenticator #1/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
-[13:16:19] [Server thread/INFO]: Optix570[/127.0.0.1:52099] logged in with entity id 357 at (-222.31560937424322, 65.0, 227.92068687385793)
-[13:16:19] [Server thread/INFO]: Optix570 joined the game
-[13:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15685ms or 313 ticks behind
-[13:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[13:20:20] [Server thread/WARN]: Optix570 moved too quickly! -2.7827842848871,0.9663680416412177,-9.592258628777813
-[13:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
-[13:20:52] [Server thread/INFO]: [@: Teleported Optix570 to 2078.5, 69.0, 1326.5]
-[13:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
-[13:21:21] [Server thread/INFO]: [@: Teleported Optix570 to -222.5, 65.0, 227.5]
-[13:24:07] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[13:29:39] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[13:30:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4310ms or 86 ticks behind
-[13:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3782ms or 75 ticks behind
-[13:35:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
-[13:42:55] [Server thread/INFO]: Optix570 has completed the challenge [Return to Sender]
-[13:52:04] [Server thread/INFO]: Optix570 was fireballed by Ghast
-[13:52:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
-[13:55:05] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[13:55:18] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[13:55:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
-[14:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[14:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
-[14:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
-[14:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
-[14:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
-[14:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3752ms or 75 ticks behind
-[14:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
-[14:42:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[14:45:29] [Server thread/WARN]: Fetching addPacket for removed entity
-[14:50:51] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[15:05:55] [Server thread/INFO]: [Optix570: Set the time to 1000]
-[15:08:44] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[15:08:47] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[15:10:32] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[15:12:07] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[15:12:20] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[15:12:49] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[15:13:28] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[15:15:16] [Server thread/INFO]: Optix570 has made the advancement [What a Deal!]
-[15:16:05] [Server thread/WARN]: Optix570 moved too quickly! 8.566893286735763,0.07672910437692337,5.372141459209075
-[15:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
-[15:49:20] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[15:49:31] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[16:05:18] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[16:05:29] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[16:17:19] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[16:17:34] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[16:35:58] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[16:36:05] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[17:34:09] [Server thread/WARN]: Fetching addPacket for removed entity
-[17:59:25] [Server thread/INFO]: Optix570 hit the ground too hard whilst trying to escape Skeleton
-[18:00:11] [Server thread/INFO]: Optix570 was shot by Skeleton
-[19:17:49] [Server thread/INFO]: Optix570 was slain by Zombie
-[20:31:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[20:38:29] [Server thread/INFO]: Optix570 was slain by Ravager
-[20:46:51] [Server thread/WARN]: Fetching addPacket for removed entity
-[20:46:52] [Server thread/WARN]: Fetching addPacket for removed entity
-[20:46:52] [Server thread/WARN]: Fetching addPacket for removed entity
-[20:52:17] [Server thread/INFO]: Optix570 has made the advancement [The Parrots and the Bats]
-[22:35:09] [Server thread/INFO]: Optix570 lost connection: Disconnected
-[22:35:09] [Server thread/INFO]: Optix570 left the game
-[22:35:22] [Server thread/INFO]: Stopping server
-[22:35:22] [Server thread/INFO]: Saving players
-[22:35:22] [Server thread/INFO]: Saving worlds
-[22:35:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:35:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:35:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:35:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:05:15] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Optix570]
+[00:05:36] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
+[00:05:36] [Server thread/WARN]: Optix570 moved too quickly! 119.91386881259177,-8.0,-26.96194253414069
+[00:05:56] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Juanton_soup]
+[00:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[00:09:43] [Server thread/INFO]: Juanton_soup was slain by Cave Spider
+[00:09:55] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[00:11:55] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
+[00:12:28] [Server thread/INFO]: Juanton_soup was slain by Zombie
+[00:14:02] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[00:14:02] [Server thread/WARN]: Juanton_soup moved too quickly! 3831.271576917343,-59.0,2112.6442302049013
+[00:15:12] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Juanton_soup]
+[00:17:06] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
+[00:17:06] [Server thread/WARN]: Optix570 moved too quickly! 29.563319378276447,6.0,-36.127027873730185
+[00:17:06] [Server thread/WARN]: Optix570 moved too quickly! 29.563319378276447,6.0,-36.127027873730185
+[00:17:48] [Server thread/INFO]: [Optix570: Gave 1 [Iron Axe] to Juanton_soup]
+[00:17:52] [Server thread/INFO]: [Optix570: Gave 1 [Iron Pickaxe] to Juanton_soup]
+[00:18:50] [Server thread/INFO]: [Optix570: Gave 64 [Baked Potato] to Juanton_soup]
+[00:19:30] [Server thread/INFO]: Juanton_soup was slain by Zombie
+[00:19:42] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[00:19:42] [Server thread/WARN]: Juanton_soup moved too quickly! 3854.7686009670188,-41.0625,2123.519324920761
+[00:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
+[00:25:19] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[00:25:19] [Server thread/INFO]: Juanton_soup left the game
+[00:25:23] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Optix570]
+[00:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
+[00:38:17] [Server thread/INFO]: [Optix570: Gave 63 [Torch] to Optix570]
+[01:05:56] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Optix570]
+[01:06:09] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
+[01:16:02] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
+[01:17:09] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[01:17:16] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[01:20:31] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
+[01:23:47] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
+[01:31:36] [Server thread/WARN]: Optix570 moved too quickly! -0.0801589355573924,0.0,10.10102123667184
+[01:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[01:35:21] [Server thread/INFO]: [Optix570: Teleported Optix570 to -221.5, 65.0, 227.5]
+[01:35:21] [Server thread/WARN]: Optix570 moved too quickly! -3832.792108817231,45.0,-2174.396030651088
+[01:38:39] [Server thread/INFO]: [Optix570: Teleported Optix570 to 3612.5, 18.0, 2406.5]
+[01:38:39] [Server thread/WARN]: Optix570 moved too quickly! 3833.237012757752,-48.0,2191.1765799941895
+[01:38:39] [Server thread/WARN]: Optix570 moved too quickly! 3833.237012757752,-48.0,2191.1765799941895
+[01:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:39:28] [Server thread/INFO]: [Optix570: Teleported Optix570 to -221.5, 65.0, 227.5]
+[01:39:28] [Server thread/WARN]: Optix570 moved too quickly! -3834.1923405683037,47.0,-2176.980170926002
+[01:39:28] [Server thread/WARN]: Optix570 moved too quickly! -3834.1923405683037,47.0,-2176.980170926002
+[01:44:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:44:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:44:19] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:44:19] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:46:23] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[01:46:31] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[02:04:58] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:04:58] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:09:07] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[02:10:14] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[02:14:05] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[02:50:35] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[02:50:35] [Server thread/INFO]: Optix570 left the game
+[02:50:52] [Server thread/INFO]: Unknown command
+[02:50:52] [Server thread/INFO]: quit<--[HERE]
+[02:50:54] [Server thread/INFO]: Unknown command
+[02:50:54] [Server thread/INFO]: exit<--[HERE]
+[02:50:56] [Server thread/INFO]: Unknown command
+[02:50:56] [Server thread/INFO]: close<--[HERE]
+[02:50:58] [Server thread/INFO]: Stopping server
+[02:50:58] [Server thread/INFO]: Saving players
+[02:50:58] [Server thread/INFO]: Saving worlds
+[02:50:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:50:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:50:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

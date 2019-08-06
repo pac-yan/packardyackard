@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2019-08-05 22:37:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2018-03-24 20:35:56 -0400"
@@ -368,6 +374,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2018-03-21 02:58:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wooden_fences": "2019-08-05 23:30:39 -0400"
     },
     "done": true
   },
@@ -1087,6 +1099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2019-08-05 22:37:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2018-03-21 01:31:13 -0400"
@@ -1125,11 +1143,13 @@
       "minecraft:birch_forest": "2018-03-16 21:40:29 -0400",
       "minecraft:jungle_hills": "2018-03-28 00:38:02 -0400",
       "minecraft:snowy_beach": "2018-03-30 21:19:12 -0400",
+      "minecraft:deep_lukewarm_ocean": "2019-08-05 23:11:17 -0400",
       "minecraft:badlands": "2018-03-17 15:23:00 -0400",
       "minecraft:savanna_plateau": "2018-04-06 00:31:57 -0400",
       "minecraft:beach": "2018-03-16 21:11:39 -0400",
       "minecraft:dark_forest": "2018-04-06 00:45:49 -0400",
       "minecraft:river": "2018-03-16 21:21:12 -0400",
+      "minecraft:lukewarm_ocean": "2019-08-05 23:11:11 -0400",
       "minecraft:snowy_taiga": "2018-03-27 00:19:18 -0400",
       "minecraft:birch_forest_hills": "2018-03-16 23:50:45 -0400",
       "minecraft:wooded_mountains": "2018-03-16 23:15:11 -0400",
@@ -2077,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2019-08-05 22:37:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-06-18 01:27:14 -0400"
@@ -2398,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-08-05 22:54:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2018-03-17 17:05:16 -0400"
@@ -2497,6 +2529,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-03-16 23:32:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2019-08-05 22:37:04 -0400"
     },
     "done": true
   },
