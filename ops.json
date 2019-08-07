@@ -10,5 +10,11 @@
     "name": "tedzack",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "edd79b0f-8a46-46a8-9054-8cc37aa584e4",
+    "name": "Juanton_soup",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

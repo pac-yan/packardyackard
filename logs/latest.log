@@ -1,76 +1,46 @@
-[00:05:15] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Optix570]
-[00:05:36] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
-[00:05:36] [Server thread/WARN]: Optix570 moved too quickly! 119.91386881259177,-8.0,-26.96194253414069
-[00:05:56] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Juanton_soup]
-[00:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
-[00:09:43] [Server thread/INFO]: Juanton_soup was slain by Cave Spider
-[00:09:55] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
-[00:11:55] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
-[00:12:28] [Server thread/INFO]: Juanton_soup was slain by Zombie
-[00:14:02] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
-[00:14:02] [Server thread/WARN]: Juanton_soup moved too quickly! 3831.271576917343,-59.0,2112.6442302049013
-[00:15:12] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Juanton_soup]
-[00:17:06] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
-[00:17:06] [Server thread/WARN]: Optix570 moved too quickly! 29.563319378276447,6.0,-36.127027873730185
-[00:17:06] [Server thread/WARN]: Optix570 moved too quickly! 29.563319378276447,6.0,-36.127027873730185
-[00:17:48] [Server thread/INFO]: [Optix570: Gave 1 [Iron Axe] to Juanton_soup]
-[00:17:52] [Server thread/INFO]: [Optix570: Gave 1 [Iron Pickaxe] to Juanton_soup]
-[00:18:50] [Server thread/INFO]: [Optix570: Gave 64 [Baked Potato] to Juanton_soup]
-[00:19:30] [Server thread/INFO]: Juanton_soup was slain by Zombie
-[00:19:42] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
-[00:19:42] [Server thread/WARN]: Juanton_soup moved too quickly! 3854.7686009670188,-41.0625,2123.519324920761
-[00:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
-[00:25:19] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
-[00:25:19] [Server thread/INFO]: Juanton_soup left the game
-[00:25:23] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Optix570]
-[00:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
-[00:38:17] [Server thread/INFO]: [Optix570: Gave 63 [Torch] to Optix570]
-[01:05:56] [Server thread/INFO]: [Optix570: Gave 64 [Torch] to Optix570]
-[01:06:09] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
-[01:16:02] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
-[01:17:09] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[01:17:16] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[01:20:31] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
-[01:23:47] [Server thread/INFO]: [Optix570: Gave 64 [Cobblestone] to Optix570]
-[01:31:36] [Server thread/WARN]: Optix570 moved too quickly! -0.0801589355573924,0.0,10.10102123667184
-[01:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
-[01:35:21] [Server thread/INFO]: [Optix570: Teleported Optix570 to -221.5, 65.0, 227.5]
-[01:35:21] [Server thread/WARN]: Optix570 moved too quickly! -3832.792108817231,45.0,-2174.396030651088
-[01:38:39] [Server thread/INFO]: [Optix570: Teleported Optix570 to 3612.5, 18.0, 2406.5]
-[01:38:39] [Server thread/WARN]: Optix570 moved too quickly! 3833.237012757752,-48.0,2191.1765799941895
-[01:38:39] [Server thread/WARN]: Optix570 moved too quickly! 3833.237012757752,-48.0,2191.1765799941895
-[01:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[01:39:28] [Server thread/INFO]: [Optix570: Teleported Optix570 to -221.5, 65.0, 227.5]
-[01:39:28] [Server thread/WARN]: Optix570 moved too quickly! -3834.1923405683037,47.0,-2176.980170926002
-[01:39:28] [Server thread/WARN]: Optix570 moved too quickly! -3834.1923405683037,47.0,-2176.980170926002
-[01:44:18] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:44:18] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:44:19] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:44:19] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:46:23] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[01:46:31] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[02:04:58] [Server thread/WARN]: Fetching addPacket for removed entity
-[02:04:58] [Server thread/WARN]: Fetching addPacket for removed entity
-[02:09:07] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[02:10:14] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[02:14:05] [Server thread/INFO]: [Optix570: Set the time to 1000]
-[02:50:35] [Server thread/INFO]: Optix570 lost connection: Disconnected
-[02:50:35] [Server thread/INFO]: Optix570 left the game
-[02:50:52] [Server thread/INFO]: Unknown command
-[02:50:52] [Server thread/INFO]: quit<--[HERE]
-[02:50:54] [Server thread/INFO]: Unknown command
-[02:50:54] [Server thread/INFO]: exit<--[HERE]
-[02:50:56] [Server thread/INFO]: Unknown command
-[02:50:56] [Server thread/INFO]: close<--[HERE]
-[02:50:58] [Server thread/INFO]: Stopping server
-[02:50:58] [Server thread/INFO]: Saving players
-[02:50:58] [Server thread/INFO]: Saving worlds
-[02:50:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[02:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:50:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:50:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:03:20] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[00:22:26] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:40:35] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:46:14] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[00:50:33] [Server thread/WARN]: Optix570 moved too quickly! -10.333102281924369,1.0013359791121417,0.5186170038587363
+[00:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[01:01:46] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:06:51] [User Authenticator #2/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[01:06:51] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53750] logged in with entity id 248345 at (3610.7785814543863, 19.0, 2402.655183810559)
+[01:06:51] [Server thread/INFO]: Juanton_soup joined the game
+[01:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[01:06:59] [Server thread/INFO]: <Optix570> hi
+[01:07:06] [Server thread/INFO]: <Optix570> idk
+[01:08:53] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[01:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4584ms or 91 ticks behind
+[01:40:33] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:45:14] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[01:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[01:50:48] [Server thread/WARN]: Optix570 moved too quickly! 10.169780412291914,-0.4641593749554431,0.39023805300664094
+[01:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:54:59] [Server thread/INFO]: [Optix570: Set the time to 1000]
+[01:55:12] [Server thread/INFO]: [Optix570: Made Juanton_soup a server operator]
+[02:04:33] [Server thread/INFO]: <Juanton_soup> time set day
+[02:04:46] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[02:05:11] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[02:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02:05:54] [Server thread/WARN]: Juanton_soup moved too quickly! 7.1741440951153095,1.0,7.02096756294366
+[02:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5844ms or 116 ticks behind
+[02:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[02:07:23] [Server thread/INFO]: [Optix570: Gave 1 [Diamond Sword] to Optix570]
+[02:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:14:37] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[02:16:01] [Server thread/WARN]: Optix570 moved too quickly! -1.7640807920386123,0.19484769777817235,-10.47925733161901
+[02:16:14] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[02:18:00] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[02:18:00] [Server thread/INFO]: Optix570 left the game
+[02:19:22] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[02:20:45] [Server thread/INFO]: Juanton_soup has made the advancement [Hot Stuff]
+[02:28:34] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[02:37:11] [Server thread/INFO]: Juanton_soup has made the advancement [The Parrots and the Bats]
+[02:38:15] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[02:47:59] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[02:47:59] [Server thread/INFO]: Juanton_soup left the game
+[06:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10799172ms or 215983 ticks behind
+[08:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7640798ms or 152815 ticks behind
