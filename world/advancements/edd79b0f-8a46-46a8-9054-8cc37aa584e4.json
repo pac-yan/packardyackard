@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-08-07 21:48:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-03-16 23:25:07 -0400"
@@ -1727,6 +1733,7 @@
       "cookie": "2018-03-28 20:57:58 -0400",
       "suspicious_stew": "2019-07-28 18:30:55 -0400",
       "salmon": "2019-05-23 21:38:20 -0400",
+      "dried_kelp": "2019-08-07 23:20:01 -0400",
       "melon_slice": "2019-05-23 22:30:38 -0400",
       "beetroot": "2018-03-17 13:31:06 -0400",
       "golden_carrot": "2018-04-06 02:41:58 -0400",
@@ -1827,6 +1834,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-03-16 23:32:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2019-08-07 21:42:59 -0400"
     },
     "done": true
   },
@@ -2112,6 +2125,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2019-05-23 19:04:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2019-08-07 21:48:07 -0400"
     },
     "done": true
   },

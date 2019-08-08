@@ -1,46 +1,269 @@
-[00:03:20] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[00:22:26] [Server thread/WARN]: Fetching addPacket for removed entity
-[00:40:35] [Server thread/WARN]: Fetching addPacket for removed entity
-[00:46:14] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[00:50:33] [Server thread/WARN]: Optix570 moved too quickly! -10.333102281924369,1.0013359791121417,0.5186170038587363
-[00:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[01:01:46] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:06:51] [User Authenticator #2/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
-[01:06:51] [Server thread/INFO]: Juanton_soup[/100.33.137.165:53750] logged in with entity id 248345 at (3610.7785814543863, 19.0, 2402.655183810559)
-[01:06:51] [Server thread/INFO]: Juanton_soup joined the game
-[01:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
-[01:06:59] [Server thread/INFO]: <Optix570> hi
-[01:07:06] [Server thread/INFO]: <Optix570> idk
-[01:08:53] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
-[01:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4584ms or 91 ticks behind
-[01:40:33] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:45:14] [Server thread/INFO]: [Optix570: Set the time to 1000]
-[01:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
-[01:50:48] [Server thread/WARN]: Optix570 moved too quickly! 10.169780412291914,-0.4641593749554431,0.39023805300664094
-[01:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:54:59] [Server thread/INFO]: [Optix570: Set the time to 1000]
-[01:55:12] [Server thread/INFO]: [Optix570: Made Juanton_soup a server operator]
-[02:04:33] [Server thread/INFO]: <Juanton_soup> time set day
-[02:04:46] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
-[02:05:11] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
-[02:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[02:05:54] [Server thread/WARN]: Juanton_soup moved too quickly! 7.1741440951153095,1.0,7.02096756294366
-[02:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5844ms or 116 ticks behind
-[02:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[02:07:23] [Server thread/INFO]: [Optix570: Gave 1 [Diamond Sword] to Optix570]
-[02:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:14:37] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
-[02:16:01] [Server thread/WARN]: Optix570 moved too quickly! -1.7640807920386123,0.19484769777817235,-10.47925733161901
-[02:16:14] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
-[02:18:00] [Server thread/INFO]: Optix570 lost connection: Disconnected
-[02:18:00] [Server thread/INFO]: Optix570 left the game
-[02:19:22] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
-[02:20:45] [Server thread/INFO]: Juanton_soup has made the advancement [Hot Stuff]
-[02:28:34] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
-[02:37:11] [Server thread/INFO]: Juanton_soup has made the advancement [The Parrots and the Bats]
-[02:38:15] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
-[02:47:59] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
-[02:47:59] [Server thread/INFO]: Juanton_soup left the game
-[06:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10799172ms or 215983 ticks behind
-[08:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7640798ms or 152815 ticks behind
+[21:27:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:27:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:27:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:27:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:27:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:27:31] [Server thread/INFO]: Starting minecraft server version 1.14.1
+[21:27:31] [Server thread/INFO]: Loading properties
+[21:27:31] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:31] [Server thread/INFO]: Generating keypair
+[21:27:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:31] [Server thread/INFO]: Using default channel type
+[21:27:33] [Server thread/INFO]: Preparing level "world"
+[21:27:33] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:27:35] [Server thread/INFO]: Loaded 6 recipes
+[21:27:36] [Server thread/INFO]: Loaded 811 advancements
+[21:27:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:36] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:27:37] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:27:37] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:27:38] [Server-Worker-3/INFO]: Preparing spawn area: 1%
+[21:27:38] [Server-Worker-7/INFO]: Preparing spawn area: 1%
+[21:27:39] [Server-Worker-4/INFO]: Preparing spawn area: 2%
+[21:27:49] [Server-Worker-7/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-5/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-2/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-2/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-8/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-5/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-7/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-5/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-5/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-2/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-8/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-5/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-8/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-1/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-4/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-4/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-4/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-7/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-7/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-4/INFO]: Preparing spawn area: 19%
+[21:27:49] [Server-Worker-7/INFO]: Preparing spawn area: 27%
+[21:27:50] [Server-Worker-9/INFO]: Preparing spawn area: 34%
+[21:27:50] [Server-Worker-7/INFO]: Preparing spawn area: 49%
+[21:27:51] [Server-Worker-9/INFO]: Preparing spawn area: 61%
+[21:27:51] [Server-Worker-8/INFO]: Preparing spawn area: 86%
+[21:27:52] [Server-Worker-9/INFO]: Preparing spawn area: 93%
+[21:27:52] [Server-Worker-7/INFO]: Preparing spawn area: 98%
+[21:27:59] [Server thread/INFO]: Time elapsed: 22744 ms
+[21:27:59] [Server thread/INFO]: Done (26.406s)! For help, type "help"
+[21:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[21:28:22] [User Authenticator #1/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:28:22] [Server thread/INFO]: Optix570[/127.0.0.1:52791] logged in with entity id 362 at (-223.4936645567765, 66.0, 219.8988214455969)
+[21:28:22] [Server thread/INFO]: Optix570 joined the game
+[21:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[21:33:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[21:34:34] [User Authenticator #2/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[21:34:34] [Server thread/INFO]: Juanton_soup[/100.33.137.165:61668] logged in with entity id 8777 at (-234.15519467644145, 63.0, 123.15804568392478)
+[21:34:34] [Server thread/INFO]: Juanton_soup joined the game
+[21:35:13] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[21:35:47] [Server thread/INFO]: <Juanton_soup> huggie!
+[21:35:51] [Server thread/INFO]: <Optix570> *huggie*
+[21:36:27] [Server thread/INFO]: <Optix570> :3
+[21:36:46] [Server thread/INFO]: <Juanton_soup> can i steals wheat to trade with village
+[21:36:50] [Server thread/INFO]: <Optix570> yuh
+[21:38:07] [Server thread/WARN]: Juanton_soup moved too quickly! 5.963589320601727,0.7531999805212024,8.349101285506777
+[21:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[21:44:41] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[21:48:45] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[21:48:58] [Server thread/INFO]: <Juanton_soup> henoo
+[21:49:19] [Server thread/INFO]: <Optix570> hewwooo
+[21:49:24] [Server thread/INFO]: <Juanton_soup> what r u doin
+[21:49:35] [Server thread/INFO]: <Optix570> nothin
+[21:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[21:54:56] [Server thread/INFO]: [Optix570: Set the weather to clear]
+[21:58:14] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[21:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
+[21:59:38] [Server thread/INFO]: <Juanton_soup> what r u doin
+[21:59:45] [Server thread/INFO]: <Optix570> farmin trees
+[21:59:48] [Server thread/INFO]: <Optix570> wanna go swimminn
+[21:59:51] [Server thread/INFO]: <Juanton_soup> wao
+[22:00:06] [Server thread/INFO]: <Juanton_soup> dis is a cool aquarium
+[22:00:10] [Server thread/INFO]: <Optix570> yuh
+[22:00:24] [Server thread/INFO]: <Optix570> come here!
+[22:00:29] [Server thread/INFO]: <Juanton_soup> where?
+[22:00:38] [Server thread/INFO]: <Optix570> heree
+[22:01:05] [Server thread/INFO]: <Juanton_soup> turtle frenn
+[22:01:07] [Server thread/INFO]: <Optix570> yuhh
+[22:01:15] [Server thread/INFO]: <Optix570> noo come heree
+[22:01:18] [Server thread/INFO]: <Optix570> lets go swimmin
+[22:01:22] [Server thread/INFO]: <Juanton_soup> okey!
+[22:01:48] [Server thread/INFO]: <Juanton_soup> wao
+[22:01:51] [Server thread/INFO]: <Optix570> you dun need those
+[22:01:52] [Server thread/INFO]: <Optix570> come on
+[22:01:53] [Server thread/INFO]: <Juanton_soup> okey!
+[22:02:04] [Server thread/INFO]: <Juanton_soup> eli what's that
+[22:02:14] [Server thread/INFO]: <Optix570> skeleton ridin a skeleton horse
+[22:02:20] [Server thread/INFO]: <Juanton_soup> why is it underwater
+[22:02:25] [Server thread/INFO]: <Juanton_soup> do you have a spare sword
+[22:02:27] [Server thread/INFO]: <Juanton_soup> wanna kill it
+[22:02:27] [Server thread/INFO]: <Optix570> nuh
+[22:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[22:03:36] [Server thread/INFO]: <Optix570> need saddle
+[22:03:40] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[22:03:47] [Server thread/INFO]: <Juanton_soup> cn i have a sword while you're there
+[22:04:06] [Server thread/INFO]: <Juanton_soup> henoooo
+[22:04:07] [Server thread/INFO]: [Optix570: Gave 1 [Diamond] to Juanton_soup]
+[22:04:09] [Server thread/INFO]: <Optix570> henloo
+[22:04:17] [Server thread/INFO]: <Juanton_soup> das not a swordddd
+[22:04:25] [Server thread/INFO]: <Optix570> whups
+[22:04:35] [Server thread/INFO]: [Optix570: Gave 1 [Diamond Sword] to Juanton_soup]
+[22:04:42] [Server thread/INFO]: <Juanton_soup> wao
+[22:04:48] [Server thread/INFO]: <Juanton_soup> i was gun kill skeleton but u already dids
+[22:04:50] [Server thread/INFO]: <Juanton_soup> ,,,
+[22:04:54] [Server thread/INFO]: <Juanton_soup> horsey fren/?
+[22:05:02] [Server thread/INFO]: <Optix570> yuh
+[22:05:09] [Server thread/INFO]: <Optix570> ride it!
+[22:05:12] [Server thread/INFO]: <Optix570> flushin
+[22:05:16] [Server thread/INFO]: <Optix570> whups
+[22:05:23] [Server thread/INFO]: <Optix570> hehe
+[22:05:36] [Server thread/INFO]: <Juanton_soup> dey r coot
+[22:05:37] [Server thread/INFO]: [Optix570: Gave 1 [Saddle] to Juanton_soup]
+[22:05:42] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[22:05:45] [Server thread/INFO]: <Optix570> yuh
+[22:05:49] [Server thread/INFO]: <Optix570> also notice we r not drownin
+[22:05:51] [Server thread/INFO]: <Optix570> :3
+[22:05:57] [Server thread/INFO]: <Optix570> and we automaticaly has nite vision
+[22:06:02] [Server thread/INFO]: <Juanton_soup> yuhh!! i noticed before
+[22:06:06] [Server thread/INFO]: <Juanton_soup> hwen i was minin. clay
+[22:06:10] [Server thread/INFO]: <Optix570> wao
+[22:06:19] [Server thread/INFO]: <Optix570> dese horses cn go underwater
+[22:06:23] [Server thread/INFO]: <Optix570> should we leave dem here
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:06:53] [Server thread/INFO]: <Juanton_soup> yuh
+[22:06:56] [Server thread/INFO]: <Juanton_soup> i think they like it here
+[22:07:31] [Server thread/INFO]: <Optix570> okey dokey
+[22:07:38] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[22:07:42] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[22:07:51] [Server thread/INFO]: [Optix570: Gave 1 [Lead] to Optix570]
+[22:07:56] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[22:08:05] [Server thread/INFO]: [Optix570: Gave 1 [Acacia Fence] to Optix570]
+[22:08:50] [Server thread/INFO]: <Optix570> where did u goe
+[22:09:14] [Server thread/INFO]: <Juanton_soup> gunnna go trdae
+[22:11:52] [Server thread/INFO]: <Juanton_soup> hug
+[22:11:55] [Server thread/INFO]: <Optix570> hug!
+[22:12:20] [Server thread/INFO]: <Optix570> r u stealin my produce
+[22:12:27] [Server thread/INFO]: <Juanton_soup> just wheat n punkins
+[22:12:36] [Server thread/INFO]: <Optix570> snify
+[22:12:39] [Server thread/INFO]: <Juanton_soup> snify
+[22:12:42] [Server thread/INFO]: <Juanton_soup> am sowwie :
+[22:12:44] [Server thread/INFO]: <Juanton_soup> wan it back?
+[22:12:50] [Server thread/INFO]: <Optix570> no is okey
+[22:12:57] [Server thread/INFO]: <Optix570> we has lottle wheat
+[22:13:03] [Server thread/INFO]: <Optix570> see the hay bales
+[22:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[22:17:29] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[22:20:32] [Server thread/INFO]: <Juanton_soup> hug!
+[22:20:34] [Server thread/INFO]: <Optix570> hug!
+[22:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:26:30] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[22:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[22:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[22:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[22:35:32] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[22:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3231ms or 64 ticks behind
+[22:40:11] [Server thread/INFO]: <Juanton_soup> henoooo
+[22:40:16] [Server thread/INFO]: <Optix570> hai
+[22:45:17] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[22:54:29] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[23:01:02] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:03:24] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[23:08:42] [Server thread/INFO]: <Juanton_soup> i help!
+[23:08:45] [Server thread/INFO]: <Optix570> yuhh
+[23:08:46] [Server thread/INFO]: <Optix570> denks babby
+[23:08:48] [Server thread/INFO]: <Juanton_soup> i put. 1 block.
+[23:08:49] [Server thread/INFO]: <Juanton_soup> c:
+[23:12:35] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[23:12:43] [Server thread/INFO]: [Optix570: Gave 64 [Bone Meal] to Optix570]
+[23:12:49] [Server thread/INFO]: <Juanton_soup> why do u need so many bone
+[23:12:58] [Server thread/INFO]: [Optix570: Gave 64 [Sunflower] to Optix570]
+[23:13:49] [Server thread/INFO]: [@: Teleported Juanton_soup to 2078.5, 69.0, 1326.5]
+[23:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3035ms or 60 ticks behind
+[23:14:18] [Server thread/INFO]: <Juanton_soup> i found a fox
+[23:14:20] [Server thread/INFO]: <Juanton_soup> henlo!
+[23:14:21] [Server thread/INFO]: <Optix570> wao
+[23:14:25] [Server thread/INFO]: <Juanton_soup> cn i tame it?
+[23:14:31] [Server thread/INFO]: <Optix570> idk
+[23:14:34] [Server thread/INFO]: <Juanton_soup> o
+[23:14:34] [Server thread/INFO]: <Optix570> prob not
+[23:14:36] [Server thread/INFO]: <Juanton_soup> das okey
+[23:14:38] [Server thread/INFO]: <Juanton_soup> es doin a sits
+[23:16:12] [Server thread/INFO]: <Optix570> did u take some stone from chests
+[23:18:41] [Server thread/WARN]: Juanton_soup moved too quickly! 6.5544965537765165,-2.750812921255317,-7.187978263989862
+[23:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4596ms or 91 ticks behind
+[23:19:12] [Server thread/INFO]: [@: Teleported Juanton_soup to -222.5, 65.0, 227.5]
+[23:22:10] [Server thread/INFO]: <Juanton_soup> should smol do homework
+[23:22:11] [Server thread/INFO]: <Juanton_soup> lol
+[23:22:22] [Server thread/INFO]: <Optix570> mmm
+[23:22:23] [Server thread/INFO]: <Optix570> prob
+[23:22:24] [Server thread/INFO]: <Optix570> lol
+[23:23:45] [Server thread/INFO]: <Juanton_soup> why am i nyoom
+[23:23:50] [Server thread/INFO]: <Optix570> beacon
+[23:23:57] [Server thread/INFO]: <Juanton_soup> wao
+[23:24:09] [Server thread/INFO]: <Optix570> go outside
+[23:24:40] [Server thread/INFO]: <Juanton_soup> wao
+[23:24:42] [Server thread/INFO]: <Juanton_soup> whas dat
+[23:24:51] [Server thread/INFO]: <Optix570> beacon
+[23:24:57] [Server thread/INFO]: <Juanton_soup> whas it do
+[23:25:01] [Server thread/INFO]: <Optix570> give u stuf
+[23:25:08] [Server thread/INFO]: <Juanton_soup> cool!
+[23:25:15] [Server thread/INFO]: <Optix570> yuh
+[23:25:17] [Server thread/INFO]: <Optix570> gotta pee
+[23:25:19] [Server thread/INFO]: <Optix570> brb
+[23:25:21] [Server thread/INFO]: <Juanton_soup> me too
+[23:27:08] [Server thread/INFO]: [Juanton_soup: Set the time to 1000]
+[23:35:35] [Server thread/INFO]: <Optix570> wub
+[23:35:37] [Server thread/INFO]: <Optix570> m back
+[23:38:02] [Server thread/INFO]: <Optix570> hewwo
+[23:38:07] [Server thread/INFO]: <Juanton_soup> henooo
+[23:39:22] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[23:39:22] [Server thread/INFO]: Optix570 left the game
+[23:39:27] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[23:39:27] [Server thread/INFO]: Juanton_soup left the game
+[23:39:30] [Server thread/INFO]: Stopping server
+[23:39:30] [Server thread/INFO]: Saving players
+[23:39:30] [Server thread/INFO]: Saving worlds
+[23:39:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:39:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:39:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
