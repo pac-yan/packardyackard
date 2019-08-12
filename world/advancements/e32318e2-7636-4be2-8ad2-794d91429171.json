@@ -837,9 +837,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2019-08-12 00:41:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-03-17 18:03:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2019-08-12 00:41:15 -0400"
     },
     "done": true
   },
@@ -973,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2019-08-12 00:41:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-07-28 16:02:01 -0400"
@@ -1102,6 +1120,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2018-03-16 22:45:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2019-08-11 20:24:07 -0400"
     },
     "done": true
   },
@@ -1330,6 +1354,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-05-23 18:46:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2019-08-12 00:41:13 -0400"
     },
     "done": true
   },
@@ -1705,6 +1735,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-03-20 22:04:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2019-08-12 00:41:15 -0400"
     },
     "done": true
   },
@@ -2178,6 +2214,7 @@
       "rotten_flesh": "2018-03-16 21:20:05 -0400",
       "cookie": "2019-07-30 17:54:49 -0400",
       "melon_slice": "2019-05-23 18:33:35 -0400",
+      "beetroot": "2019-08-11 20:21:08 -0400",
       "cooked_chicken": "2018-03-16 21:58:40 -0400",
       "carrot": "2018-03-16 23:45:07 -0400"
     },
@@ -2435,6 +2472,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-04-14 20:49:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2019-08-12 00:41:13 -0400"
     },
     "done": true
   },
