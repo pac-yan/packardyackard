@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-05-23 17:47:01 -0400"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2019-05-25 23:48:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2019-08-20 01:35:47 -0400"
     },
     "done": true
   },
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-08-20 01:40:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-03-16 21:11:51 -0400"
@@ -422,6 +440,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2019-05-23 19:42:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-08-20 01:40:25 -0400"
     },
     "done": true
   },
@@ -446,6 +470,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2018-03-17 00:18:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
     },
     "done": true
   },
@@ -500,6 +530,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2019-08-05 22:09:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-08-20 01:57:55 -0400"
     },
     "done": true
   },
@@ -793,8 +829,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2018-06-18 01:53:46 -0400",
       "minecraft:pillager": "2019-05-23 22:07:56 -0400",
+      "minecraft:blaze": "2018-06-18 01:53:46 -0400",
       "minecraft:skeleton": "2018-03-16 21:38:08 -0400",
       "minecraft:zombie_pigman": "2019-06-05 00:00:48 -0400",
       "minecraft:ravager": "2019-05-23 22:40:51 -0400",
@@ -803,16 +839,16 @@
       "minecraft:magma_cube": "2018-06-18 02:56:10 -0400",
       "minecraft:spider": "2018-03-16 21:38:13 -0400",
       "minecraft:creeper": "2018-03-16 23:45:00 -0400",
-      "minecraft:slime": "2018-03-17 16:29:59 -0400",
       "minecraft:evoker": "2018-04-06 01:13:10 -0400",
+      "minecraft:slime": "2018-03-17 16:29:59 -0400",
       "minecraft:phantom": "2019-05-25 22:57:23 -0400",
       "minecraft:witch": "2018-03-17 15:31:44 -0400",
       "minecraft:wither_skeleton": "2018-06-18 01:54:04 -0400",
       "minecraft:husk": "2018-03-21 02:33:41 -0400",
       "minecraft:shulker": "2019-05-23 22:36:09 -0400",
       "minecraft:cave_spider": "2018-03-17 18:08:50 -0400",
-      "minecraft:enderman": "2018-03-17 15:10:28 -0400",
       "minecraft:stray": "2019-05-23 23:04:28 -0400",
+      "minecraft:enderman": "2018-03-17 15:10:28 -0400",
       "minecraft:zombie": "2018-03-16 21:23:10 -0400",
       "minecraft:drowned": "2019-05-23 21:40:56 -0400",
       "minecraft:zombie_villager": "2018-03-18 20:34:43 -0400"
@@ -924,6 +960,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-03-17 18:07:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-08-20 01:40:22 -0400"
     },
     "done": true
   },
@@ -1225,6 +1267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-08-20 01:40:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2018-03-16 21:10:41 -0400"
@@ -1252,6 +1300,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2018-03-20 21:13:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2019-08-20 01:35:57 -0400"
     },
     "done": true
   },
@@ -1300,6 +1354,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-05-25 23:48:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-08-20 01:40:25 -0400"
     },
     "done": true
   },
@@ -1539,9 +1599,9 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-05-23 21:38:42 -0400",
       "minecraft:snowy_mountains": "2019-08-05 22:58:30 -0400",
-      "minecraft:forest": "2018-03-16 21:23:21 -0400",
-      "minecraft:mountains": "2018-03-17 14:59:34 -0400",
       "minecraft:badlands_plateau": "2018-03-17 15:26:39 -0400",
+      "minecraft:mountains": "2018-03-17 14:59:34 -0400",
+      "minecraft:forest": "2018-03-16 21:23:21 -0400",
       "minecraft:taiga": "2018-03-18 21:13:24 -0400",
       "minecraft:desert_hills": "2018-03-21 02:31:33 -0400",
       "minecraft:deep_cold_ocean": "2019-05-23 21:29:17 -0400",
@@ -1549,15 +1609,18 @@
       "minecraft:taiga_hills": "2019-07-28 16:35:34 -0400",
       "minecraft:desert": "2018-03-21 02:32:09 -0400",
       "minecraft:frozen_river": "2019-05-23 22:04:14 -0400",
+      "minecraft:jungle": "2019-08-20 01:15:25 -0400",
       "minecraft:birch_forest": "2018-03-16 21:40:46 -0400",
+      "minecraft:jungle_hills": "2019-08-20 01:16:52 -0400",
       "minecraft:snowy_beach": "2019-08-05 22:43:18 -0400",
+      "minecraft:bamboo_jungle": "2019-08-20 01:24:37 -0400",
       "minecraft:deep_lukewarm_ocean": "2019-08-05 23:11:17 -0400",
       "minecraft:badlands": "2018-03-17 15:25:40 -0400",
       "minecraft:savanna_plateau": "2018-04-06 00:31:48 -0400",
       "minecraft:beach": "2018-03-17 15:25:22 -0400",
       "minecraft:dark_forest": "2018-04-06 00:45:54 -0400",
-      "minecraft:river": "2018-03-16 21:40:30 -0400",
       "minecraft:lukewarm_ocean": "2019-08-05 23:11:13 -0400",
+      "minecraft:river": "2018-03-16 21:40:30 -0400",
       "minecraft:snowy_taiga": "2019-05-23 22:10:16 -0400",
       "minecraft:birch_forest_hills": "2018-03-17 15:06:23 -0400",
       "minecraft:wooded_mountains": "2018-03-17 14:59:46 -0400",
@@ -1672,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-20 02:00:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-23 17:47:01 -0400"
@@ -1705,6 +1774,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-03-16 22:45:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-08-20 01:40:22 -0400"
     },
     "done": true
   },
@@ -1870,6 +1945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2019-08-20 01:35:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2019-05-23 19:18:52 -0400"
@@ -1915,6 +1996,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2018-03-16 21:47:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2019-08-20 01:35:47 -0400"
     },
     "done": true
   },
@@ -2346,6 +2433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-03-16 21:24:18 -0400"
@@ -2391,6 +2484,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2019-07-28 15:49:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
     },
     "done": true
   },
@@ -2550,6 +2649,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2018-03-16 21:20:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2019-08-20 01:35:57 -0400"
     },
     "done": true
   },
@@ -2961,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-03-16 22:14:29 -0400"
@@ -3138,6 +3249,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-03-16 21:47:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
     },
     "done": true
   },
@@ -3459,6 +3576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2019-08-20 01:35:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2018-03-16 21:10:54 -0400"
@@ -3603,13 +3726,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-08-05 22:28:36 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-08-05 22:28:36 -0400"
     },
@@ -3675,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-08-20 01:29:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2018-03-21 00:51:16 -0400"
@@ -3705,5 +3834,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1976
 }
