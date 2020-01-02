@@ -1,47 +1,44 @@
-[14:52:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:52:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:52:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:52:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:52:55] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[14:52:55] [Server thread/INFO]: Loading properties
-[14:52:55] [Server thread/INFO]: Default game type: SURVIVAL
-[14:52:55] [Server thread/INFO]: Generating keypair
-[14:52:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:52:56] [Server thread/INFO]: Using default channel type
-[14:52:56] [Server thread/INFO]: Preparing level "world"
-[14:52:57] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:52:58] [Server thread/INFO]: Loaded 6 recipes
-[14:52:58] [Server thread/INFO]: Loaded 811 advancements
-[14:52:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:53:01] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:04] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:53:04] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:53:04] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:53:04] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:53:05] [Server thread/INFO]: Preparing spawn area: 55%
-[14:53:05] [Server thread/INFO]: Time elapsed: 5407 ms
-[14:53:05] [Server thread/INFO]: Done (8.424s)! For help, type "help"
-[15:00:57] [User Authenticator #1/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
-[15:00:57] [Server thread/INFO]: Optix570[/127.0.0.1:12962] logged in with entity id 346 at (-53.09397406691854, 60.0, 23.69999998807907)
-[15:00:57] [Server thread/INFO]: Optix570 joined the game
-[15:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
-[15:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
-[16:03:12] [Server thread/INFO]: Optix570 lost connection: Disconnected
-[16:03:12] [Server thread/INFO]: Optix570 left the game
-[16:03:18] [Server thread/INFO]: Stopping server
-[16:03:18] [Server thread/INFO]: Saving players
-[16:03:18] [Server thread/INFO]: Saving worlds
-[16:03:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[16:03:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:03:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[16:03:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:03:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[16:03:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:03:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:03:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:03:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:10:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:10:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:10:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:10:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:10:14] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[21:10:15] [Server thread/INFO]: Loading properties
+[21:10:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:10:15] [Server thread/INFO]: Generating keypair
+[21:10:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:10:15] [Server thread/INFO]: Using default channel type
+[21:10:17] [Server thread/INFO]: Preparing level "world"
+[21:10:17] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:10:17] [Server thread/INFO]: Loaded 6 recipes
+[21:10:18] [Server thread/INFO]: Loaded 811 advancements
+[21:10:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:10:20] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:10:20] [Server thread/INFO]: Preparing spawn area: 64%
+[21:10:20] [Server thread/INFO]: Time elapsed: 1870 ms
+[21:10:20] [Server thread/INFO]: Done (3.858s)! For help, type "help"
+[21:13:05] [User Authenticator #1/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[21:13:05] [Server thread/INFO]: Optix570[/192.168.1.9:18299] logged in with entity id 345 at (-46.69999998807907, 89.26196001738738, 27.25182689468179)
+[21:13:06] [Server thread/INFO]: Optix570 joined the game
+[21:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[21:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[21:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[21:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[22:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[22:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[22:21:35] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[22:21:35] [Server thread/INFO]: Optix570 left the game
+[22:21:41] [Server thread/INFO]: Stopping server
+[22:21:41] [Server thread/INFO]: Saving players
+[22:21:41] [Server thread/INFO]: Saving worlds
+[22:21:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:21:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:21:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:21:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:21:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:21:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:21:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:21:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:21:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
